@@ -1,0 +1,21 @@
+branch_id,nombre_sucursal,ciudad,manager_id,created_at_dt
+9e6574c4-b1bd-43fe-9a5e-9a597ef5333f,Sucursal Navarra,Toledo,ab22dfdf-29e3-41b0-8448-260e0cc33e56,2023-04-04 10:19:49
+5079bf47-91df-413c-ae49-a258811097a6,Sucursal Barcelona,Ceuta,9d173e39-89ab-41a3-b0a7-dc2f377b5c98,2024-06-01 06:15:14
+fc84692e-e5fb-41e2-b2e1-789316f08a9c,Sucursal Baleares,Huelva,792131d0-76a5-4a7a-ab12-7201acdfe535,2024-10-31 21:55:29
+c86c1c1c-dec5-4581-bcd9-91c521062055,Sucursal Granada,Jaén,352df40a-367e-45b2-bbbe-00432b5b6bfb,2025-05-10 10:09:45
+56bc7799-5d69-43ee-955a-60806a6f690f,Sucursal Vizcaya,Zaragoza,35eed247-a421-4d80-b167-5fef1f2a2950,2023-12-01 01:24:00
+cf80843f-8e59-49ca-8670-1206ada4efdb,Sucursal Barcelona,Ceuta,2361b6ae-17a8-4c38-84e2-2ecc4c5dc653,2025-12-23 00:50:13
+48f10435-a505-4ce4-b2c2-f8586e5128f7,Sucursal Vizcaya,Guipúzcoa,07213310-1a2e-46c5-9425-0ece5d5ab0ea,2025-03-24 01:51:26
+f14e9f1a-51af-4e7e-940e-29bf47981c6a,Sucursal Murcia,Almería,23432d35-a5a9-4660-853e-cff5d28789d4,2025-02-26 18:52:16
+a3918e03-dae8-4c1b-8fa7-134e9d82a3a9,Sucursal Lleida,Castellón,2b523efc-4733-4080-bd47-da6caf838c2b,2025-05-22 00:43:49
+29111167-8304-467a-9eee-d86a33522926,Sucursal Toledo,La Coruña,8936288c-8028-44bc-bbe7-9a739f5a43d2,2025-09-29 21:12:23
+d94fb42d-d2d3-4a33-882c-0fdf964e9f15,Sucursal Murcia,Girona,599699d9-389a-43aa-af9e-0ff91d9614d6,2025-01-16 05:13:09
+580bafd7-815e-4cde-950c-403e8cec91a7,Sucursal Jaén,Baleares,f40b09a6-e173-41f1-912b-eff8b374d231,2025-10-25 06:27:57
+09634dfa-4273-4b8b-babf-c4c5e5d252a1,Sucursal Almería,Zamora,88597d0e-f426-4575-b84a-2c44796673be,2024-12-03 10:08:36
+6e97b147-8f71-496e-b123-fa09824c4283,Sucursal Ceuta,Las Palmas,ddeb26fb-c08b-4b39-8abc-ad73b4d5e441,2024-10-09 06:46:57
+dac11583-71e1-4728-aec6-9e13d50f06ac,Sucursal Las Palmas,Asturias,bd1e3bda-8a59-4267-a609-4cad7a2f3ae6,2024-07-22 06:17:58
+914014b8-0f1a-4594-9ca7-b701ac867225,Sucursal Ciudad,Melilla,588db2a6-fda0-4319-8826-58f0cbe32de4,2023-12-21 14:38:17
+b5196e00-2d9f-46c1-97ff-d616cdd48c0e,Sucursal Baleares,Pontevedra,4316bc12-495f-4270-b1a6-2253b4321e63,2023-11-01 03:56:16
+50466790-f056-4205-971d-3a3152d70d80,Sucursal Álava,Murcia,a23c88f5-a567-4027-99c2-ac77b90761e6,2024-12-23 23:32:24
+d46c3cff-800c-4dd1-9a66-da7528f03209,Sucursal Alicante,Teruel,e6d06567-e71a-47a7-bd77-84aa3bcfcfed,2025-10-09 23:17:30
+8e1acb22-e42f-416a-b158-792ccd5dbc02,Sucursal Valencia,Ávila,a08ae208-3f45-43fd-8aff-8de29f6d3c1b,2023-07-23 07:37:18

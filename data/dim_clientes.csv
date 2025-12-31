@@ -1,0 +1,1001 @@
+client_id,dni,nombre,apellido,email,job,fecha_alta,created_at_dt,source_system
+60b6414b-688b-401d-a3c4-4a3e80ae8248,44129013,Basilio,Ramón,elorzafelipa@example.com,Zoólogo,2021-05-03,2022-07-24 21:02:17,OMEGA_CORE_V1
+3e0f70fa-1c5a-4d83-9e96-25c353fa6a2b,88722555,Balduino,Torrecilla,segismundo93@example.com,Peón de explotaciones ganaderas,2024-09-01,2024-10-08 23:15:34,OMEGA_CORE_V1
+f09b25a6-e5ae-481a-8478-ab7db83ebe7b,32931840,Vinicio,Agudo,correaurbano@example.org,Pulidor de metales y afilador de herramientas,2023-03-19,2022-10-10 06:55:29,OMEGA_CORE_V1
+40d66120-d47a-45da-aecc-0a672f24e94f,85347374,Nicolás,Royo,reginatamarit@example.org,Mayordomo doméstico,2022-12-20,2023-12-17 08:44:15,OMEGA_CORE_V1
+14a6dfb2-2e51-4752-a33c-faa736037d56,66979441,Rosario,Campos,narvaezjose-maria@example.net,Controlador de instalaciones de procesamiento de productos químicos,2022-08-18,2023-11-27 12:33:17,OMEGA_CORE_V1
+1dcc2de3-baa2-416f-b502-4bddadc26901,42776946,Jacinta,Barón,ruperto75@example.net,Profesional de enfermería,2024-09-03,2021-11-29 23:15:39,OMEGA_CORE_V1
+963b272d-21ec-4465-88c3-7a91116dd1c0,50144221,Valentina,Tolosa,botellapalmira@example.net,Empleado de biblioteca,2021-05-07,2021-07-04 13:12:07,OMEGA_CORE_V1
+a8449edf-87e7-48c6-8225-539662208d2e,37171761,Maristela,Leal,alvarocoral@example.org,"Gerente de sucursales de bancos, de servicios financieros y de seguros",2025-08-26,2024-07-29 21:11:40,OMEGA_CORE_V1
+45b37dbc-ddfd-4336-bc06-9783be03f1a8,55805827,Belén,Calzada,gracianolobato@example.org,Escritor,2025-09-14,2024-10-14 10:47:01,OMEGA_CORE_V1
+a1b53db4-cd6c-40a8-848b-a10766cfe678,66589066,Rosalinda,Cabrero,emmabarreda@example.com,Fisioterapeuta,2023-05-11,2022-12-24 17:34:02,OMEGA_CORE_V1
+d7e68669-f441-4146-9780-68f1decbd9f8,81872800,Emigdio,Tomé,vmas@example.net,Técnico en optometría y ópticos,2021-06-17,2022-07-31 19:36:00,OMEGA_CORE_V1
+62fd6cbc-8952-4812-88ae-b674d09b0410,54704059,Moreno,Zabaleta,eliamor@example.com,Guardián de prisión,2023-03-14,2021-03-08 03:35:10,OMEGA_CORE_V1
+1005aed9-2ead-4724-9267-152eeda4b26f,94756880,Duilio,Arribas,jenarofabregas@example.com,Oficinista general,2021-12-01,2025-11-13 02:30:26,OMEGA_CORE_V1
+88dccd12-9627-43c5-8859-5c9323e04522,76999275,Marina,Quesada,adelardo32@example.net,Operador de plantas y máquinas de productos químicos,2021-12-09,2022-09-05 15:45:51,OMEGA_CORE_V1
+dcc52d92-349a-4299-b1f5-8008cff92807,20786612,Evaristo,Calvet,blanesnatividad@example.com,Criador de ganado,2023-07-07,2021-07-28 18:20:28,OMEGA_CORE_V1
+b3ee2722-1147-48ca-ad30-b0736dd3a7ac,32574442,Toribio,Sotelo,candelastellez@example.org,Vendedor de comidas al mostrador,2022-05-25,2025-11-09 04:23:18,OMEGA_CORE_V1
+6f8fbccf-728c-4741-a8a5-93f11e11ba0b,36260253,Ángeles,Zorrilla,cozarcandelaria@example.net,Avicultor,2023-08-23,2021-10-28 00:47:54,OMEGA_CORE_V1
+e986635d-a777-4baa-b520-a1e8cdd98fb2,79080355,Cristian,Oliver,lloretsarita@example.org,Director de cine,2025-10-01,2024-01-06 15:38:48,OMEGA_CORE_V1
+c450e7b1-3990-4e39-8e09-a6097521c149,63128828,Quique,Amador,mario15@example.com,Cocinero,2021-07-01,2025-11-02 13:19:59,OMEGA_CORE_V1
+b6910f0a-17bc-4b09-9993-beeac7f42bca,90703084,Maxi,Pi,mamennogues@example.com,Director de servicios de cuidado de las personas de edad,2021-06-03,2023-01-12 07:30:45,OMEGA_CORE_V1
+9fb709bf-bb92-4716-b616-166c9a62a10a,13096762,Ruperta,Casanovas,felipa52@example.org,Gerente de comercios al por mayor y al por menor,2024-08-15,2022-05-06 00:58:10,OMEGA_CORE_V1
+4cc79fe9-c827-4987-a919-ab67d18232f4,62818425,Plácido,Ferrán,llamas@example.com,Gestor de aduana,2022-06-09,2025-06-17 15:18:59,OMEGA_CORE_V1
+2f67e481-11bc-4c90-bea5-1f84f4bbbe62,62474046,Vicente,Borrás,lealsofia@example.net,Director de industrias manufactureras,2022-07-24,2021-03-11 15:49:00,OMEGA_CORE_V1
+423ec98a-8e6c-492f-9911-624523227878,92181492,Trinidad,Samper,benignorivero@example.org,Asistente fisioterapeuta,2024-03-15,2023-01-07 16:20:45,OMEGA_CORE_V1
+bcfec4cd-fadd-476b-beb8-5e827d57c3b3,12682263,Florinda,Marcos,asuncion01@example.net,Labrante,2024-02-15,2022-04-18 21:17:42,OMEGA_CORE_V1
+58349511-77ef-4999-83cb-020b16a60a64,48731557,Ramona,Maldonado,castilladorotea@example.net,Técnico en aparatos de diagnóstico y tratamiento médico,2024-11-09,2021-07-03 22:42:59,OMEGA_CORE_V1
+c1f704d3-31d6-4107-8c55-8bb172a12df6,91967756,Rosenda,López,ciriaco21@example.org,Instructor de autoescuela,2022-08-12,2021-12-29 13:13:51,OMEGA_CORE_V1
+a006653a-cd84-4f25-97ff-18760daffefb,44735823,Eliana,Toro,santamarianicolasa@example.org,Conductor de motocicletas,2022-02-12,2023-06-18 19:53:51,OMEGA_CORE_V1
+86d77305-bf12-4683-a188-5e2d83c6698a,80276606,Corona,Heredia,infantemoises@example.com,Marinero de cubierta,2022-05-04,2023-10-19 23:43:25,OMEGA_CORE_V1
+338be0eb-9fdd-45eb-8a83-12c404a974b9,87273930,Victoriano,Cózar,dvicente@example.net,Ingeniero mecánico,2022-10-16,2024-06-21 19:10:56,OMEGA_CORE_V1
+c1b8bcc3-b407-4a02-83b5-189e7365952d,58774094,Evangelina,Vigil,fabio86@example.com,Alfarero,2024-08-01,2022-09-08 12:56:39,OMEGA_CORE_V1
+8a78c62b-ba9a-45a0-989b-aaddf698d0a8,35663948,Guiomar,Becerra,ubas@example.com,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",2023-09-26,2021-12-11 12:40:41,OMEGA_CORE_V1
+0888e748-1fdf-4a89-a7fa-aa9627b4bc1f,47366186,José Ángel,Mariño,arnaizleon@example.org,Operador de máquinas para fabricar cemento y otros productos minerales,2024-11-12,2022-06-18 03:42:40,OMEGA_CORE_V1
+865d5aa5-abfa-4f24-8aec-d2bc6f115ab5,84242596,Prudencia,Solsona,ggiron@example.com,Psicólogo,2024-10-11,2021-05-03 00:18:59,OMEGA_CORE_V1
+ed46dbfb-2338-4476-91ee-7568928a8515,46595496,Bernardo,Dueñas,eblanes@example.com,Cuidador de niños,2021-03-11,2021-03-23 13:29:04,OMEGA_CORE_V1
+8a38cee4-b713-4e9e-a191-bc82c1f235d9,46135144,Milagros,Tejero,alejoheras@example.net,Técnico en seguridad aeronáutica,2023-08-27,2024-05-29 19:30:16,OMEGA_CORE_V1
+c9d8c8fc-601c-4143-9451-4c1cccac6a0c,23822532,Martin,Bello,cruzcanas@example.com,Grabador de piedra,2021-10-02,2022-12-01 00:39:13,OMEGA_CORE_V1
+db891294-3857-41fd-a581-77a5031d4e35,66123533,Mamen,Cabrero,jose-luiscarvajal@example.org,Director de servicios de salud,2024-02-07,2021-01-03 09:00:25,OMEGA_CORE_V1
+e0effe8a-0cd5-4ee3-a307-6752af093291,89584956,Rico,Maldonado,castilloeutimio@example.net,Operador de máquinas para la fabricación de calzado,2025-10-19,2023-06-22 05:31:31,OMEGA_CORE_V1
+5a6b2920-609e-4f27-a232-15681972318d,90639456,Efraín,Almagro,ciriaco71@example.com,Agente de maniobras,2024-12-05,2022-03-21 05:28:15,OMEGA_CORE_V1
+df6bf3b8-42b5-4108-9886-d0f01ca9fd44,81914572,Abril,Arroyo,mramirez@example.com,Cajero de banco,2024-12-13,2025-02-23 14:58:31,OMEGA_CORE_V1
+278d666c-f6fb-480b-97f6-af0b2ede48fe,45405613,Guiomar,Bayo,oscarcorbacho@example.org,Profesor de idiomas,2024-04-20,2023-04-29 06:31:11,OMEGA_CORE_V1
+07735422-2d59-49b9-9526-8b4caccbf731,58148232,Rodrigo,Castrillo,arturozamorano@example.net,Pintor y empapelador,2022-08-24,2023-02-09 18:59:31,OMEGA_CORE_V1
+29c47c62-9887-44df-b33c-9bf79a80f2bc,95832262,Manolo,Múgica,eliseopalomo@example.com,Lavador de vehículos,2025-09-21,2024-12-15 22:56:25,OMEGA_CORE_V1
+6d62ed34-d85f-4312-948f-79f6422cc664,44178330,Tomás,Cuéllar,jose-antoniobarreda@example.net,Empleado de biblioteca,2023-09-27,2021-06-27 03:03:33,OMEGA_CORE_V1
+6df8c992-a430-4e27-9fc1-2ea73277460d,15304715,Samuel,Briones,campsaurelio@example.org,Guardián de prisión,2022-01-14,2021-07-21 22:43:39,OMEGA_CORE_V1
+b792c7e6-4b42-48fd-ab5a-fa441099b991,84423812,César,Lobato,imelda46@example.com,Profesional de nivel medio de servicios estadísticos o matemáticos,2022-06-25,2025-10-08 16:16:55,OMEGA_CORE_V1
+f3541c31-95f3-4a26-9fa5-107f100b9f48,28778407,Leocadio,Cárdenas,calistapena@example.com,Operador de máquinas de coser,2023-09-10,2025-08-23 01:21:14,OMEGA_CORE_V1
+e6eaf32c-dd6d-4ada-9085-043e84b9792b,14151093,Ileana,Fernandez,amorcelia@example.net,Empleado de biblioteca,2025-11-19,2024-11-15 18:06:10,OMEGA_CORE_V1
+046926fa-dc61-4f12-9c37-469c2247cf9c,13602996,Mateo,Carranza,ferrerassosimo@example.com,Archivista,2022-04-21,2021-03-18 13:46:52,OMEGA_CORE_V1
+6d94649c-cbeb-4d20-8196-267dce1f0d40,71352759,Lupe,Guillén,cristian15@example.net,Albañil,2021-07-10,2022-12-05 07:10:45,OMEGA_CORE_V1
+2622bcfb-0216-4cd4-b06e-c4647a6e3f9f,82205127,Gregorio,Prado,anitacontreras@example.com,Controlador de tráfico aéreo,2023-03-11,2024-05-14 22:03:08,OMEGA_CORE_V1
+20d70d56-6e10-4a35-bec0-4d355ab8b333,60025755,Armando,Vigil,rafacarbonell@example.org,Operario de la elaboración de productos lácteos,2021-10-27,2022-10-21 09:45:03,OMEGA_CORE_V1
+f2a59ca4-915a-4388-9420-c41fb9089d22,55329759,Chucho,Jódar,abadpepe@example.org,Herramentista,2022-12-29,2024-09-18 09:50:30,OMEGA_CORE_V1
+04d91a6f-bfc2-4f4c-b880-60bfa5d874de,41799359,Gaspar,Revilla,alondra66@example.com,Pulidor de metales y afilador de herramientas,2022-11-24,2022-08-24 20:09:47,OMEGA_CORE_V1
+e7c823cf-b114-40c7-9fb8-e90431ffbcb3,36656138,Aura,Peña,iban68@example.org,Entrevistador de investigaciones de mercados,2025-07-01,2021-12-15 01:20:13,OMEGA_CORE_V1
+6da4d1f1-d940-42b5-894e-f66c2646027b,40948219,Natividad,Sureda,abigailaleman@example.org,Especialista en ciencias políticas,2021-03-02,2025-11-03 02:24:39,OMEGA_CORE_V1
+ac75abc3-df4f-428b-a242-4d7983305660,41396376,Gilberto,Ripoll,vergarasabas@example.net,Escritor,2022-12-11,2023-12-10 18:06:59,OMEGA_CORE_V1
+1636dadb-325c-4a2b-ab1a-a65bd8a1d574,87247111,Olivia,Godoy,haroldo54@example.net,Especialista en formación del personal,2025-01-20,2023-08-04 03:12:50,OMEGA_CORE_V1
+34fc6f08-005a-40c1-8beb-877345698337,43808352,Benito,Cerdán,isabelavalverde@example.com,Controlador de tráfico aéreo,2021-08-29,2021-03-13 23:35:01,OMEGA_CORE_V1
+a9c47c33-ee10-4664-8d9f-60cb43bcc3bc,42505644,Fulgencio,Casares,hernandojover@example.net,Biólogo,2025-07-24,2024-02-27 12:20:27,OMEGA_CORE_V1
+d26e6745-84f6-4ef5-82ee-9c0185328512,69608103,Loida,Figueras,fabianaegea@example.net,Operador de máquinas para fabricar productos de material plástico,2025-12-23,2024-10-01 16:24:43,OMEGA_CORE_V1
+a8e98fb7-6922-4957-b812-d3643f756d9d,23656424,Bienvenida,Arco,deliabonet@example.net,Instalador y reparador de líneas eléctricas,2024-04-04,2025-02-23 23:23:13,OMEGA_CORE_V1
+8919e1ca-a704-4593-a0bd-dcf01867f1c8,17118163,Eutimio,Tomas,opallares@example.com,Operador de telar y otras máquinas tejedoras,2025-05-02,2022-03-05 02:27:18,OMEGA_CORE_V1
+89289e04-9e7f-4f32-8684-90efaf15c949,90999375,Leoncio,Castell,cosme65@example.org,Electricista de obras,2022-11-28,2022-03-18 15:41:39,OMEGA_CORE_V1
+e37cdbf0-cac9-4619-93c8-3cdb144c1a0a,67649046,Lucas,Arcos,custodio41@example.org,Tipógrafo,2022-12-12,2023-04-16 04:13:33,OMEGA_CORE_V1
+475cf987-dc58-4727-a443-4714b8973150,52095458,Daniel,Zamorano,linainfante@example.org,Profesional de enfermería,2022-12-22,2023-10-05 07:46:46,OMEGA_CORE_V1
+dbd71334-845a-417a-9477-65843a3448f3,16003953,Belén,Poza,casemirotorralba@example.org,Agrónomo,2021-09-29,2022-05-11 06:45:41,OMEGA_CORE_V1
+f8ff54de-e0c8-4682-8806-dff3e1bd524b,73160342,Alfredo,Jordán,martinezmaria-belen@example.com,Profesor de idiomas,2021-05-03,2023-01-19 02:56:58,OMEGA_CORE_V1
+f93767cc-f481-4a54-8ad4-3e939d905ab5,37345112,María,Porta,ester73@example.org,Director de empresas de construcción,2023-04-30,2021-08-07 02:48:08,OMEGA_CORE_V1
+93e9dc55-3a8b-4cba-be63-df1e451c9022,48386006,Natalia,Niño,marvalenzuela@example.org,Cajero de banco,2021-10-30,2022-11-02 19:19:54,OMEGA_CORE_V1
+284cf075-4d60-4296-8877-c10894b63263,12620304,Emelina,Girona,xros@example.net,Sombrerero,2025-11-23,2024-12-03 04:32:30,OMEGA_CORE_V1
+96a92fa6-79bf-4276-aca2-21233b92c5b5,30737937,Fanny,Salazar,omenendez@example.com,Oficinista general,2024-09-05,2025-10-11 16:02:24,OMEGA_CORE_V1
+eab97fa2-6e41-4b5d-b456-8df7314a5c6c,68006101,África,Almeida,wcalvet@example.org,Conserje,2024-03-09,2025-05-30 20:53:11,OMEGA_CORE_V1
+5e0b0528-1ede-47fe-beba-2aaf1bd940aa,57343635,Luís,Luz,hpages@example.net,Especialista en formación del personal,2022-06-29,2021-03-25 14:39:18,OMEGA_CORE_V1
+6a9e58d5-28cd-4dff-976d-e474f97e95cc,64399345,Omar,Campos,wsanz@example.com,Fisioterapeuta,2021-01-03,2024-06-30 23:29:38,OMEGA_CORE_V1
+d39a50da-701b-4486-a186-8e4350fdbd20,53520566,Esther,Abellán,manuelmaria-luisa@example.com,Astrólogo,2024-04-02,2021-06-17 11:21:00,OMEGA_CORE_V1
+e1e4e6e6-ba83-473e-97d2-af2a412e14f2,93208065,Paca,Morales,eroldan@example.com,Técnico en electrónica,2025-01-30,2025-06-26 18:22:57,OMEGA_CORE_V1
+0e0d708a-b582-4036-b11c-6bddd85425cb,52118046,Horacio,Osuna,barceloolalla@example.com,"Técnico en galerías de arte, museos y bibliotecas",2024-11-22,2024-05-15 00:42:20,OMEGA_CORE_V1
+a8828087-e71d-4ea0-8c60-2ef6c5391f5e,30500226,Íñigo,Hernandez,ijorda@example.net,Agente de empleo,2021-09-11,2023-03-26 01:52:57,OMEGA_CORE_V1
+94d7842d-a92f-4ace-872b-115384b36313,57931434,Nieves,Vázquez,teo71@example.net,Barnizador,2022-02-26,2023-07-24 08:59:40,OMEGA_CORE_V1
+b01210de-6db2-4125-b311-966e1ba7e2a1,60053813,Gustavo,Crespi,rufinoroldan@example.org,Empleado de servicios de correos,2023-10-04,2021-11-13 03:11:46,OMEGA_CORE_V1
+f4f9ac3e-155c-477a-839a-0157a698f923,97580688,Natividad,Miranda,dalila74@example.org,Técnico en ingeniería mecánica,2021-10-20,2025-03-29 10:54:13,OMEGA_CORE_V1
+945bc4c5-cd42-4dee-bb8a-d3d280998521,77747375,Fabián,Martín,balegria@example.org,Fisioterapeuta,2021-05-12,2022-10-26 09:25:17,OMEGA_CORE_V1
+9f9b482f-1f29-471d-9556-593f34fc42c3,94860877,Marcia,Herrera,maria-fernanda60@example.com,Limpiador y asistente doméstico,2021-12-05,2022-07-31 19:23:25,OMEGA_CORE_V1
+c6dbbd4a-1998-4fad-aa6d-339ac3a4da24,31414263,Herminio,Arnaiz,fllabres@example.org,Ayudante de cámara,2022-10-27,2023-08-12 10:45:27,OMEGA_CORE_V1
+1eb80579-1943-48fb-a506-3c39f132d42a,85285326,Clarisa,Cánovas,zpuerta@example.com,Peón de jardinería y horticultura,2025-10-01,2022-01-25 14:29:20,OMEGA_CORE_V1
+02ef908d-5448-4648-ac2b-3d20500307e1,32484457,Natalio,Castañeda,marcospascuala@example.net,Instructor de autoescuela,2024-05-06,2023-02-21 15:43:22,OMEGA_CORE_V1
+d20058c4-d887-4be6-be22-f60bf4592429,15470642,Odalis,Flores,quevedoagustina@example.org,Orfebre,2024-02-12,2025-11-05 07:05:50,OMEGA_CORE_V1
+6d0350e1-566a-4e38-81f1-4dedc986255f,58289305,Ignacio,Villa,abigail06@example.com,Gerente de hoteles o restaurantes,2024-09-11,2023-05-25 08:49:11,OMEGA_CORE_V1
+5b2fb09a-2f72-48e2-87f6-aa663c577cbf,33133794,Fabiana,Feijoo,beatrizcosta@example.net,Técnico forestal,2021-12-05,2023-09-22 10:16:14,OMEGA_CORE_V1
+e29889f8-9959-4af6-8bcc-539b9b8324b8,43382867,Alfonso,Bertrán,casemirohidalgo@example.net,Veterinario,2025-01-11,2023-03-08 12:01:29,OMEGA_CORE_V1
+e3ac4fe7-2782-432a-8f30-8c50d95ff925,89234856,Macarena,Daza,fabian18@example.com,Conductor de automóviles,2024-09-24,2023-10-27 23:30:40,OMEGA_CORE_V1
+670c8825-b9cd-43cb-8012-139fb4e66f1c,38274347,Valentina,Gras,trillojulio@example.net,Suboficial de las fuerzas armadas,2022-11-09,2023-04-26 15:02:47,OMEGA_CORE_V1
+783322ba-cd87-43e2-8116-4d42b3acdde5,60999458,Alfredo,Fabregat,xbarrera@example.net,Operador de máquinas para fabricar productos de material plástico,2025-01-05,2023-08-09 12:09:20,OMEGA_CORE_V1
+a6e312c8-9fd2-40d8-bb21-2c021acb57e4,73809588,Javier,Méndez,arroyopablo@example.net,Auxiliar de servicio de abordo,2023-11-11,2021-04-11 23:27:46,OMEGA_CORE_V1
+241fd747-3700-487e-9bd8-cee6aae2dc81,12609507,Gerónimo,Montesinos,pacifica99@example.com,Meteorólogo,2024-03-08,2021-07-16 17:01:31,OMEGA_CORE_V1
+2d756e22-8c53-4177-af13-3a18dcce22a7,23844833,Cipriano,Arrieta,fabian65@example.com,Regulador y operador de máquinas y herramientas,2022-06-26,2022-03-29 00:00:36,OMEGA_CORE_V1
+7385fbc2-8ba6-40c4-8477-4fb13507783c,80008783,Jessica,Vila,eduardo26@example.com,Secretario (general),2022-07-05,2023-10-07 10:02:56,OMEGA_CORE_V1
+54b11f1c-6eac-4fc6-8336-1c8e2aca21c1,68914940,Teófilo,Ayuso,figueroajose-miguel@example.org,Tasador,2022-08-10,2024-09-25 00:57:37,OMEGA_CORE_V1
+d5e74ca9-4df0-40a6-a42d-66ed76c1bef0,61526365,Gloria,Santos,merinohernan@example.org,Organizador de conferencias y eventos,2024-01-21,2021-01-18 07:51:34,OMEGA_CORE_V1
+99fb2b59-2b0b-407d-8a24-4a8f18005ae1,32821978,Laura,Caballero,granadosangel@example.com,Abogado,2021-02-12,2022-10-26 07:32:56,OMEGA_CORE_V1
+3509bbeb-96a9-4718-ac1e-f34d8b495d00,68363820,Ignacio,Villar,tamaraprada@example.org,Entrevistador de encuestas,2025-05-28,2022-07-04 20:01:18,OMEGA_CORE_V1
+049378e1-9450-4cd3-ae73-5d513a9dc5eb,84730711,Lorena,Viana,reyesamat@example.net,Cartógrafo,2023-11-30,2024-02-24 06:36:32,OMEGA_CORE_V1
+9322bea2-3987-45c0-9a14-cf88f426eb0b,53990263,Rosaura,Rocha,claverotimoteo@example.com,Entrevistador de investigaciones de mercados,2023-05-22,2023-10-24 12:58:46,OMEGA_CORE_V1
+d29a1f60-b815-48df-9f7c-92bb5fdcb4ce,14392826,Perlita,Esteban,hhernando@example.org,Supervisor de la construcción,2025-12-17,2024-12-21 14:03:07,OMEGA_CORE_V1
+74ca76ff-a6d5-42cf-9fe6-ff182ec5a873,44609749,Victoriano,Toro,nazaret16@example.org,Especialista en ciencias políticas,2025-03-04,2022-10-17 08:16:59,OMEGA_CORE_V1
+b32fa872-2784-49db-82b8-2efc680d5bf1,30259295,Lisandro,Enríquez,baltasarexposito@example.net,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,2022-03-02,2025-08-19 05:05:12,OMEGA_CORE_V1
+d6419125-de0f-4212-bee4-b4dccd9ceef6,44808347,Ascensión,Arellano,jose-ignacio82@example.net,Profesional de medicina alternativa,2025-01-25,2024-03-30 19:39:06,OMEGA_CORE_V1
+b8502f39-e64e-48f8-bdd6-9bd4fc4bcb98,40276454,Emiliano,Palomar,rosalinamolins@example.net,Operador de máquinas para fabricar productos de caucho,2024-05-20,2023-01-05 15:25:12,OMEGA_CORE_V1
+d5ea2883-80fb-4662-a4d6-07a6284cf6e8,82044615,Fausto,Correa,luisinatenorio@example.com,Peón de explotaciones de cultivos mixtos y ganaderos,2025-11-18,2022-11-04 22:42:41,OMEGA_CORE_V1
+428224c2-e347-4424-8df0-a17a6b61b498,14737804,Valeria,Carbajo,adelaidalobo@example.org,Bailarín,2021-06-23,2022-09-22 10:07:22,OMEGA_CORE_V1
+cc9bca3e-6adb-47b0-be70-916dd475a8f3,58214158,Yésica,Sánchez,niloalmansa@example.com,Operador de máquinas de procesamiento de texto y mecanógrafos,2025-07-30,2025-04-12 23:22:51,OMEGA_CORE_V1
+5add3a06-5e8f-4c9b-8321-f35f37adcb09,64124684,Guadalupe,Jover,gracianocorominas@example.com,Agente de empleo,2022-09-07,2021-10-02 13:08:43,OMEGA_CORE_V1
+975f2da9-4352-4491-b8ec-0837c4de4cd8,64881167,Hilda,Mateo,andresmaricela@example.com,Profesional de ventas de tecnología de la información y las comunicaciones,2024-03-19,2025-11-25 08:46:11,OMEGA_CORE_V1
+bfb49b6b-ddaa-4e52-ae08-c012716bb597,38555120,Calixta,Sanmiguel,celestino80@example.net,Coreógrafo,2021-07-30,2025-01-11 14:40:39,OMEGA_CORE_V1
+ba3d2d15-46ab-4bd1-b649-3eaa5c307e56,48156109,Aura,Dávila,castrillopelayo@example.com,Contable,2022-09-03,2022-05-22 05:56:11,OMEGA_CORE_V1
+99253a0d-8581-496c-976d-61362e3d0dbd,87247373,Evangelina,Pereira,kcamps@example.net,Secretario jurídicos,2021-05-09,2024-02-20 15:00:03,OMEGA_CORE_V1
+cf22c78b-07b1-479c-9b50-8938d7bc8f42,83366286,Leandro,Donoso,encarna26@example.org,Director de producción agropecuaria y silvicultura,2021-09-10,2024-02-04 04:00:58,OMEGA_CORE_V1
+3afec3f6-3788-4545-96a4-87485e6ecd03,30387216,Manuela,Acuña,cortinavanesa@example.org,Trabajador ambulante de servicios,2022-07-23,2021-01-19 16:06:28,OMEGA_CORE_V1
+f2f5fee5-6e82-477e-8216-aeb949349b52,13072179,Tere,Flor,vvina@example.net,Inspector de policía,2024-10-30,2024-06-01 04:14:11,OMEGA_CORE_V1
+424fa1a6-c996-456c-8c23-b8de150bad0e,26142706,Sigfrido,Paredes,nacio05@example.com,Profesional religioso,2023-02-18,2023-01-26 23:56:02,OMEGA_CORE_V1
+96ffa355-c7f7-4827-9afe-85f29555603e,83730388,Trini,Gil,maximilianosancho@example.net,Operador de máquinas de vapor y calderas,2021-10-04,2023-07-13 04:42:20,OMEGA_CORE_V1
+6af27738-71ca-4a7e-a328-0dc46ba58966,26206192,Rosalva,Bernal,vigilevita@example.org,Conductor de automóviles,2021-09-03,2025-12-12 13:19:56,OMEGA_CORE_V1
+63649e83-d553-4df3-8f77-32195d334a0b,38800263,Miriam,Andreu,gutierrezambrosio@example.org,Sombrerero,2021-10-18,2025-07-15 15:44:37,OMEGA_CORE_V1
+86105e5e-16ff-432b-9259-ebe112f95555,74678146,Cristian,Quesada,crespiirene@example.com,Practicante paramédico,2021-08-29,2022-07-26 14:51:16,OMEGA_CORE_V1
+9848c6cd-e224-4a71-9212-4bf14f08f879,21995707,Javiera,Guardiola,carina20@example.com,Controlador de procesos,2025-03-03,2024-01-08 22:12:15,OMEGA_CORE_V1
+59947c07-5dcd-4a1b-8983-3545de28b9ae,49917125,Cristina,Coca,vigiljuana@example.net,Técnico en redes y sistemas de computadores,2023-11-21,2021-04-01 02:37:39,OMEGA_CORE_V1
+6c9f7049-8965-440f-aa76-0049d57283a9,70185926,Elisabet,Daza,mendezwilfredo@example.net,Técnico en química industrial,2024-10-01,2023-06-07 16:33:23,OMEGA_CORE_V1
+9f8281e2-86d5-47b8-b0e8-e03af4e1277c,20800580,Pancho,Asenjo,saturninacid@example.com,Modisto,2023-06-20,2024-02-29 12:47:33,OMEGA_CORE_V1
+407b1beb-02e3-4d91-9873-d4a65d5044cc,50512115,Gervasio,Gilabert,puertaruben@example.net,Operador de máquinas de procesamiento de texto y mecanógrafos,2023-06-05,2025-07-29 18:06:56,OMEGA_CORE_V1
+9cc408db-7044-43c5-8378-7fc08a61b448,93818901,Federico,Mármol,rosellomamen@example.com,Psicólogo,2025-04-28,2022-03-13 17:06:05,OMEGA_CORE_V1
+b4869604-c26e-4fe3-8dc2-70f0da6cfb5e,22909269,Josefa,Amorós,escolanoricardo@example.net,Secretario médicos,2023-05-10,2025-01-17 15:24:12,OMEGA_CORE_V1
+d31b646c-5fbc-4719-a3c3-eb2e8a813837,56471068,Teodoro,Mateos,padillacandida@example.net,Supervisor de tiendas y almacenes,2021-03-28,2023-07-16 16:47:38,OMEGA_CORE_V1
+f15cc5db-6bfd-47f2-8749-09621e1d5aa2,30312697,Wilfredo,Otero,mansopilar@example.com,Técnico de la Web,2021-11-07,2025-09-10 15:06:25,OMEGA_CORE_V1
+50fec022-f703-4f53-b069-eb75d45523aa,91405761,Florencia,Martí,jimena32@example.org,Astrólogo,2022-04-09,2023-10-24 21:51:16,OMEGA_CORE_V1
+55c9682b-46c7-4361-a6b5-bd27e1e292ad,80262876,Isaías,Vallés,benavidesjacinto@example.org,Profesional de enfermería,2023-12-16,2023-02-13 19:50:45,OMEGA_CORE_V1
+08260184-9be2-4d92-8f79-3c1d9506085c,45031297,Domitila,Ocaña,pugafausto@example.net,Pescadero,2023-12-02,2021-02-28 09:11:24,OMEGA_CORE_V1
+40d821aa-7dad-42bc-87e4-55a5c1dda229,74071245,Isaías,Gámez,avilesguillermo@example.net,Personal de pompas fúnebres y embalsamador,2025-05-26,2021-07-17 15:13:38,OMEGA_CORE_V1
+35685226-1806-4368-a41e-894885ea7e2d,27437120,Berto,Ricart,madridmaxima@example.com,Educador para necesidades especiales,2022-06-14,2022-07-26 16:35:54,OMEGA_CORE_V1
+1c2f3257-e6f7-4a01-a46f-cebe2eef9809,85202072,Marcela,Salgado,nicolasaojeda@example.org,Locutor de televisión,2022-08-18,2024-01-20 23:54:08,OMEGA_CORE_V1
+5b59ca57-ff4a-4aa5-a1dc-a09bc6ba6403,90279741,Augusto,Alberdi,pozoadolfo@example.net,Orfebre,2023-07-13,2025-09-01 07:36:01,OMEGA_CORE_V1
+69548cc6-0d3b-4921-b389-b325dc547aa4,86111955,Florina,Canals,teofiloaparicio@example.net,Entrenador deportivo,2024-02-25,2024-11-20 18:20:55,OMEGA_CORE_V1
+206e6210-a0b2-4132-adc6-66358bcc1efd,44051236,Ana Belén,Mármol,yguillen@example.org,Catador de bebidas,2023-09-20,2023-10-24 11:26:39,OMEGA_CORE_V1
+5fb0e341-50f0-4e4b-a9dc-33a523b46642,78636485,Georgina,Posada,cruzribera@example.org,Practicante paramédico,2022-12-25,2023-05-03 07:49:40,OMEGA_CORE_V1
+bc8a7349-a001-400c-929f-e0e968afaa9a,87487357,Nereida,Izaguirre,eutropio73@example.com,Ecónomo y mayordomos domésticos,2022-07-06,2021-02-03 02:44:28,OMEGA_CORE_V1
+e7762223-f50c-4d2b-a500-253d134dc847,42186405,Aroa,Fábregas,dalilacarbo@example.net,Fumigador,2024-05-08,2022-12-25 01:47:34,OMEGA_CORE_V1
+096acd40-3783-45ba-82df-5522ddb979d5,62404440,Eugenio,Rivas,cuervoainara@example.net,Operador de máquinas de tratamiento de pieles y cueros,2024-02-06,2021-03-10 15:46:43,OMEGA_CORE_V1
+4121d1ca-fe11-47ba-8c2a-819540290c59,23736912,Fanny,Amigó,bartolometoro@example.net,Operador de instalaciones de vidriería y cerámica,2022-11-18,2024-04-19 15:16:22,OMEGA_CORE_V1
+74483423-d03e-4ef7-bb52-d95a6250956a,87371007,Rosario,Blanca,miguelpastora@example.com,Orfebre,2022-09-26,2021-09-08 14:26:47,OMEGA_CORE_V1
+4007cd25-aaca-430b-b2ff-45e81ddeacec,37800142,Pablo,Serna,alfonso79@example.org,Consignatario,2023-09-07,2022-01-19 14:35:20,OMEGA_CORE_V1
+a5091834-10b9-4de3-b6e5-d2cee78d5769,75727000,Aura,Macias,lucila61@example.net,Fabricante de instrumentos musicales,2021-08-08,2023-01-01 13:01:21,OMEGA_CORE_V1
+b01fb039-83af-4fa9-9c9e-b5b93a8db12e,57632219,María,Larrañaga,cferrandiz@example.org,Dinamitero,2023-10-28,2022-06-21 19:05:31,OMEGA_CORE_V1
+c5f0e3ea-9a81-457c-941d-975b2ea76dd6,37765618,Febe,Badía,mponce@example.com,Instalador y reparador en tecnología de la información y las comunicaciones,2022-06-05,2022-02-20 03:39:03,OMEGA_CORE_V1
+b00d9af9-86bf-462f-8f02-8b76eb068b4b,56841087,Octavia,Codina,pllano@example.com,Ensamblador de equipos electrónicos,2024-12-06,2025-11-10 05:52:23,OMEGA_CORE_V1
+210dbf65-1371-4aed-af5d-115555e0a0c5,21052633,Jose Ramón,Montaña,pili91@example.org,Ingeniero mecánico,2023-10-04,2022-08-21 10:10:18,OMEGA_CORE_V1
+eee28c73-4a2a-4893-b539-4c53f3d85616,98043816,Araceli,Montesinos,kpalau@example.com,Zoólogo,2025-11-07,2024-07-26 05:37:32,OMEGA_CORE_V1
+20121534-a929-4992-bbf7-798ab4194e5b,25173713,María José,Piña,estevezcandido@example.com,Director financiero,2024-01-29,2023-01-19 08:36:47,OMEGA_CORE_V1
+3c239b42-daa0-4d38-bba0-260caec0e30a,33178510,Noemí,Muro,onoguera@example.org,Ensamblador de equipos eléctricos,2024-10-20,2023-03-09 02:40:25,OMEGA_CORE_V1
+2c31ac9e-0a21-4506-8093-e3ce23fb8e0b,71302859,José Antonio,Vaquero,lalberdi@example.org,Pulidor de metales y afilador de herramientas,2021-05-13,2021-04-14 12:09:36,OMEGA_CORE_V1
+8050066a-e3f1-48f6-af17-99acfdcc032c,15026546,Nicolasa,Rosa,lucas43@example.net,Diseñador de bases de datos,2021-03-10,2021-11-01 19:56:03,OMEGA_CORE_V1
+48ea1b00-41aa-4565-886f-6a6e5ecf3f73,59287998,Severiano,Borrego,zarmengol@example.org,Avicultor,2021-08-01,2024-10-16 16:33:32,OMEGA_CORE_V1
+20fc37f0-9121-4371-82bc-67ebb7689334,18537576,Bernardita,Oliveras,onaranjo@example.net,Escribiente público,2023-04-27,2024-09-12 06:57:39,OMEGA_CORE_V1
+780d4a73-9eac-4da1-8651-2c64072afd0c,69309180,Carmen,Castañeda,ema75@example.org,Profesional de la publicidad y la comercialización,2023-06-22,2023-07-13 11:12:25,OMEGA_CORE_V1
+5db9f680-e9b0-4908-8ab9-34fcb24a74ac,83497591,Anacleto,Corral,dsaldana@example.org,Chef,2024-02-04,2024-02-27 23:10:33,OMEGA_CORE_V1
+9624a011-89bf-4543-ad95-270812577231,39470149,Lucila,Camino,jose-ramonmelendez@example.net,Practicante paramédico,2021-10-21,2025-09-14 01:46:23,OMEGA_CORE_V1
+e4c59fbc-2029-4ee3-b411-3b107e3d76c0,46884386,Ximena,Egea,illopis@example.org,Operador de instalaciones de procesamiento de metales,2021-05-30,2023-03-10 00:20:19,OMEGA_CORE_V1
+fb902447-8366-40b4-8591-deac0ab7f2e7,26836068,Paz,Domingo,filomena90@example.com,Cocinero,2025-10-02,2021-10-06 01:58:44,OMEGA_CORE_V1
+1cc7aebd-3277-4250-bb2f-6ef0ba8f9a6c,78068019,Juanita,Mínguez,casemiroatienza@example.com,Diseñador de productos,2022-02-05,2022-08-07 20:18:47,OMEGA_CORE_V1
+33c26e7c-3fc7-4740-84f9-311fe519d27c,34994416,Mariano,Iglesias,casesabraham@example.com,Cocinero de comidas rápidas,2021-07-12,2025-08-18 10:14:44,OMEGA_CORE_V1
+af4d8fae-10e2-4363-8842-04e8c9ed8956,20480844,Rosa,Cabanillas,marmoladelina@example.org,Fotógrafo,2024-06-02,2022-10-21 12:23:26,OMEGA_CORE_V1
+ac74d619-092e-4a9d-9fc0-76498293d4de,43886415,Etelvina,Nogueira,fpalacios@example.com,Secretario (general),2023-08-28,2025-08-22 20:09:28,OMEGA_CORE_V1
+0e78e201-f0b9-4437-8834-911e74e7268f,80404448,Francisco Jose,Muro,iotero@example.org,Director de servicios de tecnología de la información y las comunicaciones,2025-11-26,2024-02-14 13:48:19,OMEGA_CORE_V1
+a41ab341-b437-4bfc-a2fc-587a06e5be66,21143577,Guadalupe,Pinedo,yblanca@example.net,Profesional en redes de computadores,2023-08-30,2024-06-26 19:32:48,OMEGA_CORE_V1
+e73f7776-3816-4036-991d-b0e87e7742ab,86518807,Martirio,Segura,boupepito@example.net,Cuidador de animales,2021-04-30,2025-11-07 10:20:10,OMEGA_CORE_V1
+2508969f-3b63-48e5-a985-be4f97ba63fc,38470702,Lola,Boix,vmarques@example.com,Jefe de pequeñas poblaciones,2022-10-19,2021-08-09 19:57:59,OMEGA_CORE_V1
+af557a9c-5c27-4d75-ab3e-bd03baa43480,59619294,Marcos,Orozco,macario16@example.org,Empacador manual,2021-12-23,2022-06-28 06:01:53,OMEGA_CORE_V1
+0f2404b3-7d80-47b0-a36c-347a7e9a8465,20647379,Lupita,Leon,gmedina@example.org,Director de producción de piscicultura y pesca,2024-08-26,2025-09-26 13:46:38,OMEGA_CORE_V1
+061f2c04-9215-4eef-b098-b90a7de6ce29,53477270,Jordi,Busquets,redondomanuela@example.net,Profesional de nivel medio de medicina alternativa,2025-07-05,2023-04-01 16:08:32,OMEGA_CORE_V1
+7693f253-5339-426b-a7a3-9e8ad74f9870,63370014,Leonel,Bastida,joserosell@example.net,Maleter,2024-01-14,2024-08-24 03:58:55,OMEGA_CORE_V1
+1c419e4c-ec5d-4cd6-b33f-adf3713a224c,28714870,Manolo,Palomo,guillermo36@example.org,Dinamitero,2023-12-24,2025-03-06 06:52:00,OMEGA_CORE_V1
+3dbe0985-73d8-427c-9f22-ad1cad7cd4ab,93658817,Candelas,Escamilla,manoloibanez@example.org,Técnico en documentación sanitaria,2025-08-02,2022-09-26 03:22:58,OMEGA_CORE_V1
+12ebd7fb-6848-472c-8ea2-620e3c9e6657,31293814,Elisa,Iglesias,goicoecheaciriaco@example.net,Limpiador y asistente doméstico,2025-06-30,2021-05-30 17:34:37,OMEGA_CORE_V1
+38e309c2-fba9-46eb-89be-f125086d8b72,98813179,Curro,Salinas,rosalia27@example.org,Astrónomos,2024-05-19,2024-09-19 10:09:15,OMEGA_CORE_V1
+5425efbe-a0d5-4ab0-a7fe-686ed49a7f45,46601618,Edgardo,Barroso,xpinto@example.net,Modelador de vidrio,2023-09-24,2025-02-19 21:00:10,OMEGA_CORE_V1
+19b7bff5-6dd1-4237-b42f-022ba94c3d60,78989376,Agustín,Collado,csantos@example.org,Vendedor por teléfono,2025-11-26,2024-11-19 14:29:45,OMEGA_CORE_V1
+668ff73a-ab53-4602-821a-8bf93b0c8991,58178156,Clotilde,Aparicio,modestotena@example.org,Director de servicios de cuidado de las personas de edad,2021-12-12,2023-11-17 06:36:45,OMEGA_CORE_V1
+f1efcf79-44ae-403f-a32a-219bfce3f119,89278075,Samu,Amigó,faustino85@example.com,Operador de máquinas para la fabricación de calzado,2021-11-28,2021-01-05 14:10:13,OMEGA_CORE_V1
+5fe6c238-bea6-4a96-afe2-c1b0c1f77c6c,59866612,Apolonia,Arranz,estefania61@example.com,Operador de instalaciones de procesamiento de metales,2023-11-12,2021-03-13 14:12:25,OMEGA_CORE_V1
+57728bc5-8fba-437d-a5c8-27ff3ebe652a,16675101,Cristina,Cantero,jpalomar@example.com,Asesor de inversiones,2023-04-26,2023-08-19 18:48:03,OMEGA_CORE_V1
+2be0ea20-791d-4d5b-8873-9cdfe889d572,53172020,Angelina,Vaquero,damian58@example.org,Recepcionista de hoteles,2021-12-06,2023-09-30 23:43:47,OMEGA_CORE_V1
+300b71a4-6926-4763-bd43-8aefc746bb17,68566233,Dorotea,Casado,marvizcaino@example.net,Coreógrafo,2024-12-15,2025-06-19 21:23:23,OMEGA_CORE_V1
+189eec5b-b52b-4048-8ec4-5ec953e8f45e,75062469,Hugo,Ureña,leocadia12@example.org,Peón de pesca y acuicultura,2025-01-03,2021-08-07 10:32:56,OMEGA_CORE_V1
+480a0744-a47d-43ce-be43-748a6132f4f4,93993624,Óscar,Borrás,nogueraamilcar@example.org,Ingeniero de minas,2022-04-11,2024-12-06 18:22:31,OMEGA_CORE_V1
+9286fd24-4cb3-4552-bdb2-dc744f3e9d30,67266260,Anna,Ortega,jescriva@example.net,Especialista en políticas y servicios de personal,2025-11-03,2023-12-29 16:18:31,OMEGA_CORE_V1
+f319fd4d-867e-4631-b020-1a64c982d8fa,72191340,Socorro,Ortuño,wmarcos@example.com,Camarero de barra,2022-07-18,2023-05-05 01:34:16,OMEGA_CORE_V1
+041c1ce1-b70d-48ca-b44d-d245582334be,49842203,Anabel,Cuéllar,ecanas@example.com,Operador de instalaciones de tratamiento de agua,2021-01-13,2022-07-10 11:48:28,OMEGA_CORE_V1
+39907c8d-a73b-4f07-b366-3ae75c386108,69614960,Geraldo,Conde,smanjon@example.org,Empacador manual,2022-04-03,2024-09-28 00:41:56,OMEGA_CORE_V1
+565494e2-bc4f-4b6b-9e20-7e7ddef0a81c,87236030,Aurelia,Peinado,asdrubalporras@example.org,Supervisor de la construcción,2025-05-09,2021-03-06 21:07:26,OMEGA_CORE_V1
+d36c0534-9dbe-41ab-b17e-6617a737d671,45172664,Noemí,Mora,gimenoefrain@example.net,Peletero,2025-12-03,2024-11-25 13:37:48,OMEGA_CORE_V1
+793f48d7-980b-4599-b808-0019c01d5269,45869808,Manuela,Arnaiz,dionisiacalvet@example.net,Operador de máquinas para la fabricación de calzado,2025-02-18,2022-10-06 20:13:41,OMEGA_CORE_V1
+0b062a2d-3b96-473a-b034-d66a00c32a69,62397811,José Mari,Arjona,jordi79@example.net,Astrónomos,2023-04-24,2023-10-07 00:24:45,OMEGA_CORE_V1
+b8a37baa-1d1f-4be3-9881-57310198d3a2,55883181,Lucía,Salamanca,xgarzon@example.net,Operador de máquinas lavarropas,2022-03-21,2022-07-01 01:16:14,OMEGA_CORE_V1
+4bc0ad67-e39d-491b-afed-433a4fb3bf88,73015376,Leandra,Bustos,marianela84@example.com,Zoólogo,2025-04-01,2022-03-20 15:15:47,OMEGA_CORE_V1
+13e8c56a-455a-49f4-9130-8e0ea5639d4b,55292256,Lola,Vargas,crescenciapineiro@example.com,Albañil,2025-11-19,2024-06-14 10:55:50,OMEGA_CORE_V1
+2656c5ad-03de-4aa6-ad9e-8af881a9a4f4,31485740,Aníbal,Tejedor,galindocalista@example.org,Focumentalista,2025-09-18,2021-03-17 13:32:11,OMEGA_CORE_V1
+800d317f-d3ac-4e90-a2fa-a1a5860aef25,12465821,Teófilo,Merino,pascualcastejon@example.net,Decorador de interior,2023-09-21,2025-07-28 15:38:52,OMEGA_CORE_V1
+d7c622d5-90ff-4cbd-93bf-8a4909aa3af7,43753553,Rodrigo,Polo,javierabarcelo@example.com,Mecánico y reparador de máquinas agrícolas e industriales,2025-06-25,2025-10-10 10:25:48,OMEGA_CORE_V1
+2b01b30e-ee6f-4204-8f13-27a449f6865d,96520323,Natividad,Sánchez,loida34@example.com,Técnico en seguridad aeronáutica,2025-11-19,2022-02-25 13:19:07,OMEGA_CORE_V1
+f62b7710-0a35-4b6b-a43f-76e179c411af,99398819,Ale,Luz,gutierrezalmudena@example.com,Médico especialista,2025-12-13,2023-01-04 11:02:20,OMEGA_CORE_V1
+891b62bc-fda7-489f-8445-1958c306d7f5,25740876,Selena,Porras,kcoloma@example.net,Afinador de instrumentos musicales,2024-12-07,2022-02-12 11:09:23,OMEGA_CORE_V1
+e346ea3e-fb85-4c0c-9749-44e109f90d66,34762532,Dalila,Estévez,dalmaumiguel@example.org,Jefe de pequeñas poblaciones,2024-04-01,2021-07-09 13:10:11,OMEGA_CORE_V1
+eef1b64d-5007-40e5-945a-dabe655d5e4d,38555310,Asunción,Rivera,martinfidel@example.com,Curador de museos,2021-03-24,2024-05-28 01:24:56,OMEGA_CORE_V1
+cae76aca-0a0f-4c2d-ad05-5287b7b53b9d,48563321,Charo,Bauzà,toni83@example.com,Diseñador de productos,2025-03-20,2024-02-20 22:14:02,OMEGA_CORE_V1
+b7bdec67-c20b-478a-bdd6-af404dd4e0c2,42200067,Iris,Hoyos,segismundo82@example.com,Profesional de nivel medio del derecho y servicios legales,2022-02-07,2022-04-22 23:42:41,OMEGA_CORE_V1
+14546a4b-5e64-4929-bb90-6c0791d77c16,52073301,Xiomara,Ibáñez,araujocamila@example.org,Pulidor de metales y afilador de herramientas,2024-07-07,2023-02-12 19:21:27,OMEGA_CORE_V1
+d7c3f681-d7f9-4948-afcf-276a0bb39948,63516772,Xavier,Anglada,nazaret71@example.com,"Operario de la conservación de frutas, legumbres y verduras",2025-09-13,2021-05-01 06:00:15,OMEGA_CORE_V1
+7b8c0709-0f17-4c64-8c0a-e7cffc0fa5a0,29844391,Coral,Flores,felixrozas@example.org,Supervisor de secretaría,2022-05-16,2022-03-30 18:17:13,OMEGA_CORE_V1
+fe573a1a-07a9-44db-9ca0-d7d5097d9f3a,59976772,Gabino,Grau,kredondo@example.org,Peón forestales,2025-10-13,2022-02-02 22:03:00,OMEGA_CORE_V1
+e053d4dc-f9cd-47eb-af56-9f5eb9ac7df5,40466371,Emma,Sans,juanamoraleda@example.org,Instructor en tecnologías de la información,2021-08-22,2025-03-29 05:08:46,OMEGA_CORE_V1
+79680d4f-0ca4-4093-a2f2-367698a34189,63235099,Anna,Montenegro,noemidonoso@example.com,Técnico en química industrial,2023-08-30,2024-02-24 21:39:56,OMEGA_CORE_V1
+f39e7761-3e85-463a-92f3-75cbd48a269c,48944777,Leonel,Zamora,ana-sofia27@example.com,Clasificador de desechos,2024-09-13,2022-01-27 16:58:42,OMEGA_CORE_V1
+fae547b4-3ae0-4066-9da3-6333d6be72d9,52815643,Espiridión,Benito,montserratrico@example.com,Empleado de ventanillas de informaciones,2025-11-13,2024-04-29 19:33:04,OMEGA_CORE_V1
+2436da9b-2909-424d-a44e-6d07b02b749d,73157795,Benigno,Quiroga,xperales@example.net,Profesional en redes de computadores,2024-03-21,2021-02-18 11:56:55,OMEGA_CORE_V1
+23c0cb08-658b-43af-b1a6-e20ede8ec75f,20143258,Cornelio,Carlos,lourdesyanez@example.org,Vendedor de comidas al mostrador,2023-09-12,2025-01-04 00:17:04,OMEGA_CORE_V1
+6b449e32-3e71-43c1-ad2b-7383ef88cd6c,79102208,Renata,Ferrera,lpozuelo@example.net,Labrante,2025-11-13,2024-03-13 00:00:43,OMEGA_CORE_V1
+5127463f-fdbc-4144-94db-80a67eaf5361,79303617,Noelia,Moya,eleuteriopenalver@example.org,Profesor de idiomas,2021-11-01,2023-03-26 11:44:06,OMEGA_CORE_V1
+8ef025cc-2730-45be-873e-0c8ba8a90707,94481562,Valerio,Serrano,amadoracero@example.net,Conductor de tranvía,2025-09-08,2022-06-24 14:20:53,OMEGA_CORE_V1
+1d09d738-0754-4b62-a7d0-4feee726f16d,52713247,Maribel,Castrillo,jacinta23@example.org,Ingeniero químico,2022-09-17,2025-10-19 00:54:13,OMEGA_CORE_V1
+b7a86636-e370-4201-93b9-2c6e2018d23b,92798145,Marco,Heredia,aliagabegona@example.org,Juez,2022-05-05,2025-01-18 22:15:21,OMEGA_CORE_V1
+14d943ed-3805-4e1d-b017-2de4f64a0863,59674240,Iker,Atienza,adanligia@example.com,Decorador de interior,2023-01-06,2023-06-08 08:12:58,OMEGA_CORE_V1
+b2284462-ee89-4302-aba9-ae25cf18ef5e,14608195,Román,Figuerola,cornejogenoveva@example.org,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",2023-08-30,2025-05-30 01:39:51,OMEGA_CORE_V1
+e11d01b5-88f8-442b-8314-f1adeb61aacf,63434962,Alexandra,Tejero,isidro88@example.net,Locutor de radio,2025-11-12,2024-12-01 13:19:15,OMEGA_CORE_V1
+ca711ebe-ea6e-4dcd-83c3-9b353527f481,74528504,Mireia,Múgica,tamara06@example.org,Inspector de fronteras,2024-03-26,2022-10-27 19:17:20,OMEGA_CORE_V1
+a4183370-bd00-4905-878b-73dedca8a12e,80500927,Ernesto,Ballesteros,paca53@example.net,Clasificador de productos,2021-03-24,2023-06-28 08:34:32,OMEGA_CORE_V1
+d2666411-5f99-41e9-9aaf-7b8e38d4fac2,21988454,Xiomara,Izquierdo,maria-pilar88@example.net,Tenedor de libros,2025-09-05,2024-09-20 08:27:34,OMEGA_CORE_V1
+d5a56404-8306-42e3-a28e-87e391997a46,10725920,Aitana,Cabezas,hcases@example.org,Agente de aduanas,2021-05-26,2021-04-12 12:41:49,OMEGA_CORE_V1
+4497ea06-0bc8-40f8-94de-dafc89e4bba7,79951473,Baldomero,Requena,porrasmiguel@example.net,Operador de máquinas para la fabricación de calzado,2021-05-13,2024-10-19 07:21:07,OMEGA_CORE_V1
+d37ea8f7-7a78-4542-8dad-228fa3aee9a6,60478614,Victor,Feliu,delgadodamian@example.org,Educador para necesidades especiales,2025-09-09,2025-09-15 02:59:25,OMEGA_CORE_V1
+20395bda-ec3b-4489-830e-554bdf700d0b,56089134,Blanca,Sedano,aurelionoguera@example.org,Modelador de vidrio,2021-05-07,2023-08-29 19:32:31,OMEGA_CORE_V1
+dc659206-5b8b-4ae5-a8d8-391b9300ac54,83641661,Bernardo,Pujol,alma42@example.net,Abogado,2022-03-04,2025-02-10 08:23:28,OMEGA_CORE_V1
+fb87943e-a1d7-486d-8f9a-b8c5398ff41f,60211440,Paco,Murcia,jesusrobledo@example.net,Profesional de partería,2024-09-13,2025-05-26 04:52:29,OMEGA_CORE_V1
+9220c0d7-784f-49f5-8f41-7b6b9aa44ecc,52716187,Olivia,Ávila,joaquinsuarez@example.com,Técnico en seguridad aeronáutica,2024-12-10,2022-05-24 08:02:31,OMEGA_CORE_V1
+d72d568e-cb26-43b9-b6a2-a99e2bbb16dd,89425234,Amor,Torrent,redondolidia@example.com,Grabador de datos,2025-06-11,2023-10-28 12:16:22,OMEGA_CORE_V1
+9877a125-de9a-4a19-8654-602ba7b74880,13024703,Guiomar,Carreras,vilma15@example.com,Secretario ejecutivo,2023-09-17,2024-04-21 21:27:40,OMEGA_CORE_V1
+281630f5-270a-4316-97a8-1b77877c59ef,19496256,Leticia,Exposito,canoleandro@example.org,Instalador y reparador de líneas eléctricas,2024-07-17,2021-09-18 20:21:18,OMEGA_CORE_V1
+74a3e790-60d4-4758-abc5-c6f3e130c718,86628944,Pablo,Cases,zoraida32@example.com,Cortador de vidrio,2025-06-20,2024-03-26 21:15:18,OMEGA_CORE_V1
+6304d0fc-43fc-4878-b199-e0a7eab87951,62316053,Marciano,Rosado,navasvera@example.org,Platero,2020-12-26,2023-10-03 17:59:16,OMEGA_CORE_V1
+b826bc97-1ba3-4a8a-9322-d5e1c8d8adde,14218322,Trinidad,Navarro,mireia02@example.net,Profesional de nivel medio de medicina tradicional y alternativa,2025-06-05,2023-12-20 00:41:35,OMEGA_CORE_V1
+cf3d1331-7416-4341-b2de-b07398a4a0c8,92250025,Elodia,Cepeda,concha02@example.net,Gerente de hoteles o restaurantes,2023-03-15,2023-09-25 17:34:18,OMEGA_CORE_V1
+4cd7e4f3-31d6-41c6-8322-b385b4729b39,86231750,Balduino,Priego,rafaelcanals@example.com,Agrónomo,2024-03-25,2024-06-24 21:53:45,OMEGA_CORE_V1
+07e1dde4-1729-47d4-91c5-ab9712ba152f,36458441,Jimena,Palma,julianhector@example.net,Tenedor de libros,2022-10-06,2025-02-26 08:41:03,OMEGA_CORE_V1
+ced8884c-551a-40df-8da9-3d52de9feb32,64360676,Ariel,Galvez,eugenio58@example.com,Consignatario,2024-07-26,2022-10-27 13:27:04,OMEGA_CORE_V1
+8bac6cca-8b3a-4460-a102-006d3f016175,90674863,Amaya,Echeverría,lorenza35@example.net,Cajero de banco,2025-03-06,2023-04-04 23:42:28,OMEGA_CORE_V1
+9b11b59f-94fd-464e-9f5f-5180ec69e711,97569617,Paco,Cáceres,jaureguijose-maria@example.net,Profesional de partería,2024-03-29,2025-03-16 18:27:36,OMEGA_CORE_V1
+33eaf124-cb9e-43d7-9a8a-fd2ef328bd18,63813229,Loreto,Salvador,alastra@example.com,Tapicero,2021-08-30,2023-09-09 00:09:36,OMEGA_CORE_V1
+accd3981-3f15-4d43-b09e-77018a05dad5,60249766,Vilma,Jerez,nebotjulia@example.org,Ensamblador de maquinaria mecánica,2025-11-22,2023-02-10 18:21:50,OMEGA_CORE_V1
+a9ac13a5-d129-4ebe-a4a2-0fe8639f55a8,33771418,Celestina,Niño,carneroascension@example.net,Agrónomo,2024-01-10,2022-01-27 20:40:57,OMEGA_CORE_V1
+98a35935-cd63-4af3-8049-668e1115b533,96989313,Nereida,Cid,oramis@example.net,Psicólogo,2023-06-04,2025-06-23 11:36:15,OMEGA_CORE_V1
+39b85fd2-9c21-40d6-a064-015f65e2222d,89091301,Oriana,Arrieta,vecheverria@example.net,Técnico de laboratorio médico,2024-02-14,2025-01-15 05:46:16,OMEGA_CORE_V1
+73f9f31e-8aa2-4e8f-a029-9b9898c299c8,52197342,Eliseo,Campoy,custodia60@example.org,Guardia de protección,2024-03-14,2023-01-20 16:18:59,OMEGA_CORE_V1
+745caf08-14c9-4827-b93c-593ce28b1e30,12193031,Piedad,Mateo,benigno76@example.com,Empleado de ventanillas de informaciones,2022-06-03,2021-04-21 00:11:26,OMEGA_CORE_V1
+6055037b-8fe5-4c0a-8504-c5c4ef2e2056,17234731,Lino,Portero,jeremiaspol@example.net,Prestamista,2025-11-13,2023-08-21 15:27:16,OMEGA_CORE_V1
+698f66e5-f3a3-42e8-83cc-f74f3f743661,13402588,René,Pedraza,vcabezas@example.com,Operador de autoelevadoras,2024-05-04,2025-12-24 11:02:02,OMEGA_CORE_V1
+4c193a05-87bb-44b9-8eae-7ea2fb9c2eb7,94554126,Pío,Guzmán,espiridionmontoya@example.org,Orfebre,2021-12-17,2024-05-13 20:26:49,OMEGA_CORE_V1
+a8d842df-ec71-47d7-8032-10fff44214d3,42338391,Marisol,Daza,sanmartinrosalia@example.org,Agente de servicios de expedición de licencias y permisos,2025-05-11,2025-06-18 07:47:16,OMEGA_CORE_V1
+2e1fbf04-7819-4b00-b1ec-63bde0464e7f,71717160,Daniela,Pozuelo,ibolanos@example.org,Artista plástico,2023-04-04,2025-06-06 15:54:08,OMEGA_CORE_V1
+5361ab87-eaa3-47de-a310-5f4392c73728,57820010,Gracia,Quero,josereyes@example.net,Ingeniero en telecomunicaciones,2024-02-03,2023-11-29 15:11:50,OMEGA_CORE_V1
+c5428df4-b1f4-448f-83dd-742169b14521,82566778,Lina,Rosselló,yanezhipolito@example.com,Tapicero,2024-05-06,2025-08-14 08:07:49,OMEGA_CORE_V1
+7492d819-5680-49d4-9d01-ea691d0f118e,15853547,Maximiliano,Zamorano,ebejarano@example.net,Técnico en ciencias biológicas,2022-01-26,2021-03-11 20:31:31,OMEGA_CORE_V1
+c1478f06-bae5-4acf-b55e-4c5c97d2e366,17243903,Armando,Iriarte,penalverainara@example.net,Diseñador de prendas,2023-01-09,2023-03-03 23:58:48,OMEGA_CORE_V1
+cafbf3ff-7847-40fa-b21b-80c94db9887a,51413756,Paula,Rincón,andresponcio@example.com,Conductor de taxis,2021-06-29,2025-04-08 19:22:16,OMEGA_CORE_V1
+c6027fcc-ca36-4ee6-aa00-ca8d14a5700c,46433596,Alfonso,Abella,sara91@example.org,Ingeniero metalúrgico,2025-03-25,2021-12-30 00:46:49,OMEGA_CORE_V1
+5aa7424b-a0d9-4610-912e-a24624df82b8,46901884,Olga,Álvaro,sergiobatalla@example.com,Apicultor,2022-04-14,2023-01-05 20:51:09,OMEGA_CORE_V1
+42001385-d399-44de-8900-9f056d8cfcff,46546494,Octavio,Olmedo,mario62@example.org,Mampostero,2023-10-15,2023-03-12 02:55:23,OMEGA_CORE_V1
+624b4128-f628-48e7-a04b-ab218fafce4c,75344893,Duilio,Carrera,guadalupe94@example.com,Técnico en ingeniería de minas y metalurgia,2022-04-10,2025-11-22 00:04:20,OMEGA_CORE_V1
+d82e6962-e490-4408-8143-f173974cfc4e,49964212,Prudencio,Aguiló,cuevaspaca@example.com,Historiador,2021-01-05,2022-07-14 10:28:42,OMEGA_CORE_V1
+8da2ab80-48cf-488d-a582-451070a8d304,14211749,Aarón,Gracia,chavesmacario@example.net,Techador,2024-06-19,2023-06-05 22:38:10,OMEGA_CORE_V1
+f5a35fbf-6013-45da-a67e-f2da0f41f0fa,53538576,Isidora,Costa,canellasregina@example.org,Orfebre,2025-02-01,2025-07-09 22:42:02,OMEGA_CORE_V1
+9bd8785b-9952-425b-a350-db53452d354c,25772751,Agustín,Linares,pcheca@example.com,Ggeofísico,2023-09-13,2021-10-30 20:41:32,OMEGA_CORE_V1
+e58a386c-1726-4886-aecc-6854c143b481,38282745,Olalla,Manzanares,uescobar@example.com,Reparador de bicicletas,2021-06-18,2024-07-24 07:28:44,OMEGA_CORE_V1
+dc08c767-d74b-439c-bd20-43ce8190b3cb,90777959,Ignacia,Peláez,jordana63@example.com,Técnico en ingeniería de minas y metalurgia,2023-07-06,2021-03-11 04:04:58,OMEGA_CORE_V1
+7e130736-1798-4a26-9832-e3d5fd53ccb6,23848334,Concepción,Garmendia,eutimio54@example.org,Profesional de nivel medio en actividades culturales y artísticas,2023-04-11,2021-12-10 16:51:43,OMEGA_CORE_V1
+a31ca85f-554f-4e34-82a9-1a84c6a25dda,33765987,Narcisa,Estévez,roberta45@example.com,Tapicero,2023-01-07,2025-11-02 19:40:18,OMEGA_CORE_V1
+b35e0325-e301-4643-8dd7-6015095a6eec,79440804,Miguel Ángel,Esteban,sebastiannadia@example.com,Practicante y asistente médico,2021-04-03,2021-05-21 23:08:13,OMEGA_CORE_V1
+3cc408c7-e295-480b-aafe-22897d20a002,83085524,Jenaro,Cuadrado,octavio81@example.net,Clasificador de productos,2023-02-21,2023-06-06 07:20:21,OMEGA_CORE_V1
+9ab5d8aa-b3db-4e87-87f9-3fb494c1b27f,17208303,María Ángeles,Batlle,jgonzalo@example.com,Controlador de plagas y malas hierbas,2023-12-06,2025-03-02 17:55:48,OMEGA_CORE_V1
+c0e84e42-4ea6-46eb-8d4a-74369591a5da,54595804,Régulo,Fiol,guerrerofeliciano@example.net,Zapatero,2025-01-21,2024-09-09 05:12:42,OMEGA_CORE_V1
+5de0e21a-6f36-481d-bc85-0fe6d851b2b8,74369478,Ruperta,Franco,fulgenciomurillo@example.org,Farmacéutico,2024-04-14,2022-02-20 02:02:48,OMEGA_CORE_V1
+2408a4b5-c997-4bc8-b997-59cbdfe3f76b,60281262,Cirino,Tamarit,sverdejo@example.net,Peón de la construcción de edificios,2022-12-24,2021-07-19 22:42:33,OMEGA_CORE_V1
+ad98caaa-e102-4ac6-89b0-28c83f6aab0b,81900989,Anita,Falcón,alcantaraazahara@example.net,Maestro preescolar,2023-04-18,2022-01-10 19:57:42,OMEGA_CORE_V1
+cfc1adaf-f1eb-4f21-a3e1-6253095b4ce4,93639570,Rosalinda,Paniagua,ricardomalo@example.net,Filósofo,2021-12-15,2024-01-06 22:05:02,OMEGA_CORE_V1
+442118a0-0379-4409-b7e5-99273fd5780d,31622250,Olegario,Royo,lvargas@example.com,Personal directivo de la administración pública,2023-03-30,2023-03-21 09:59:48,OMEGA_CORE_V1
+358b8515-0c94-4f94-8a49-79b6776dc848,49103601,Alondra,Berrocal,imeldapalau@example.com,Astrónomos,2024-03-29,2023-01-29 01:51:05,OMEGA_CORE_V1
+ab67b3dd-f2f3-49eb-b6f1-c29e1a2cba30,39352544,José Mari,Higueras,rodolfo98@example.com,Audiólogo,2022-09-25,2025-05-06 04:02:35,OMEGA_CORE_V1
+5e7f3152-0e01-482a-882e-5a4fdf36f21d,51903165,Agustín,Tomas,parejafabian@example.net,Técnico en ciencias biológicas,2022-10-18,2022-10-23 22:53:27,OMEGA_CORE_V1
+2f4c054f-ea31-4c54-9be6-77b85d64e6e9,31354312,Curro,Bustos,alecalleja@example.com,Ensamblador de maquinaria mecánica,2025-10-18,2022-08-28 22:15:22,OMEGA_CORE_V1
+11039edd-fb93-4c6d-a2a2-9895d1307d61,20182917,Mariano,Lasa,eusebio81@example.org,Platero,2021-09-22,2021-12-03 00:50:13,OMEGA_CORE_V1
+34bdc148-3da0-4e65-84b3-7970d488707b,43176654,Joaquín,Nuñez,xpi@example.org,Director de teatro,2024-06-16,2023-01-12 08:14:23,OMEGA_CORE_V1
+1723f63f-9997-480a-b343-76969f059821,30174981,Pánfilo,Aparicio,cmulet@example.net,Profesional de partería,2024-02-18,2021-06-03 19:13:04,OMEGA_CORE_V1
+6acde718-110c-4270-90c6-db435132256d,90454341,Edelmiro,Seguí,cristobal63@example.org,Prestamista,2021-06-12,2022-06-13 20:53:34,OMEGA_CORE_V1
+6883b1c0-970b-485c-88c3-3c02ddcb59dc,31684671,Susana,Olivé,facero@example.org,Controlador de plagas y malas hierbas,2025-10-27,2023-02-25 07:38:45,OMEGA_CORE_V1
+10c3fdfc-e608-4cb7-b7be-0777799f8a1b,79706196,Adelardo,Conde,boixonofre@example.net,Médico especialista,2023-12-10,2023-10-25 01:23:11,OMEGA_CORE_V1
+9e20e608-64ab-4c25-b4ae-c719d5927abf,85631218,Clarisa,Toledo,dmorata@example.com,Operador de instalaciones de procesamiento de minerales y rocas,2021-09-07,2022-03-23 11:27:46,OMEGA_CORE_V1
+0779cf74-5978-482c-9e60-84e7b0b50825,83392065,Araceli,Acedo,zraya@example.com,Profesional de nivel medio de medicina alternativa,2022-07-15,2021-01-26 22:42:41,OMEGA_CORE_V1
+89f57d64-e815-46ef-95ce-2b93403aacd5,49234597,Gema,Osuna,millanyessica@example.org,Chapista,2022-01-22,2024-09-22 20:40:36,OMEGA_CORE_V1
+18d18431-ea8d-4dd7-b892-01aa230a0a29,30502342,Pastor,Rozas,fzorrilla@example.org,Profesor de música,2023-02-21,2024-07-26 09:20:52,OMEGA_CORE_V1
+def61bd6-1d37-4f21-ab11-0f02c2ff6d2d,23423467,Gregorio,Egea,lamasrosalva@example.net,Trabajador forestal calificado,2023-06-27,2023-06-12 08:16:01,OMEGA_CORE_V1
+137963e4-c500-4846-aa33-4c34374cd236,44243546,Mariana,Marín,abril57@example.com,Técnico en seguridad aeronáutica,2023-01-10,2025-06-19 12:04:35,OMEGA_CORE_V1
+d41ed445-1f53-4d99-a66c-db5fd843c306,76986496,Begoña,Cerdá,jmurcia@example.org,Pescador de agua dulce y en aguas costeras,2021-05-14,2024-09-16 00:01:45,OMEGA_CORE_V1
+274fdfdf-23c9-43f5-af9c-7c7bec3d2606,86976643,Maximiano,Francisco,ucabrera@example.net,"Modelo de moda, arte y publicidad",2025-10-02,2023-08-11 11:17:29,OMEGA_CORE_V1
+a5a7fe71-9bc8-41e8-9e4f-ce3007ef24a2,66177296,Paca,Soler,ursulavega@example.net,"Operador de máquinas de embalaje, embotellamiento y etiquetado ",2025-01-21,2024-09-20 17:34:37,OMEGA_CORE_V1
+69285ccb-ecff-4411-8bd3-0e895026025e,56771150,Toni,Benítez,bpalomar@example.net,Colchonero,2023-04-30,2024-04-21 03:41:44,OMEGA_CORE_V1
+8d3610e8-9a22-4c20-9efa-fd592b182519,51447945,Gervasio,Salinas,faustinogalvez@example.com,Oficial de préstamos y créditos,2021-12-05,2024-03-14 23:31:40,OMEGA_CORE_V1
+f237ee6c-3e94-460e-90ea-0a22d090726d,91103546,Miguela,Roman,chucho54@example.com,Secretario médicos,2023-03-24,2021-06-20 18:42:48,OMEGA_CORE_V1
+372a342f-4070-40b5-ba32-b2fac25d150c,18159663,Geraldo,Zamorano,guitartclemente@example.net,Empleado de control de abastecimientos e inventario,2025-08-30,2022-10-29 04:59:29,OMEGA_CORE_V1
+c90371cb-ccdd-4a48-9e59-7cd6077d3345,26176573,Edelmira,Tamarit,godoyeli@example.com,Camarero de barra,2023-10-24,2023-05-08 01:45:54,OMEGA_CORE_V1
+c3cd0355-c9da-477e-9ade-5610d5dfd527,23966485,Antonia,Cañellas,zabalafortunata@example.com,Oficial de cubierta,2023-05-26,2022-04-10 05:22:22,OMEGA_CORE_V1
+ba5b6c36-4fb0-45e5-80a9-2a78252066ce,42528640,Prudencio,Campoy,humberto00@example.net,Profesor de artes,2022-07-02,2025-05-17 13:07:13,OMEGA_CORE_V1
+4b6a2d3b-03da-4ca2-bf43-61008446651c,40810164,Elodia,Gomila,jafet42@example.net,Director de servicios de tecnología de la información y las comunicaciones,2022-04-17,2021-11-10 10:53:08,OMEGA_CORE_V1
+8307241e-9e93-452e-bee6-35bec09c6f7d,80329462,Pía,Barón,narcisa12@example.net,Conductor de taxis,2022-07-22,2023-01-14 03:29:22,OMEGA_CORE_V1
+c4cf800d-76f7-401c-8f2b-ce83996763c9,88273822,Águeda,Echevarría,pcamps@example.org,Practicante paramédico,2021-07-27,2023-01-27 00:35:38,OMEGA_CORE_V1
+d9e6b519-1826-462c-b3d8-e37194e1a657,13947946,Maxi,Palma,nicanorcasal@example.org,Ingeniero químico,2023-01-22,2021-12-08 23:35:36,OMEGA_CORE_V1
+57a7f053-a1f5-4f32-8b43-a74d19d155a2,64176742,Xavier,Sarabia,bllanos@example.net,Agente de empleo,2025-08-07,2025-01-01 06:27:21,OMEGA_CORE_V1
+af551ece-1129-49fb-a0f4-2eb10b526f25,63158804,Octavio,Prat,esmeraldaramirez@example.org,Entrenador deportivo,2022-01-16,2023-09-27 12:45:26,OMEGA_CORE_V1
+867ffc1a-a717-44da-a529-00ce6f055336,40271623,Primitivo,Giralt,sferrandiz@example.com,Árbitro deportivo,2024-10-22,2022-01-05 13:48:06,OMEGA_CORE_V1
+de084213-bc60-48cd-bcc5-876671878f8f,90053200,Ángeles,Requena,ayalanico@example.net,Sericultor,2021-02-16,2021-10-10 05:52:20,OMEGA_CORE_V1
+f1722c9a-1ef9-413c-8d74-c595734a00b1,16928254,Rosalinda,Cámara,ani23@example.com,Analista financiero,2024-07-21,2021-08-05 00:56:42,OMEGA_CORE_V1
+cb6567eb-55f7-474e-8759-e5c2ecf3050b,65348715,Dafne,Baró,alcaldeprimitiva@example.com,Camarero de mesa,2021-04-08,2023-04-05 06:02:06,OMEGA_CORE_V1
+9b634fcc-3863-44bb-816a-99440f51ce8f,93964057,Celestino,Céspedes,zmulet@example.net,Agente de compras,2021-09-17,2023-10-19 05:26:33,OMEGA_CORE_V1
+964406ed-dfeb-4dc4-a97a-6b03a8cf0842,99344222,Azeneth,Anglada,rosendalorenzo@example.org,"Técnico en galerías de arte, museos y bibliotecas",2023-01-30,2024-03-31 05:26:19,OMEGA_CORE_V1
+8f1f3ce3-790d-46d5-9f4f-788973675bb1,51280906,Román,Belda,juan-manuel19@example.com,Reparador de bicicletas,2022-06-07,2025-07-26 18:52:57,OMEGA_CORE_V1
+9a1f7d5a-f9f5-48e2-889b-851ae667c688,72772015,Sandra,Villar,soriaraul@example.net,Cazador,2021-11-20,2021-11-15 22:00:20,OMEGA_CORE_V1
+5c4fbbdd-b1fb-4019-b701-ef1358abc32f,32285160,Evelia,Bertrán,elodiagalvez@example.org,Operador de instalaciones de refinación de petróleo y gas natural,2024-04-09,2022-06-07 23:55:13,OMEGA_CORE_V1
+f324ac25-86d9-4ec0-b97d-78672fc5d180,67493836,Dominga,Barragán,aramburuangelino@example.org,Controlador de procesos,2024-05-21,2024-08-04 19:34:37,OMEGA_CORE_V1
+17a1cbd1-de09-4abb-ac32-a2a1cb4e34af,57646637,Irene,Arce,rita25@example.net,Inspector de fronteras,2022-02-12,2021-10-12 20:47:01,OMEGA_CORE_V1
+13c68e0f-fed9-469c-a257-6c6187eb0069,28953352,Etelvina,Jove,pazgomez@example.org,Desarrollador de software,2025-05-24,2021-06-10 00:51:56,OMEGA_CORE_V1
+56e0e449-ce02-462a-80fa-778d918c06a7,13728776,Teresa,Canals,echevarriaisidoro@example.com,Operador de máquinas de coser,2022-10-19,2024-05-11 08:18:53,OMEGA_CORE_V1
+5f2db7d8-d6dd-4d1a-9a52-04e08c19ee8d,57287389,Yaiza,Mascaró,bernardinomunoz@example.com,Maleter,2023-09-06,2023-04-17 07:19:33,OMEGA_CORE_V1
+31fcd33a-9c96-4840-aed8-e21fd7496cf5,65737676,Gervasio,Paredes,mirtavina@example.org,Conductor de motocicletas,2023-11-19,2022-02-17 04:03:21,OMEGA_CORE_V1
+b14879b8-9f7e-4394-b6c5-a2e7c188eca4,65633804,Raúl,Aguiló,dcrespo@example.org,Calderero,2024-01-07,2023-12-22 18:23:54,OMEGA_CORE_V1
+a6d3682d-b587-4122-8fef-5ee4a1019106,73097515,Hernando,Feliu,canovasisidoro@example.org,Herramentista,2025-11-18,2025-12-17 04:42:22,OMEGA_CORE_V1
+54be254f-573e-4ecc-b8c1-7f1161b1c4c3,63840248,Rosenda,Acuña,qmarti@example.net,"Director de empresas de abastecimiento, distribución y afines",2024-05-26,2023-10-26 21:24:10,OMEGA_CORE_V1
+f1cf7bdf-b16c-4f50-b99e-9b8782e8ec83,72835507,Nazaret,Lara,marina85@example.net,Controlador de procesos,2021-08-30,2023-12-25 11:19:41,OMEGA_CORE_V1
+ee5de4c3-5f2b-4684-805e-c79253196074,94344977,Sabas,Anglada,pontlina@example.org,Peón de minas y canteras,2022-12-06,2023-12-19 01:35:05,OMEGA_CORE_V1
+75b7b5a8-6fec-440b-813b-437dd6152472,37890348,Reyes,Alfaro,anamunoz@example.net,Techador,2025-09-23,2021-06-27 22:22:39,OMEGA_CORE_V1
+044890d9-aee2-4d8d-81b4-c3b649d5e1ba,91105950,Ariel,Carrillo,charoroda@example.com,Trabajador agrícola de subsistencia,2025-03-24,2021-12-26 22:21:54,OMEGA_CORE_V1
+654cb31a-f881-4da3-8d75-93036b771ad2,59491315,Martín,Pulido,vazquezramona@example.com,Piloto de aviación,2021-04-04,2021-08-18 00:41:54,OMEGA_CORE_V1
+c603d9ae-50a5-48ee-95a9-c2c5086f0bef,71711363,Clotilde,Valencia,federicopalomino@example.org,Mandader,2023-10-07,2024-04-09 00:25:45,OMEGA_CORE_V1
+73fb86bd-2ac1-46c1-9e7a-652b58b0c3ec,99953265,Mar,Pla,adiaz@example.org,Gerente de comercios al por mayor y al por menor,2025-08-24,2023-10-26 09:47:40,OMEGA_CORE_V1
+7afc3748-4c3b-4162-a4b5-315668153f34,12405581,Esmeralda,Antúnez,eolive@example.com,Ingeniero civil,2021-07-14,2024-06-05 16:24:08,OMEGA_CORE_V1
+456ac940-bc16-4c2f-a9e5-6e7f9dd2f709,77346159,Carmina,Hoz,zairapozo@example.com,Archivista,2024-12-22,2025-12-07 13:17:11,OMEGA_CORE_V1
+0d096fa8-8831-4c60-a783-b90209b275e5,85837817,Lázaro,Antón,paguilar@example.com,Pulidor de metales y afilador de herramientas,2022-04-29,2024-02-09 03:47:42,OMEGA_CORE_V1
+37c46adc-060c-46d3-92a7-0631b85f37ca,80637885,Calisto,Almeida,luisgomis@example.com,Biólogo,2023-07-24,2025-03-26 14:40:17,OMEGA_CORE_V1
+6e06447a-e96c-4286-973d-34b4ce74bc74,26537996,Pastora,Páez,maite12@example.org,Cantante,2024-06-18,2025-12-13 12:45:53,OMEGA_CORE_V1
+bfbf1a6a-a224-4102-8980-a249c8b56c9d,58735860,Ángela,Salas,graciapalau@example.org,Soldador y oxicortador,2021-06-15,2021-04-06 03:58:52,OMEGA_CORE_V1
+41bd863c-63e6-4567-934f-b4b745afdb94,21506817,Diana,Acero,mataesther@example.com,Recepcionista,2023-11-28,2023-12-11 19:00:13,OMEGA_CORE_V1
+e6b89672-5cbf-4ad7-967f-92b5cd1ecaef,78773530,Julie,Fuertes,tomasmartin@example.org,Peón de minas y canteras,2022-03-15,2022-11-16 23:19:37,OMEGA_CORE_V1
+b163f0ee-9d52-4fb8-85be-5b81154f3c11,13370173,Ascensión,Guillen,lorenzo29@example.org,Sombrerero,2021-07-12,2025-01-30 03:10:28,OMEGA_CORE_V1
+481a4121-fa66-45f2-b3a3-ce7ba3726841,34190980,Nydia,Palau,wroma@example.com,Moldeador y machero,2024-06-17,2023-06-10 19:46:56,OMEGA_CORE_V1
+bfd754d8-f6f5-4744-8be7-89bf02eb58f8,95830453,Gilberto,Camps,jnunez@example.net,Operador de máquinas para fabricar productos de material plástico,2024-05-06,2024-08-04 01:47:33,OMEGA_CORE_V1
+2cbf407d-bd8e-4be3-aac6-ef74f8c824b8,23613925,Georgina,Pedro,cletoportillo@example.com,Meteorólogo,2021-10-17,2025-05-20 07:39:12,OMEGA_CORE_V1
+65845e9b-1f2c-415a-85d7-97a65052741b,67248135,Yéssica,Vera,xfabregat@example.org,Director de servicios de educación,2023-01-15,2022-04-10 17:44:51,OMEGA_CORE_V1
+bcbec99c-4477-455c-8096-9c8d996e71e6,38141488,Fabiola,Avilés,climaconicolau@example.net,Decorador de interior,2022-09-20,2020-12-31 12:59:14,OMEGA_CORE_V1
+fcbc1da8-6427-4776-a40e-214976a4ada3,97267737,Virgilio,Corral,tomas25@example.net,Botánico,2024-06-06,2025-09-20 20:42:34,OMEGA_CORE_V1
+8988715e-ea65-4ccc-9444-660f698be432,82481442,Josué,Pareja,elba08@example.org,Laminador de vidrio,2022-05-29,2023-07-18 19:10:57,OMEGA_CORE_V1
+3c62f9da-69c5-4e14-b615-b748464a1f47,92357302,Darío,Barrera,basilio51@example.net,Empleado de centro de llamadas,2025-11-21,2024-11-12 14:24:40,OMEGA_CORE_V1
+b83179e6-31a5-471f-8a1a-8510d9f4467b,11691186,Severiano,Anguita,cornelio42@example.com,Profesor de formación profesional,2024-10-22,2023-08-20 16:34:26,OMEGA_CORE_V1
+4aad2ed2-3066-4df5-9b9d-37776d843c3a,26073725,Pastora,Ortuño,asomoza@example.net,Gerente general,2024-06-28,2023-05-12 14:26:13,OMEGA_CORE_V1
+e59db083-0888-4dd0-bfcc-0236a37c3412,80661133,Edmundo,Tamarit,carballojimena@example.net,"Gerente de centros deportivos, de esparcimiento y culturales",2022-11-28,2024-08-17 06:50:12,OMEGA_CORE_V1
+ab0e8c1e-74b6-4ac7-b637-7123470c7a52,58819500,Alfredo,Cerdá,dominga06@example.org,Guía de turismo,2022-11-20,2021-10-02 09:17:20,OMEGA_CORE_V1
+5c88d301-da6d-4ae2-8809-b8c68b226673,85001696,Primitivo,Tejera,imarino@example.net,Conductor de autobús,2024-05-21,2024-02-29 08:49:57,OMEGA_CORE_V1
+211c836b-72fe-4fbf-ba5a-334fa5d0fc4f,65596502,Sancho,Paz,gisela76@example.org,Trabajador de explotaciones de acuicultura,2025-07-10,2023-04-03 12:28:08,OMEGA_CORE_V1
+b4ca964f-ef28-4c95-a8ba-9d382d43ea46,83879258,Gilberto,Iñiguez,carmeloramirez@example.org,Meteorólogo,2022-10-06,2022-09-03 05:01:11,OMEGA_CORE_V1
+6805e5e8-f2cd-41dd-858d-d08a3144f5f3,57118764,Reina,Pedrero,gexposito@example.com,Ensamblador de maquinaria mecánica,2024-01-18,2023-06-21 14:28:19,OMEGA_CORE_V1
+b28eb910-8e11-46f5-a530-53f74588bed2,94582910,Alfonso,Requena,florinda50@example.net,Focumentalista,2021-02-26,2022-02-08 12:41:49,OMEGA_CORE_V1
+ae01f3cd-824f-46f2-9f6c-513def4077b1,87397252,Rubén,Vigil,mtenorio@example.com,Comerciante de tiendas,2021-03-25,2021-08-28 04:51:27,OMEGA_CORE_V1
+1ffaedf9-f8b4-4116-9aa3-437111f3b898,35850211,Eric,Posada,pazguiomar@example.net,Empleado de contabilidad y cálculo de costos,2025-01-25,2025-01-10 20:52:43,OMEGA_CORE_V1
+feea7ede-718d-4f6c-863c-1a259c5a906a,83201831,Alba,Macias,maria-josericart@example.net,Albañil,2024-11-14,2024-01-13 12:40:30,OMEGA_CORE_V1
+473dde7b-d995-45db-a9ea-9eb6e43ad752,62600923,Feliciano,Tirado,danielacastells@example.org,"Pescador, cazador, tramperos y recolector de subsistencia",2021-07-14,2022-09-14 09:43:12,OMEGA_CORE_V1
+827bcece-bdc3-47a4-b8a4-ae1e92cadeaa,94644879,Víctor,Mena,arielbenavides@example.com,Corrector de pruebas de imprenta,2023-09-25,2024-07-13 21:59:17,OMEGA_CORE_V1
+93e41ebd-b668-4fa7-ac01-fff2955fd404,93368785,José,Pinilla,jimenagomis@example.net,Especialista en formación del personal,2022-07-08,2021-09-16 07:41:48,OMEGA_CORE_V1
+9358a51a-adcb-4529-92c4-fd8fc94a7b38,38616465,Geraldo,Giménez,jordiros@example.org,Operador de instalaciones de vidriería y cerámica,2023-11-26,2022-12-11 22:48:23,OMEGA_CORE_V1
+8f1bdbe8-eb68-454a-8b44-6e995ae15a1d,17620983,Roque,Esteban,jgimenez@example.net,Juez,2021-06-22,2023-05-03 01:52:29,OMEGA_CORE_V1
+5095075c-4967-4958-8f93-b22d4da869de,11785627,Verónica,Gual,anguitapascual@example.org,Profesor de formación profesional,2023-12-27,2021-02-06 16:57:48,OMEGA_CORE_V1
+5c579252-ddaf-4601-b46c-a105db0e7e40,13675135,Lilia,Sabater,almagrobarbara@example.com,Director de empresas de construcción,2022-03-21,2025-05-11 03:42:37,OMEGA_CORE_V1
+e601fbfb-3c55-4a70-af73-dd32d814a76f,20498190,Elpidio,Casals,cerveracesar@example.com,Técnico de telecomunicaciones,2022-10-26,2022-05-26 01:09:30,OMEGA_CORE_V1
+737bd5b4-f575-45e9-945a-59a5be9de92c,98494894,Carlos,Hurtado,lorenzogisela@example.net,Profesional de nivel medio de servicios estadísticos o matemáticos,2022-03-14,2022-05-02 20:17:03,OMEGA_CORE_V1
+fcfc7a1c-5e43-48d1-88d3-1a81f63e2d95,24933052,Ángeles,Flores,ingrid98@example.com,Técnico de prótesis médicas y dentales,2022-11-27,2022-03-14 05:46:30,OMEGA_CORE_V1
+34f099c8-ee7e-43e8-beed-d8cae85e7780,48661061,Tiburcio,Pardo,zrequena@example.com,Diseñador de productos,2022-09-12,2021-12-28 06:55:11,OMEGA_CORE_V1
+fb9af46b-95ac-4eb2-af58-59c23955ea4d,68684152,Pascual,Girón,ugalan@example.org,Conductor de vehículos accionados a pedal o a brazo,2023-06-21,2025-12-05 08:39:03,OMEGA_CORE_V1
+e433e450-ccad-450d-b602-300352811959,53458332,Emma,Suarez,carmela02@example.com,Técnico de la Web,2022-04-23,2024-05-07 14:37:52,OMEGA_CORE_V1
+81c003ea-2bbf-4ef9-b8c7-e5f2839f2694,81972682,Leandro,Rocha,georginagirona@example.net,Reponedor de estanterías,2021-05-11,2023-05-07 20:49:28,OMEGA_CORE_V1
+f1a8647e-2185-46ef-863a-ae896ceffca4,94028787,Cándido,Salamanca,neirafulgencio@example.net,Ingeniero civil,2022-05-13,2025-04-24 09:53:16,OMEGA_CORE_V1
+3baa4296-59ab-471b-a6ac-1781f4e63e45,94481991,Benita,Luna,carlapacheco@example.net,Corrector de pruebas de imprenta,2024-05-18,2024-10-02 07:55:46,OMEGA_CORE_V1
+bae71889-d9f9-4639-ae6d-94270a8757e0,74294412,Alejandra,Cabo,kaguilera@example.org,Técnico de la Web,2022-10-05,2022-03-17 02:36:38,OMEGA_CORE_V1
+31dcab66-29e4-4346-af80-50ca446c3062,52299136,Guadalupe,Benet,pmayol@example.org,Practicante y asistente médico,2022-11-26,2022-12-22 08:05:46,OMEGA_CORE_V1
+35795484-550e-4b77-a81f-748a253f29e1,70817597,Ulises,Ribera,iborraveronica@example.com,Ingeniero mecánico,2022-07-22,2023-02-11 22:01:18,OMEGA_CORE_V1
+469f8bf6-d046-46d7-ab64-7ad0d00d3593,96820356,Evangelina,Cueto,calisto71@example.net,Peón de explotaciones agrícolas,2022-02-19,2020-12-25 17:10:48,OMEGA_CORE_V1
+b85636cd-8047-43d8-b2b9-ed2a7881d466,72263683,Jose,Ibañez,lunagaliano@example.net,Corrector de pruebas de imprenta,2024-01-08,2021-06-26 18:32:41,OMEGA_CORE_V1
+d57f5b65-e33e-4ab9-bf93-8d75dc63c2a2,44696560,Irene,Marco,almapinto@example.net,Mecánico-montador de instalaciones de refrigeración y climatización,2023-03-19,2021-09-11 19:16:29,OMEGA_CORE_V1
+8898349c-e17d-425d-b6e2-ac1765d9bcfa,42254760,Saturnino,Pablo,herasmodesta@example.net,Supervisor de industria manufacturera,2023-04-13,2025-02-28 05:59:56,OMEGA_CORE_V1
+ecf7a9da-e8a7-4216-a2f5-e60f3369c2e6,49091298,Lina,Viñas,ruth46@example.com,Pescador de agua dulce y en aguas costeras,2023-06-02,2024-02-29 06:23:36,OMEGA_CORE_V1
+28468ad2-f80b-4726-a43e-8325af52498b,44511505,Bernardita,Amigó,encarnitamontes@example.com,Trabajador pecuario de subsistencia,2025-09-27,2022-06-13 09:13:48,OMEGA_CORE_V1
+29ada8c8-7627-4e3f-a071-8aadfb33c3a7,14937471,Remigio,Calderon,codinaliliana@example.com,Profesional religioso,2021-11-25,2025-11-27 19:58:31,OMEGA_CORE_V1
+6dc6bf96-e468-4f46-ad6b-02a33c254b4e,49108737,Concha,Llabrés,verdejocelso@example.net,Artesano,2025-03-22,2023-10-01 23:51:38,OMEGA_CORE_V1
+8d4dd765-2dd9-44f6-9c09-e2bd8bafe284,99625781,Angelina,Anaya,bernaberamos@example.net,Pescador de alta mar,2024-03-24,2021-02-26 20:56:01,OMEGA_CORE_V1
+e40cca77-5bff-43d3-89c7-65fe529f4970,51763696,Tito,Jordán,chusvalencia@example.org,Supervisor de secretaría,2025-05-11,2020-12-27 11:54:57,OMEGA_CORE_V1
+ec2532f5-a273-4a12-b4cb-71a34a1aff16,97076847,Hermenegildo,Manuel,candelariobou@example.org,Secretario jurídicos,2023-10-23,2025-11-25 00:57:02,OMEGA_CORE_V1
+2c4248be-6580-4fee-aa32-697c8ccb161c,74287613,Daniel,Carrasco,ariadnaquerol@example.org,Tramper,2024-05-16,2022-05-03 03:37:44,OMEGA_CORE_V1
+a129f5c4-a2d7-4180-8bf0-fa4a1082af19,27412637,Mohamed,Caballero,danielbelda@example.net,Regulador y operador de máquinas de labrar madera,2023-03-10,2023-07-11 06:56:39,OMEGA_CORE_V1
+b8f067e4-289f-43b1-afbf-674782b49f36,49025340,Juan Pablo,Real,celia52@example.com,Músico,2025-02-15,2022-08-01 14:45:46,OMEGA_CORE_V1
+bc7511bf-b024-44e3-9461-485f92b68def,49115570,Amarilis,Berenguer,borrelljose-carlos@example.org,Recepcionista,2024-04-09,2021-07-16 02:06:41,OMEGA_CORE_V1
+9b0129c1-0006-432a-a463-2c90abd05899,96337413,Ángela,Santamaria,adelardomari@example.com,Peón de explotaciones ganaderas,2025-08-18,2022-04-09 13:05:59,OMEGA_CORE_V1
+eeea0f93-b4ad-4290-9b3e-cedad9eb6797,56904340,Octavia,Vega,pineiromargarita@example.com,Inspector medioambiental y afines,2023-09-03,2024-06-13 10:00:41,OMEGA_CORE_V1
+38b3527f-944e-4ac5-a5bc-2545a00c462c,70727658,Noelia,Dalmau,adoracionocana@example.org,Profesor de enseñanza secundaria,2023-10-02,2023-05-27 08:31:37,OMEGA_CORE_V1
+e059f6ea-8215-4d1d-a94f-f00641920fc3,72413576,Rosalina,Salamanca,anastasiolluch@example.com,Chapista,2021-08-22,2022-08-04 11:41:36,OMEGA_CORE_V1
+893ddc78-251d-45bc-9a6e-73630cbeacb5,36728051,Lisandro,Perea,castillabegona@example.net,Criador de ganado,2021-06-15,2024-03-09 02:21:03,OMEGA_CORE_V1
+893e2e7f-9edb-4b55-a19c-b0856a0167b1,76321146,Rosalina,Salinas,igarcia@example.net,Profesional de la salud y la higiene laboral y ambiental,2025-03-25,2021-03-25 07:57:26,OMEGA_CORE_V1
+b2e770de-3abd-48c1-843b-f5610ae4acfc,23254739,Maite,Castro,bienvenida99@example.com,Moldeador y machero,2025-03-14,2024-05-26 15:54:17,OMEGA_CORE_V1
+24531135-3022-451a-9679-e78c29a2ba5c,37653238,Sebastian,Feliu,celestino47@example.com,Árbitro deportivo,2025-09-08,2021-10-22 22:55:31,OMEGA_CORE_V1
+58a518c6-b07d-4593-ad13-d8aa43201d79,60840340,Sol,Madrigal,oescalona@example.org,Practicante y asistente médico,2022-01-31,2022-08-29 17:26:57,OMEGA_CORE_V1
+3386ff80-d989-4dfc-adab-e2be36d4a672,49073483,Valerio,Galiano,luis03@example.net,Guía de turismo,2024-08-04,2022-11-22 00:09:56,OMEGA_CORE_V1
+dd9d4303-77df-449b-a1bd-9ebefc87cd98,46284546,Concha,Fernandez,olmogustavo@example.net,Empleado de control de abastecimientos e inventario,2024-02-06,2024-08-03 17:45:35,OMEGA_CORE_V1
+cd5d91fa-7f50-4d55-8247-f7e7c7904c29,35584368,Eusebia,Cantero,cmata@example.com,Empleado de servicios de correos,2023-10-16,2024-01-21 11:47:28,OMEGA_CORE_V1
+e72075d0-4077-421e-844c-7735bf0fd632,22794353,Apolinar,Ortuño,miroafrica@example.net,Técnico de prótesis médicas y dentales,2022-12-08,2021-08-10 15:34:18,OMEGA_CORE_V1
+bcf40f80-9131-40c8-b6ca-8d84d49e7331,33978091,Olalla,Antón,noliva@example.net,Limpiador de fachadas,2023-06-27,2022-03-18 09:34:08,OMEGA_CORE_V1
+5ba2a0af-b4aa-4962-89d1-c35dd4273812,70905558,Sancho,Correa,julie28@example.org,Secretario administrativo,2025-06-12,2021-04-27 20:25:53,OMEGA_CORE_V1
+db8b3ae7-6d06-4f05-ba27-15143cc0b58f,30186259,Enrique,Adadia,carbonellnelida@example.com,Secretario (general),2025-01-28,2023-11-06 07:43:04,OMEGA_CORE_V1
+126b1d70-a9c0-48fe-a935-ea402251a3c7,54554146,Tiburcio,Caro,consueloavila@example.net,Supervisor de la construcción,2023-07-24,2022-02-27 14:02:27,OMEGA_CORE_V1
+cf557388-4db9-4ab3-892f-fbc67c1e1154,93066383,Kike,Salazar,marcos79@example.com,Auxiliar de maestro,2024-06-07,2021-03-14 16:45:57,OMEGA_CORE_V1
+472647ac-71c2-49c3-a4fe-6249d4e7a8a0,15597629,Inocencio,Aranda,ariadnapino@example.org,Operador de autoelevadoras,2025-11-27,2021-12-03 06:08:36,OMEGA_CORE_V1
+3b65667a-fb9c-45ab-91f2-19915cdd491d,49353842,Toni,Vilar,bgargallo@example.org,Empleado de ventanillas de informaciones,2021-10-26,2022-06-09 04:07:54,OMEGA_CORE_V1
+648ca807-4d8c-422a-af61-9e145d22213c,37138315,Fidel,Cabanillas,dianalanda@example.com,Agente de bolsa,2023-04-02,2024-08-07 18:44:40,OMEGA_CORE_V1
+64cc083f-216f-4eac-b1bc-69a261ee5c27,15074816,Baldomero,Estevez,celestino36@example.net,Profesional de partería,2024-08-21,2022-06-15 19:46:38,OMEGA_CORE_V1
+b545ddab-0db1-4230-a7a9-11618691b4d9,31271408,Pacífica,Larrea,emilio87@example.com,Vendedor ambulantes (excluyendo de comida),2024-08-11,2020-12-26 13:39:29,OMEGA_CORE_V1
+11fd468c-17e4-475e-ac2f-c1ee539e10aa,78004975,Mariano,Marco,armasazeneth@example.org,Técnico en aparatos de diagnóstico y tratamiento médico,2021-03-05,2021-12-30 05:05:08,OMEGA_CORE_V1
+0a01baa1-0c10-45b1-b10f-51fcb330e5e3,91183435,Octavio,Sancho,moyapedro@example.org,Trabajador forestal calificado,2022-05-20,2023-05-10 18:38:29,OMEGA_CORE_V1
+ce69a665-bf9a-426c-b65e-675449542d24,89343716,Sancho,Pellicer,juanitalosa@example.net,Pintor y empapelador,2022-03-14,2023-08-30 18:42:42,OMEGA_CORE_V1
+4cca5a02-9182-473a-bc66-9684202d1327,37712615,Gilberto,Calleja,mohamed84@example.net,Operador de grúas y aparatos elevadores,2023-02-19,2025-08-20 01:28:58,OMEGA_CORE_V1
+504991d7-0e3c-4d9b-b23f-8af87170ac9c,40258216,Lope,Miranda,primitivotoledo@example.com,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,2022-03-30,2023-07-28 09:15:42,OMEGA_CORE_V1
+6e778f95-83a3-4dbf-a1ee-d008c9929a17,76699829,Chema,Higueras,pacavives@example.net,Técnico de la Web,2023-05-11,2024-02-16 21:39:28,OMEGA_CORE_V1
+f5178f6d-48c1-487c-a6ad-c38ee529fcb6,29272733,Anita,Armengol,arroyofermin@example.com,Arquitecto,2024-01-22,2021-12-24 10:07:21,OMEGA_CORE_V1
+6661bbba-a7a7-4866-92fa-fe3a4563f806,17335856,Juan Manuel,Alberdi,albinapol@example.net,Barrendero,2023-12-10,2024-12-14 18:57:08,OMEGA_CORE_V1
+62871cbc-3fb8-4941-8562-b7f009786ce1,68614478,Paulina,Palau,perellolorenzo@example.com,Practicante y asistente médico,2023-06-04,2022-06-30 23:39:39,OMEGA_CORE_V1
+30548637-fb18-47b9-bfe1-eda720784959,80386595,Edmundo,Comas,martorellestefania@example.net,Bombero,2023-10-05,2025-04-30 00:46:11,OMEGA_CORE_V1
+3a3a0062-2cb1-4177-a107-34dc9b5c25fa,40538311,Albano,Verdugo,loida42@example.com,Profesional de relaciones públicas,2025-03-28,2024-12-05 06:15:44,OMEGA_CORE_V1
+c9d59d0b-20ad-4ca1-840d-9e1345284e68,67913110,Eloísa,Ariño,pinanatividad@example.org,Miembro de las fuerzas armadas,2025-02-25,2025-08-14 10:41:27,OMEGA_CORE_V1
+2924263e-be86-4c5a-8293-82175c19511b,10872356,Gastón,Guijarro,oliviasanjuan@example.com,Comerciante de tiendas,2022-12-21,2023-12-27 06:51:55,OMEGA_CORE_V1
+6178c738-d11d-48b4-8890-679a388d5237,71188216,Rosa María,Clemente,mirallestrinidad@example.com,Operario en cemento armado y enfoscador,2022-02-25,2025-07-30 08:31:09,OMEGA_CORE_V1
+ebd05425-3494-42a3-a16e-3bc03580f4b3,47574803,Coral,Millán,hilarioibanez@example.org,Antropólogo,2022-07-21,2023-06-15 10:31:29,OMEGA_CORE_V1
+472d0686-1967-49ce-abdd-226fd73bed84,61831826,Paulina,Fernández,tonifranch@example.org,Pintor y empapelador,2025-09-24,2025-10-10 23:42:05,OMEGA_CORE_V1
+d2afb5fa-8fff-4b20-b320-2674db6a12ab,10019720,Cayetano,Hierro,tomasdavid@example.net,Sociólogo,2022-06-07,2022-12-23 09:57:41,OMEGA_CORE_V1
+3fa782aa-3318-4a8c-bc7c-bf57c6d74a74,93139989,Teófila,Company,curro44@example.net,Técnico de la Web,2021-09-12,2024-10-14 07:30:44,OMEGA_CORE_V1
+f7c04b04-8688-4dcc-b2ad-ecbe09be8a85,10463399,Cayetana,Gisbert,esperanza31@example.org,Diseñador de prendas,2025-02-05,2023-10-29 04:30:55,OMEGA_CORE_V1
+e7a177d5-fb61-401c-981a-763c664dfb77,33468743,Fidela,Sedano,roxanavega@example.net,Ingeniero de minas,2024-02-05,2025-09-13 21:36:36,OMEGA_CORE_V1
+6e9fcfc1-9d2e-4024-b7f4-85872b734b9c,42132735,Nayara,Catalá,danilo61@example.net,Peón de explotaciones ganaderas,2023-02-02,2025-07-08 00:45:26,OMEGA_CORE_V1
+23bc6fec-f144-4bb5-a681-36c4661ce316,96693590,Agapito,Farré,vanesaclemente@example.net,Mecánico y reparador de motores de avión,2025-03-19,2021-07-02 05:25:12,OMEGA_CORE_V1
+db35ea6a-ba9c-4040-afee-ded1f96ba41d,16710253,Encarnación,Gálvez,murciacayetana@example.org,Electrotécnico,2025-05-15,2024-05-05 01:25:57,OMEGA_CORE_V1
+f3097709-b340-4212-980f-f4d86f866e07,43107602,Gustavo,Molins,zbriones@example.net,Contable,2024-11-01,2021-09-21 05:48:36,OMEGA_CORE_V1
+76135aa7-af47-4e7c-8c07-5cf2fb524849,17354321,Marisol,Tomé,zaida38@example.net,Recolector de basura y material reciclable,2023-03-29,2021-12-30 07:23:02,OMEGA_CORE_V1
+79babe30-eb6b-4d3c-a373-42d9948a110d,87892424,Teresa,Otero,lpinol@example.org,Profesional de ventas de tecnología de la información y las comunicaciones,2023-04-15,2021-04-20 08:48:20,OMEGA_CORE_V1
+851840a3-e55c-49ab-8586-0341bba33c88,96913275,Leonel,Báez,ariasdorotea@example.com,Secretario jurídicos,2023-12-05,2023-01-28 12:18:06,OMEGA_CORE_V1
+5f9a6df2-1305-459f-92e6-182976d709e6,64478397,Felisa,Castilla,verdejoagapito@example.org,Secretario administrativo,2022-03-21,2025-05-22 10:16:10,OMEGA_CORE_V1
+8d8c0e5e-4ce3-478f-b234-fed34a4fcbd6,29562460,Marino,Serrano,ricartcarina@example.net,Ingeniero en telecomunicaciones,2021-04-26,2022-03-26 13:52:11,OMEGA_CORE_V1
+eb8a6034-1be2-415f-8321-3d1db74a6453,11132524,Benito,Fortuny,wcastell@example.net,Dentista,2024-08-09,2022-05-29 06:20:50,OMEGA_CORE_V1
+11529a81-49c2-4541-bf6e-76ec66e18e10,48913239,Yago,Báez,annallabres@example.com,Revisor y cobrador de los transportes públicos,2021-06-25,2021-11-18 04:21:09,OMEGA_CORE_V1
+674fa668-140c-435e-8ad2-1f2d03e5a8ac,51781646,Mercedes,Acuña,lararamon@example.com,Profesional de nivel medio del derecho y servicios legales,2025-05-04,2022-10-14 14:56:07,OMEGA_CORE_V1
+c022ed42-f00c-4cc8-b37c-935f0ec73b95,58099448,Victor Manuel,Arévalo,tejedorotilia@example.net,Director de servicios de cuidado de las personas de edad,2023-12-24,2023-11-23 23:03:35,OMEGA_CORE_V1
+6510a454-2fad-4e26-b296-4526398439c9,91071654,Cándida,Aznar,qalcolea@example.org,Costurero,2025-12-11,2025-12-12 12:17:01,OMEGA_CORE_V1
+84a959e5-8400-4190-b642-09f3ab85ad9a,40441496,Olalla,Cano,lorenzapalma@example.net,Joyero,2022-11-11,2021-05-05 02:15:25,OMEGA_CORE_V1
+b2cd3929-f186-4e68-b9b2-0120490e26e5,77004742,Aníbal,Prats,riveromanuelita@example.com,Inspector de la salud laboral,2024-05-11,2024-06-18 04:04:11,OMEGA_CORE_V1
+bd909402-f3ad-4503-aa90-08f6851ae56a,57587467,Dionisio,Millán,chaconrosa-maria@example.net,Repartidor,2022-10-14,2024-08-26 22:50:39,OMEGA_CORE_V1
+d7766991-a6b9-4425-8ce8-d23c824873a9,66820216,Luna,Mayo,che09@example.org,Especialista en políticas y servicios de personal,2022-06-18,2023-06-05 10:37:57,OMEGA_CORE_V1
+c1a4b56d-8a1c-48ef-b31a-920f381ea33b,68301950,Concepción,Quintana,nbeltran@example.net,Trabajador comunitario de la salud,2024-07-21,2024-07-21 17:03:28,OMEGA_CORE_V1
+36848bc1-ea16-450f-a8f7-17bfe4364f19,38458938,Montserrat,Villena,olivia08@example.org,Operador de máquinas de coser,2022-06-17,2022-11-10 20:24:58,OMEGA_CORE_V1
+22f74217-87e2-4cf3-bbc6-40914645f299,56398929,Adelardo,Taboada,delia93@example.org,Profesional de ventas técnicas y médicas,2023-08-23,2024-05-05 13:22:56,OMEGA_CORE_V1
+324f3b77-ceb0-4415-ba8a-17e31973f62b,84046275,Yolanda,Gomila,edu67@example.org,Operador de maquinaria agrícola y forestal móvil,2024-12-19,2024-02-25 11:13:50,OMEGA_CORE_V1
+82554e0a-6c76-4616-b892-750a31b733d0,57940188,Andrés Felipe,Peralta,rioscarmelita@example.net,Ggeofísico,2023-09-30,2024-12-31 23:16:20,OMEGA_CORE_V1
+a0157efe-a64e-4bca-921c-47fd73ae6d4a,41660296,Alfonso,Varela,maria-jesus83@example.net,Corrector de pruebas de imprenta,2021-06-01,2021-06-08 15:04:29,OMEGA_CORE_V1
+50405ed0-a2e0-4087-a191-2815a71bd4d2,59227033,Fanny,Rosselló,juliopedrosa@example.net,Conductor de camiones pesados,2023-07-04,2025-09-03 23:50:07,OMEGA_CORE_V1
+7b0fe888-66fe-4296-84d7-cdb63b7e22d0,43873666,Luna,Adán,auraoller@example.net,Miembro del poder legislativo,2024-08-08,2024-10-21 14:35:16,OMEGA_CORE_V1
+e29a2482-158a-41fb-a45e-a7fd95914c0c,69594084,Tito,Llanos,wsoler@example.com,Profesional de la publicidad y la comercialización,2025-06-07,2025-06-23 14:40:26,OMEGA_CORE_V1
+895c2e4d-104c-4910-b2a4-3901974caed6,64017880,Espiridión,Lobato,marquezgil@example.com,Arquitecto,2025-09-07,2024-07-29 16:49:01,OMEGA_CORE_V1
+378a87a5-9507-4f33-aa19-d9f45abbc49e,45573535,Severino,Leiva,liliana04@example.com,Diseñador gráfico,2024-01-10,2025-01-09 01:20:32,OMEGA_CORE_V1
+35562ea7-0170-432c-b015-fc6202844f67,10104854,Melisa,Larrañaga,cristina26@example.net,Técnico de laboratorio médico,2021-03-14,2025-03-24 06:54:39,OMEGA_CORE_V1
+6e415780-fe69-4934-bd08-6da1df8847b1,28722608,Erasmo,Barriga,hzaragoza@example.org,Músico,2023-03-06,2024-10-05 08:57:46,OMEGA_CORE_V1
+c951e123-4cee-4a6e-bebe-7ee115d49f60,41937770,Máxima,Colom,czorrilla@example.com,Operador de máquinas para fabricar productos de material plástico,2022-05-18,2025-09-30 17:11:37,OMEGA_CORE_V1
+7083681b-b98e-472b-99c3-1ab0ca18613f,84027677,Elisabet,Nadal,marcela94@example.net,Grabador de piedra,2021-11-18,2022-08-20 19:02:44,OMEGA_CORE_V1
+4e8656a1-801e-4e11-804a-dbc719f584e2,28755764,Francisco,Peñas,marcelaalamo@example.org,Profesional de nivel medio en actividades culturales y artísticas,2022-11-21,2025-11-27 00:53:57,OMEGA_CORE_V1
+90b1490c-5503-450f-819a-7c5c21579886,53423370,Jordi,Romeu,urbano57@example.com,Operador de autoelevadoras,2025-02-15,2024-10-17 04:48:21,OMEGA_CORE_V1
+43856cb2-92b0-4caa-802f-32aebd17374a,91298080,Elodia,Valenzuela,eliassamu@example.net,Electricista de obras,2022-11-13,2025-05-07 04:04:19,OMEGA_CORE_V1
+101405f7-33e8-43be-ac5a-534058dbca77,89550244,Gastón,Aragón,vosuna@example.org,Ggeofísico,2022-10-29,2023-05-23 19:42:32,OMEGA_CORE_V1
+b9cc4a5b-cdcb-4db0-a2fb-5ab19f65c7fe,15922576,Cipriano,Pinilla,ricoonofre@example.net,Mecánico-montador de instalaciones de refrigeración y climatización,2021-08-07,2022-07-06 11:53:52,OMEGA_CORE_V1
+37c3e445-6b75-4fde-b084-da8c324a5bf9,24196083,Cristóbal,Vicente,costagoyo@example.net,Alfarero,2025-03-20,2021-10-12 14:23:35,OMEGA_CORE_V1
+1d5885a8-04ae-4d7d-9054-b8eb85913397,88842736,Gertrudis,Coello,jperez@example.org,Ggeofísico,2023-10-18,2021-02-25 01:56:51,OMEGA_CORE_V1
+0f01d7d3-3d5e-47cc-878e-2a62edb5a91f,38726843,Purificación,Alcántara,jbou@example.org,Tenedor de libros,2021-11-12,2023-04-30 17:46:22,OMEGA_CORE_V1
+e80c88d9-facb-476b-87b9-817ced1c6a23,76629411,Julián,Castell,pallaresmamen@example.com,Archivista,2022-06-27,2025-09-16 04:26:04,OMEGA_CORE_V1
+650e9671-d144-4e0e-bd92-3956e3051334,10270757,Maximino,Nicolás,almansapelayo@example.org,Inspector de fronteras,2021-10-17,2022-08-24 16:45:09,OMEGA_CORE_V1
+5136bcb6-0a52-4f61-846f-97387b95db20,94121229,Leocadio,Arnau,jose-ramonsevillano@example.com,Maquinista de locomotoras,2024-05-15,2021-05-22 05:16:12,OMEGA_CORE_V1
+4b8d579c-df56-407f-9c83-7a9168878799,18716554,Olga,Manrique,odalis49@example.net,Especialista en métodos pedagógicos,2025-07-24,2025-12-14 03:26:40,OMEGA_CORE_V1
+d3368b6a-1564-426b-9394-2cff6b843b58,56281252,Dan,Ángel,pablo62@example.org,Cartógrafo,2024-05-14,2025-11-04 11:44:58,OMEGA_CORE_V1
+fb6c772a-151e-4284-a4e0-5a3d0eedb8ce,75826368,Gema,Sedano,luisevelia@example.net,Policías,2025-01-29,2024-10-07 02:15:17,OMEGA_CORE_V1
+d8865ede-7f58-4c5f-b22f-0478683dda03,42580372,Ricarda,Mayo,odalyssevilla@example.net,Lingüista,2025-03-24,2022-02-04 22:23:40,OMEGA_CORE_V1
+6df258f0-03c5-47d3-a4c7-f6a128426c9b,54530856,Anselma,Alegre,utormo@example.org,Director de cine,2024-03-16,2022-09-07 00:38:09,OMEGA_CORE_V1
+fdba9c01-b597-41f3-aae1-a1ebb328b194,42787343,Octavia,Hierro,manuelrecio@example.net,Profesional de nivel medio de medicina alternativa,2024-04-21,2023-05-10 23:40:18,OMEGA_CORE_V1
+a67b49e3-e62f-4cec-bdae-8d96e5fc5929,51757305,Marino,Echevarría,fabiana43@example.org,Gerente de hoteles o restaurantes,2025-05-31,2025-12-18 04:46:23,OMEGA_CORE_V1
+6c11de16-5ef3-43a5-b996-8b11703867e5,47872467,Gema,Alemán,jose-franciscoisern@example.com,Vendedor por teléfono,2021-10-07,2025-03-20 23:46:21,OMEGA_CORE_V1
+4472b535-7fec-4ac7-ae98-c68c743fb31f,25509881,Palmira,Gutiérrez,mariano71@example.com,Catador de alimentos y bebidas,2021-02-20,2024-10-31 15:27:12,OMEGA_CORE_V1
+de120bf3-0583-45f9-9e8b-4a32f1994a20,24865847,Teodora,Goñi,isabela45@example.org,Especialista en formación del personal,2024-10-27,2022-12-04 07:05:55,OMEGA_CORE_V1
+3a10cb65-48f5-4801-aa87-33c3891d1100,32118132,Bernardita,Prats,ruben04@example.net,Pulidor de vidrio,2025-12-02,2023-10-07 23:50:51,OMEGA_CORE_V1
+2f563efe-e4ff-4dd5-b0a2-80afdfd423d5,78380237,Marc,Tomé,qalamo@example.net,Cantante,2023-11-01,2024-07-23 17:16:37,OMEGA_CORE_V1
+50bbc649-2aec-48dc-b7dd-2801693efd3d,88886010,Isidora,Taboada,cayetano44@example.com,Miembro del poder legislativo,2023-02-23,2021-12-13 11:39:46,OMEGA_CORE_V1
+de9bebb9-e625-414f-9f38-12676e8fe9b3,26091981,Baldomero,Corbacho,folchjessica@example.com,Dentista,2021-04-17,2023-11-02 06:14:51,OMEGA_CORE_V1
+7a4c556b-6d1e-4154-b19f-4cd83cb52ef9,13846836,Ismael,Alemán,hugomari@example.org,Actuario,2021-01-03,2024-07-24 08:32:59,OMEGA_CORE_V1
+08defdda-1df9-4e5e-9b88-cf4241a69a42,59397667,Jessica,Vallejo,mar84@example.org,Parquetero y colocador de suelos,2021-02-24,2023-07-30 11:49:33,OMEGA_CORE_V1
+3d7640c5-a7ea-42c0-b6b2-2ee4ace53911,38026136,Aristides,Segarra,evaristo29@example.net,Telefonista,2022-10-23,2024-04-20 22:30:32,OMEGA_CORE_V1
+85a3e3ff-b262-4441-934c-7db925ff98ad,79859126,Carlito,Llorens,benignooller@example.com,Especialista en métodos pedagógicos,2022-07-03,2021-02-12 09:18:16,OMEGA_CORE_V1
+02b7758c-d0c4-44db-a8ad-5e8df5b48254,54800040,Lola,Arco,florentina28@example.net,Especialista en políticas y servicios de personal,2024-08-20,2023-10-18 03:35:47,OMEGA_CORE_V1
+0fefc9bf-94aa-43ef-aeb7-c57ffe27edf0,45248592,Mario,Vera,leonmaria-luisa@example.net,Trabajador comunitario de la salud,2024-07-03,2025-03-25 05:15:44,OMEGA_CORE_V1
+1244c3d7-faf8-400f-9159-885ee2dd938f,26120049,Amaro,Almeida,andres-felipeviana@example.com,Maestro de enseñanza primaria,2022-08-10,2022-06-25 05:24:27,OMEGA_CORE_V1
+b0887d6d-2720-4b85-89ab-9d01faaae4da,78301359,Rosa,Ferrero,ivelazquez@example.com,Psicólogo,2022-06-23,2024-08-23 12:39:37,OMEGA_CORE_V1
+683da1c3-2c9c-4fd7-a2d9-915270d1d196,26728927,Lorenza,Menendez,americo22@example.org,Secretario ejecutivo,2022-10-12,2023-12-28 09:06:26,OMEGA_CORE_V1
+e0f2975e-7322-4ca1-a0a1-f2c7f42b5cae,38056515,Gil,Jerez,rosalvapenalver@example.com,Técnico en seguridad aeronáutica,2025-11-14,2024-08-23 21:08:35,OMEGA_CORE_V1
+36757045-0731-447f-880d-622ce92c7b88,60048590,Otilia,Figueras,evangelina24@example.org,Lingüista,2025-11-07,2024-12-20 11:08:19,OMEGA_CORE_V1
+40def664-323b-4d33-95c2-7b177e6b353f,89199416,Calisto,Redondo,aragonmayte@example.net,Herramentista,2022-08-30,2023-09-24 09:08:25,OMEGA_CORE_V1
+9b3f2ff4-18a2-4d13-aef5-706772865765,30723208,Samuel,Camps,rescalona@example.com,Peletero,2022-08-23,2023-06-15 23:45:36,OMEGA_CORE_V1
+922955c9-bafe-4b43-8c00-ff52a3380189,26009958,Bautista,Moles,pepeherrero@example.net,Agente de maniobras,2025-01-25,2024-01-08 09:50:26,OMEGA_CORE_V1
+dd068e98-baee-4535-8843-bd62ff99b619,84616050,Blas,Dueñas,yesica05@example.org,Profesional en redes de computadores,2024-08-16,2023-05-10 13:17:43,OMEGA_CORE_V1
+1e2bc2f2-9e13-47d6-8d27-4186f93e222a,53699912,Candelario,Tomás,jfont@example.com,Constructor de casas,2022-04-22,2025-05-07 11:38:36,OMEGA_CORE_V1
+50017269-bcc5-4b1b-8314-42be97a40289,66157299,Daniel,Bru,rcorrea@example.org,Ensamblador de equipos eléctricos,2022-10-11,2025-11-16 11:11:17,OMEGA_CORE_V1
+c2925aa6-5344-4df2-8ef9-705730e0710f,84917218,Gaspar,Coll,hgiralt@example.net,Inspector de fronteras,2022-08-15,2023-07-26 23:46:05,OMEGA_CORE_V1
+e34bfa8b-069b-41e7-a412-cc4d3063f689,71450157,Zaida,Villalonga,elianamayo@example.org,Trabajador social de nivel medio,2022-04-27,2022-05-03 16:21:13,OMEGA_CORE_V1
+e0ac8c1e-caa7-4b10-86db-2dc563725157,10626380,Che,Cobo,lino89@example.com,Bordador,2025-09-28,2025-01-08 00:07:59,OMEGA_CORE_V1
+e96caa1e-bba8-4bba-ad33-e700b4f261af,73138115,Jenaro,Solsona,zacariasberrocal@example.org,Vendedor de comidas al mostrador,2023-02-19,2021-05-09 20:56:27,OMEGA_CORE_V1
+03b0bcb9-ed30-4112-a8e3-b014c91cbba2,99906502,Emma,Quiroga,martiagapito@example.net,Operador de máquinas para fabricar cemento y otros productos minerales,2025-06-11,2025-07-08 00:02:42,OMEGA_CORE_V1
+8977a977-6603-4ced-81b3-a940d15aa863,94231687,Amando,Cabo,toller@example.org,Nutricionista,2022-03-24,2022-05-19 04:19:44,OMEGA_CORE_V1
+3f5d088f-d8a5-4b5d-b7bb-7a89e5b8f4e7,48928198,Aura,Gomez,amandocastellanos@example.org,Ebanista,2023-06-08,2024-08-21 17:42:09,OMEGA_CORE_V1
+9045e4f9-63ff-401b-9744-cbbeea368b62,92524300,Lucio,Viana,ameliataboada@example.org,Decorador de interior,2021-11-11,2023-05-08 02:02:23,OMEGA_CORE_V1
+6f4c4c3c-1cea-4150-bbd1-d34494d32b72,53508140,Isaías,Fabregat,pcabeza@example.net,Astrónomos,2022-03-18,2023-12-08 12:21:44,OMEGA_CORE_V1
+31cee281-f725-49b7-8341-0dcd4544754e,58308706,Evangelina,Llorens,villaverdemercedes@example.net,Especialista en políticas de administración,2023-08-30,2023-07-13 03:48:37,OMEGA_CORE_V1
+0fda8217-0e91-475a-a851-457176276adc,91627937,Consuelo,Flores,moranana-belen@example.org,Profesional de la salud y la higiene laboral y ambiental,2021-12-27,2023-12-12 06:55:42,OMEGA_CORE_V1
+897aa5ea-0223-4866-bbed-10d615740743,89282514,Melania,Franco,romuloleiva@example.com,Especialista en ciencias políticas,2022-07-22,2025-05-28 23:47:43,OMEGA_CORE_V1
+858e16ce-80f0-4af5-820e-249a73e71a83,24182691,Tecla,Iglesia,brigidaagusti@example.org,Juez,2023-12-29,2025-11-20 16:15:05,OMEGA_CORE_V1
+e6b62561-fad1-4563-8669-66f26d03fe9b,36755694,Albert,Sarmiento,alberto28@example.com,Recepcionista de hoteles,2023-05-11,2022-01-19 21:09:35,OMEGA_CORE_V1
+457c59a3-de97-491e-8e2c-82330fe9bf59,40367975,Eli,Prats,naciosaura@example.com,Agrimensor,2022-02-28,2024-11-05 23:56:25,OMEGA_CORE_V1
+404a9815-4a3b-474e-a50c-25d5a22ed9da,94181378,Ignacia,Bueno,gilherberto@example.net,Profesional de nivel medio del derecho y servicios legales,2023-05-12,2025-06-03 16:34:49,OMEGA_CORE_V1
+e5c4b348-4f66-4025-9b6d-cc6051c084fa,34170855,Rufino,Asensio,iglesiadorita@example.net,Artista plástico,2024-05-28,2025-05-12 05:08:00,OMEGA_CORE_V1
+1667dee2-a6c8-4329-9b89-0a69e9a5dca0,17013576,Luis Miguel,Pulido,salcolea@example.com,Profesional religioso,2024-01-21,2024-04-25 15:08:56,OMEGA_CORE_V1
+d444b560-419f-4eea-87c3-3924925733a5,60993268,Dani,Ferreras,zamorajose-miguel@example.com,Peón de explotaciones agrícolas,2022-01-25,2022-01-16 13:04:28,OMEGA_CORE_V1
+7f15c769-555e-4b26-bed0-72ff93025729,92143636,Ulises,Valcárcel,bpalacio@example.org,Instalador de material aislante y de insonorización,2021-04-19,2022-09-28 22:30:11,OMEGA_CORE_V1
+b55ccea6-40c1-42a6-997f-bab2272ffbd0,70606409,Galo,Castell,cbarba@example.org,Carpintero,2023-09-21,2024-03-20 03:16:28,OMEGA_CORE_V1
+c8267c62-a864-4349-8313-78ed2d8673d8,89281838,Reyes,Abellán,manuelitasancho@example.org,Cajero,2022-02-15,2023-10-09 05:10:08,OMEGA_CORE_V1
+b39ca8b6-046e-4e8e-9ff2-eee73f020c06,52565803,Herminia,Pacheco,wdiez@example.org,Programador de aplicaciones,2023-03-21,2025-05-15 05:35:34,OMEGA_CORE_V1
+5edfe620-f52b-4991-96bb-8ec0acc88771,34194707,Felipe,Mayol,maxima39@example.net,Profesor de universidades y de la enseñanza superior,2022-02-19,2022-08-26 19:19:32,OMEGA_CORE_V1
+b8f131a6-55b0-49b4-a252-8d43699a405a,10832057,Fabiana,Mayo,dsanz@example.com,Ayudante de odontología,2023-07-25,2023-07-06 19:03:14,OMEGA_CORE_V1
+9542ae90-8b72-4bae-a8c8-76ffcf7ed218,19666775,Herberto,Cases,arsenio82@example.com,Director de publicidad y relaciones públicas,2024-06-27,2024-07-30 14:00:46,OMEGA_CORE_V1
+596e144c-5388-4f93-9a51-234e8cb76b06,76888766,Olegario,Querol,dimas40@example.net,Técnico en electrónica,2025-04-05,2022-03-05 15:31:21,OMEGA_CORE_V1
+0a15d8eb-a338-4967-a2ba-5481f2cf5c52,64514485,Fidela,Catalá,fabio43@example.org,Maleter,2024-03-22,2024-08-04 04:19:07,OMEGA_CORE_V1
+2fac1bdb-fa0f-4577-8154-a84474af7b5c,80987212,Carmelita,Alegre,vtorre@example.net,Físico,2021-03-02,2024-06-29 23:33:17,OMEGA_CORE_V1
+78bd49fa-6cb9-42d7-bf1e-4e9f5cceab8f,93909558,María Pilar,Mas,pburgos@example.org,Archivista,2024-04-13,2025-11-19 14:32:34,OMEGA_CORE_V1
+a7a5e48b-41a0-4023-b544-fa02def5a816,53477610,Remedios,Alcalá,xavierlosada@example.net,Conductor de vehículos y máquinas de tracción animal,2022-09-17,2023-08-06 04:41:29,OMEGA_CORE_V1
+5873cabf-dd70-454a-8fab-431a9944a3e8,42255107,Amador,Olivé,tereabril@example.com,Miembro de las fuerzas armadas,2021-11-27,2021-10-31 11:26:33,OMEGA_CORE_V1
+5d03bcdb-66ae-4b5b-b806-972a47e7567f,41251849,Luisa,Villegas,mbarriga@example.org,Operario en cemento armado y enfoscador,2025-08-16,2025-05-27 04:00:23,OMEGA_CORE_V1
+67eb9f48-381e-4c9c-a872-23789032065a,11567850,Yéssica,Valls,balaguerdafne@example.org,Desarrollador de software,2025-06-23,2023-05-08 08:42:58,OMEGA_CORE_V1
+28f97f25-be39-4aec-867c-a0a75a3c9e5d,34271469,Gilberto,Exposito,ybermudez@example.net,Cocinero,2021-10-14,2021-11-13 22:11:23,OMEGA_CORE_V1
+da0b2f69-2791-4394-99c8-61108ddc0427,40074359,José Manuel,Alonso,baudelioibanez@example.org,Soldador y oxicortador,2024-11-07,2023-03-24 00:00:51,OMEGA_CORE_V1
+d8b8ba9a-83b8-4fbe-ae37-a420a589ca87,40522953,Adolfo,Gárate,corbachoepifanio@example.org,Profesor de música,2025-09-19,2024-10-23 18:45:44,OMEGA_CORE_V1
+0a790d8f-0d53-4583-8892-c4305a1801a4,33205681,Timoteo,Bravo,ucarmona@example.org,Nutricionista,2025-02-15,2023-11-12 11:58:30,OMEGA_CORE_V1
+c2c30be1-c9fd-4c63-b590-66644385a4ea,26425703,Cipriano,Duque,amalia42@example.com,Dentista,2022-06-05,2021-08-04 02:49:31,OMEGA_CORE_V1
+38153349-2fa6-4ec3-809d-c6f2289bfa59,46821872,Ismael,Gomis,ripollromulo@example.com,Piloto de aviación,2021-11-17,2021-10-26 08:40:19,OMEGA_CORE_V1
+104bb2fd-461a-40b1-ba29-ab815a9475ec,10369666,Adoración,Ochoa,fortunato02@example.com,Astrólogo,2022-03-13,2023-03-03 19:47:01,OMEGA_CORE_V1
+ec526dd6-d5f7-44a7-9dc0-386bf7b6fa1f,62715707,Angelina,Montenegro,costapaz@example.org,Locutor de radio,2024-07-29,2021-02-05 22:49:12,OMEGA_CORE_V1
+be3f8970-9afb-47b6-8704-ee6340775f33,37379607,Mauricio,Avilés,feliunazaret@example.com,Policías,2022-08-03,2021-02-02 06:18:55,OMEGA_CORE_V1
+3802fa8f-36c2-4a5f-8e85-e043f57112c8,65254037,Nidia,Lucena,wfranco@example.net,Instalador y reparador de líneas eléctricas,2023-02-07,2023-07-08 19:01:00,OMEGA_CORE_V1
+9eac7c94-4c96-4a11-8b75-c312a5d40a26,16270958,Benigno,Taboada,fmarin@example.com,Lavandero,2023-03-18,2021-09-11 19:25:31,OMEGA_CORE_V1
+bb480be5-39b4-42d8-abc5-7c3a7179f86f,38009349,Jonatan,Zamorano,qcamps@example.net,Afinador de instrumentos musicales,2023-04-29,2024-09-05 19:33:57,OMEGA_CORE_V1
+2c466947-8786-4ddb-bb56-8e62405f4baa,53643154,Vanesa,Valdés,gracianaortega@example.net,Gerente de comercios al por mayor y al por menor,2023-09-10,2024-01-04 05:52:44,OMEGA_CORE_V1
+67d1c0ee-d55f-47b9-a688-bbcaeb4c56d3,80971905,Albano,Recio,xgalvez@example.com,Empleado de servicios de transporte,2025-09-08,2023-01-22 07:47:47,OMEGA_CORE_V1
+be0fabd6-22dc-4778-bc7c-e5d42d59fbcc,38857597,Godofredo,Carrillo,encarnita31@example.com,Dinamitero,2025-09-18,2022-03-08 02:48:08,OMEGA_CORE_V1
+e5fbdfb1-ed5f-4451-85a4-9a214955cf22,79104937,Casemiro,Rodríguez,aurelianoviana@example.com,Zoólogo,2021-09-02,2023-02-26 07:18:19,OMEGA_CORE_V1
+5c04668e-78ce-4315-a0b5-89bbb2db1abe,50591958,Gonzalo,Pont,marcosvillaverde@example.com,Técnico de telecomunicaciones,2022-02-26,2023-12-02 19:55:24,OMEGA_CORE_V1
+efd7b280-d90d-4b1c-9583-ee57fd25319b,19030938,Bibiana,Rubio,verabibiana@example.org,Árbitro deportivo,2025-11-16,2023-10-29 02:53:18,OMEGA_CORE_V1
+eec62104-45de-44b8-be2b-f3c85285d81a,62150633,Jose Antonio,Vicente,zvillena@example.com,Especialista en formación del personal,2025-04-27,2023-07-07 21:07:49,OMEGA_CORE_V1
+fcce8db1-0f41-4741-b9af-5a75f2ad5088,57700198,Marcio,Yáñez,andreuainoa@example.com,Expendedor de gasolineras,2021-10-10,2025-04-22 01:22:34,OMEGA_CORE_V1
+b123f2a8-8e37-4715-afb7-67bce9b725ae,11334912,Germán,Alcalde,amilcar93@example.com,Inspector de fronteras,2024-04-11,2021-05-03 10:56:23,OMEGA_CORE_V1
+4ff35b91-c630-4bef-88b2-086a1d4d4b7c,91570800,Edgardo,Salmerón,vinicio88@example.net,Constructor de casas,2021-10-10,2021-08-18 05:20:02,OMEGA_CORE_V1
+98192699-f6a8-4c5b-a2bd-8862a1b91d24,11354317,Arsenio,Puente,etejada@example.org,Abogado,2024-02-27,2024-10-20 14:07:33,OMEGA_CORE_V1
+1ce3da81-8268-4f10-bfed-54ccd42e15d9,30631059,Severo,Chacón,ana-sofiabarroso@example.net,Ingeniero en telecomunicaciones,2025-07-11,2024-03-02 00:42:50,OMEGA_CORE_V1
+ffacbbac-0c4d-485f-b171-ecccdcebbdba,46585115,Águeda,Montaña,espiridionconesa@example.net,Profesional de medicina alternativa,2022-10-09,2021-09-16 09:06:25,OMEGA_CORE_V1
+9dc92e26-53e3-402e-98d7-d9c07ca7fb14,55741802,Faustino,Cruz,jesus08@example.org,Cocinero de comidas rápidas,2024-03-12,2025-08-02 05:56:24,OMEGA_CORE_V1
+e41ff4b4-7c58-48fc-9b3f-d3a770c4408f,55792175,Merche,Laguna,marcosalberto@example.org,Veterinario,2022-12-21,2025-05-19 22:45:37,OMEGA_CORE_V1
+d318ae12-b091-4bf1-ad85-205a3c342668,34029454,Nicodemo,Sanmartín,lroma@example.net,Trabajador forestal calificado,2025-06-25,2024-11-27 06:48:31,OMEGA_CORE_V1
+296202e9-21b0-4fc2-bb52-77a999d6bd3d,46562272,Ricarda,Buendía,duilio11@example.net,Arquitecto,2024-08-18,2025-07-27 14:09:05,OMEGA_CORE_V1
+17a7ebd0-2e12-4f25-96e2-dca954b5add0,94329484,Bárbara,Pou,eutimioclavero@example.com,Ingeniero medioambiental,2022-02-12,2023-06-11 03:50:51,OMEGA_CORE_V1
+e3073a53-7cd1-475b-98ff-117f9d80bfd6,86103574,Dionisia,Fernandez,damian03@example.net,Operador de máquinas para la fabricación de calzado,2021-09-26,2023-11-21 12:39:25,OMEGA_CORE_V1
+df911978-cc18-48c5-be1b-bf40db15ad8d,54275959,Leandro,Echevarría,saturninocespedes@example.com,"Director de empresas de abastecimiento, distribución y afines",2023-09-17,2022-05-15 01:26:42,OMEGA_CORE_V1
+df681382-8ffe-430b-adc6-ca3c03f74c66,44107085,Jessica,Requena,maximino72@example.com,Controlador de instalaciones de procesamiento de productos químicos,2024-05-31,2024-09-19 09:06:47,OMEGA_CORE_V1
+a60b8fcb-3e14-47e3-bbb5-6167b553fc15,95041800,Delia,Tejera,ocalderon@example.com,Modelador de vidrio,2022-08-15,2023-02-05 17:18:56,OMEGA_CORE_V1
+b2baf98a-cb35-438b-bd84-1935b436a14c,27945848,Emperatriz,Ros,armidamorante@example.com,Trabajador de cuidados personales en instituciones,2023-12-11,2024-06-21 18:36:47,OMEGA_CORE_V1
+a479e916-7a27-4f02-9933-ff5bceb50fb6,18791230,Eugenio,Baños,josebarriga@example.com,Fumigador,2025-07-25,2023-04-15 16:03:34,OMEGA_CORE_V1
+83ef1a11-bc3e-47ed-b5c3-d17df1e5483e,64642340,Renato,Bayona,mauricioriquelme@example.org,Asistente farmacéutico,2023-01-15,2025-02-05 13:01:32,OMEGA_CORE_V1
+541f858a-16a1-4012-9aa2-6f6248580197,33993110,Maribel,Rosado,teresaespana@example.net,Filósofo,2023-05-24,2022-06-15 00:55:28,OMEGA_CORE_V1
+0bb395d4-9b47-4684-b4eb-e5c96f02df35,92348271,Leoncio,Coello,qnicolas@example.net,Apicultor,2025-10-16,2021-08-10 22:13:32,OMEGA_CORE_V1
+5dbe8a92-27ab-4794-8a80-4868fbb39a86,25432551,Marcos,Durán,mandres@example.com,Director de servicios de cuidados infantiles,2021-10-27,2023-01-07 18:58:27,OMEGA_CORE_V1
+69bce4bb-3c5e-4e66-826a-004d3fd2b1bb,91253839,Victor Manuel,Ayala,pastoracriado@example.net,Director de industrias manufactureras,2023-12-15,2023-12-05 15:42:14,OMEGA_CORE_V1
+4983d76e-9d04-40b0-92b4-6f1717d8185c,67338158,Jordi,Benítez,obaron@example.net,Vendedor por teléfono,2021-04-15,2024-08-26 20:09:23,OMEGA_CORE_V1
+60f2a9b1-b2c0-46a9-a39e-57f37fe0e007,74216485,Nerea,Bastida,baudelio47@example.com,Empleado de ventanillas de informaciones,2024-01-18,2022-08-08 05:54:49,OMEGA_CORE_V1
+3d6fb88a-536a-4162-b85b-cad69fa462f7,54566839,Genoveva,Cámara,lauravillalonga@example.com,Matemático,2021-11-27,2024-07-27 18:03:03,OMEGA_CORE_V1
+5415abbd-ca3f-48d0-bc90-efb0f9f01433,91025870,Zaida,Molins,demetriomur@example.net,Conductor de motocicletas,2023-07-03,2025-02-13 13:32:53,OMEGA_CORE_V1
+efb2993a-99a6-4fa4-972f-0f4659caa36e,88282310,Concepción,Cornejo,edgaraller@example.org,Empleado de servicios de apoyo a la producción,2024-08-14,2021-03-10 02:00:25,OMEGA_CORE_V1
+93a82a9c-ac5f-4ed6-af81-db93e02d7652,17832309,Ascensión,Sáenz,dpaniagua@example.com,Pulidor de vidrio,2024-08-13,2022-01-10 04:18:52,OMEGA_CORE_V1
+b0837b3c-1f6f-40dc-b096-bfd8578999a2,61795230,Andrea,Matas,nicolaujulie@example.com,Supervisor de secretaría,2025-11-22,2021-10-07 23:03:33,OMEGA_CORE_V1
+2b3fe68c-6b4e-4256-bd87-aef41d39ca56,20516892,Reina,Giner,campoche@example.net,Practicante y asistente médico,2025-08-04,2024-01-14 06:33:00,OMEGA_CORE_V1
+62226f92-4802-4a3a-88ea-7e7c4be524ec,68899482,Úrsula,Arenas,santiagocecilio@example.org,Asesor financiero y en inversiones,2023-03-24,2023-12-29 20:10:33,OMEGA_CORE_V1
+c3707ec9-cebe-4f50-b57f-e05375ddd4bd,18379679,Belen,Valverde,lupe48@example.org,Agente de administración tributaria,2022-11-29,2024-08-04 12:00:49,OMEGA_CORE_V1
+116bb852-e1ab-4a3a-a0b1-2e3167902ab5,88791941,Inocencio,Nicolás,adorafernandez@example.com,Empleado de servicios de apoyo a la producción,2025-02-01,2023-03-02 19:32:14,OMEGA_CORE_V1
+f681c28f-ff05-4afe-86b6-5b1292f36bc2,64691110,Asunción,Boada,pavonjenny@example.net,Agente de servicios de expedición de licencias y permisos,2023-08-22,2022-01-03 12:58:22,OMEGA_CORE_V1
+c8bf8526-855c-4f09-b18c-7bcdfe0c7632,92598665,Adriana,Sevillano,leticia06@example.com,Supervisor de la construcción,2025-09-20,2024-01-03 23:57:54,OMEGA_CORE_V1
+da4280e1-00a9-49ff-bb54-37f562085284,45965798,Adela,Barco,paulinoromeu@example.com,Profesional de ventas de tecnología de la información y las comunicaciones,2021-10-11,2025-06-03 15:15:32,OMEGA_CORE_V1
+f83c154e-3fbd-423f-992d-fe8d13eca29a,18584158,Daniel,Cerdá,vallsprimitiva@example.com,Bordador,2025-07-27,2025-09-29 22:48:50,OMEGA_CORE_V1
+9365b9fc-a08d-4ff5-b94b-dcbfe3991fa6,82891146,Piedad,Guardiola,heraclio07@example.org,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",2023-03-13,2022-08-02 16:19:06,OMEGA_CORE_V1
+d7df4e0f-24c1-436e-96d7-6a9873ef7fd2,86166558,Rufina,Molina,isabela94@example.org,"Técnico en galerías de arte, museos y bibliotecas",2021-08-12,2024-08-13 03:53:41,OMEGA_CORE_V1
+94961238-a1bd-4beb-ac72-44e54540b553,78764569,Raúl,Mayol,isabelmoran@example.com,Regulador y operador de máquinas y herramientas,2024-04-21,2023-10-03 16:54:49,OMEGA_CORE_V1
+d1376035-4682-4070-953d-b3a4c0136d1e,44175304,Urbano,Piña,casemiro62@example.com,Médico general,2022-11-11,2021-04-15 14:29:36,OMEGA_CORE_V1
+b914d13b-61af-4bec-8326-3d24ae35f296,86753371,Águeda,Alegre,maria-jesus15@example.net,Impresor,2022-01-12,2022-11-08 02:34:33,OMEGA_CORE_V1
+6b5c02a0-214b-442b-97d0-020350a74c17,37656494,Edelmira,Silva,omiralles@example.net,Operador de máquinas de coser,2024-10-22,2021-11-11 19:45:53,OMEGA_CORE_V1
+38dc159c-5ed8-47c4-ab94-089c177135fc,79093731,Delfina,Cueto,asenjoflora@example.net,Instructor de educación física y actividades recreativas,2021-02-25,2023-03-31 00:54:54,OMEGA_CORE_V1
+d123a16e-ba03-4fa9-81c3-1380e81832d9,78676954,Micaela,Cózar,vergaranando@example.net,"Supervisor de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos",2024-10-01,2023-09-02 02:21:34,OMEGA_CORE_V1
+5a9e3bd4-a0bc-48ef-bdab-e26c84185601,98707796,Aristides,López,montserraturibe@example.org,Entrevistador de investigaciones de mercados,2021-03-26,2021-01-02 08:28:30,OMEGA_CORE_V1
+ca94db68-98a1-4450-90c5-f13ec08de491,66657069,Gertrudis,Verdugo,barrosoofelia@example.com,Técnico en documentación sanitaria,2021-09-21,2021-12-22 17:25:12,OMEGA_CORE_V1
+7c477f30-dc4d-469b-9262-1fb2e3578782,25894208,Bernabé,Salinas,rafa05@example.com,Técnico en asistencia al usuario de tecnología de la información y las comunicaciones,2022-12-17,2022-01-22 08:42:53,OMEGA_CORE_V1
+92016dea-4990-4e36-811d-6ca242d7816e,98984380,Eugenia,Castrillo,bvega@example.org,Secretario jurídicos,2024-09-11,2023-10-13 21:56:20,OMEGA_CORE_V1
+b2030abc-4408-4011-a2ab-56f5832c51ea,19099298,Tomás,Franco,icalderon@example.com,Conductor de vehículos accionados a pedal o a brazo,2023-06-28,2022-06-18 10:29:45,OMEGA_CORE_V1
+3ed20164-4b6b-432d-9296-760cdd3e16e1,55763862,Pelayo,Mosquera,ismael70@example.net,Ggeofísico,2024-01-11,2021-04-25 14:54:08,OMEGA_CORE_V1
+24384699-467f-4e34-8545-508740d6f2f3,13702131,Heliodoro,Campo,sotelomaxi@example.net,Agente de compras,2025-05-09,2025-07-02 01:39:32,OMEGA_CORE_V1
+fb593776-2c04-493c-be59-142e2fc577c0,77958051,Evangelina,Muro,amocayetano@example.net,Operador de máquinas para la fabricación de calzado,2025-09-26,2024-04-23 07:36:24,OMEGA_CORE_V1
+a40de73c-3e94-4b78-ad38-2203eb27d823,26042862,Daniel,Maza,julietasobrino@example.net,Patronista y cortador de tela,2021-10-06,2022-10-10 07:40:49,OMEGA_CORE_V1
+42e53506-f602-41b4-8a82-5b60e1d8f46e,93195511,Néstor,Echeverría,tellotimoteo@example.com,Techador,2025-09-20,2022-07-23 22:47:36,OMEGA_CORE_V1
+5ed9239b-28bb-4c8a-ac99-6c15336d5591,49371163,Ricardo,Tomé,serafina51@example.com,Trabajador forestal calificado,2024-08-29,2022-12-08 09:23:14,OMEGA_CORE_V1
+a9453a7c-a0ab-4fca-823d-fa85601b076f,43237607,Leoncio,Perelló,jafetjuarez@example.net,Parquetero y colocador de suelos,2024-10-01,2024-12-12 09:37:12,OMEGA_CORE_V1
+03deed0b-74dd-4205-81c3-5f1c7a0c17df,75082310,Régulo,Antúnez,daniela86@example.org,Administrador de bases de datos,2024-09-06,2022-09-21 11:18:46,OMEGA_CORE_V1
+94f41b45-dce4-43b5-b089-34e9a44344b9,26585602,Teresa,Sedano,zalonso@example.com,Ecónomo y mayordomos domésticos,2024-01-21,2025-12-01 18:37:46,OMEGA_CORE_V1
+3028bfbe-3ccb-4b5c-9674-2976409aa579,14723149,José Ángel,Mora,ana65@example.org,Cuidador de niños,2021-11-13,2021-07-27 19:11:07,OMEGA_CORE_V1
+d32ac21b-d373-47f6-a261-2db182e18e1a,24492326,Adrián,Muro,xavierpinedo@example.org,Ecónomo y mayordomos domésticos,2021-02-07,2025-09-18 07:00:38,OMEGA_CORE_V1
+c3a11283-df39-45df-896b-62a237e9363f,47571357,Silvestre,Sobrino,bravodonato@example.com,Economista,2024-12-02,2021-12-19 15:33:28,OMEGA_CORE_V1
+a9c3bf53-8344-47d2-bc52-9dc515a49c02,33309303,Yaiza,Vives,barrosootilia@example.net,Técnico en optometría y ópticos,2022-08-18,2022-01-14 21:53:51,OMEGA_CORE_V1
+f2bf244a-9765-4548-b5be-d8d70d6deaa4,34438967,Amador,Carretero,krivas@example.net,Profesor de artes,2022-02-21,2024-10-03 10:13:44,OMEGA_CORE_V1
+6eb1d0d5-29cf-44d1-8ca7-31cd4fa7fa09,85105285,Óscar,Moll,arturoalmagro@example.net,Entrenador deportivo,2022-01-26,2024-06-28 17:33:07,OMEGA_CORE_V1
+5c4db44b-e6ef-426a-8655-31290d6c4989,70857962,Tadeo,Fuente,ferrandizeleuterio@example.net,Periodista,2024-06-08,2022-04-13 18:11:47,OMEGA_CORE_V1
+51175acb-b46b-4e69-bfb2-7de58465206b,11957090,Macaria,Cal,miguel-angeldiez@example.com,Meteorólogo,2025-10-07,2025-01-28 22:54:47,OMEGA_CORE_V1
+d0d9b762-f598-469d-93dd-6338b9b48186,10315804,Mirta,Méndez,epatino@example.org,Contable,2022-09-24,2025-12-04 07:06:53,OMEGA_CORE_V1
+aae9e431-569f-40dd-a7b4-a61ca189aadb,53659353,Andrés,Agudo,carmelita56@example.org,Agente de aduanas,2022-10-10,2023-03-13 06:23:17,OMEGA_CORE_V1
+df300c7c-6e15-49a9-a291-8cdab08a1ca4,86131465,Francisca,Miranda,turvicenta@example.net,Sericultor,2025-11-28,2022-09-03 06:58:08,OMEGA_CORE_V1
+97df1f03-7799-48ff-9d0a-1866ce98e3d1,32796815,Ceferino,Bas,asuncion58@example.com,Operador de máquinas para fabricar productos de material plástico,2021-04-24,2024-07-14 17:56:15,OMEGA_CORE_V1
+db5d450a-28fe-426a-b963-fe2fea5bd10d,23456565,Ligia,Mulet,yolanda01@example.org,Técnico agropecuario,2025-08-26,2024-04-06 18:18:00,OMEGA_CORE_V1
+4312e023-bad4-4056-a576-61a4d5ecc81f,27439639,Ágata,Dávila,maximianoroura@example.org,Profesional religioso,2021-10-28,2021-03-03 06:41:15,OMEGA_CORE_V1
+cd5009f6-d1d9-416f-b096-c931d9fca3f3,92080920,Dolores,Tapia,teobaldonovoa@example.com,Locutor de televisión,2021-07-16,2023-08-09 05:37:27,OMEGA_CORE_V1
+fcb6a09d-5314-471b-910a-f9217f0f3ff7,46242224,Eligio,Girona,salome80@example.net,Profesional de nivel medio de enfermería,2025-08-27,2025-10-23 08:11:47,OMEGA_CORE_V1
+878a9d29-fb3f-48ad-8fb5-fa62d20d856f,41476259,Marisa,Tomas,julietavillalobos@example.net,Analista de gestión y organización,2024-08-11,2025-02-18 18:33:38,OMEGA_CORE_V1
+7f2d6c56-5a9d-4605-b6cd-eec8021d054f,84954234,Perla,Mancebo,rogeliopalomar@example.com,Conductor de automóviles,2024-02-04,2021-12-22 14:40:12,OMEGA_CORE_V1
+4dda3f43-1e7f-44ff-b03b-66b29ea43cd8,87124631,Victoriano,Martín,baudeliocarballo@example.com,Farmacéutico,2021-03-14,2023-02-04 15:10:29,OMEGA_CORE_V1
+bde5377f-f0bd-4ed1-85b8-29951f6557e7,90794843,Guillermo,Carreras,lucasfortuny@example.com,Asesor de inversiones,2023-08-05,2025-01-21 12:45:26,OMEGA_CORE_V1
+e4e75617-70ea-4cd6-ae5c-5f33df61dfe5,79249602,Priscila,Egea,psanabria@example.com,Encuadernador,2023-05-10,2023-11-04 09:58:18,OMEGA_CORE_V1
+aad0d4d3-b35f-461e-82f9-a67fd63bbf2a,61911268,Zaira,Molina,diego78@example.com,Costurero,2024-06-03,2023-03-11 09:56:51,OMEGA_CORE_V1
+560dee8c-43e4-4d32-a36a-78d66b577c91,23731800,Clemente,Cáceres,bhuguet@example.org,Recolector de leña,2022-10-31,2023-08-31 06:48:35,OMEGA_CORE_V1
+43f1732d-3975-4389-8b67-5b745a2f2736,86666077,Candelas,Pina,alvaroamigo@example.com,Auxiliar de servicio de abordo,2023-01-04,2021-10-22 23:50:52,OMEGA_CORE_V1
+a4e198a6-51d1-4e58-ae2f-4f53c0ba1adb,27676194,Alfonso,Palomares,melchor28@example.com,Pescador de alta mar,2022-02-03,2025-08-27 03:01:50,OMEGA_CORE_V1
+4927580c-94a7-45b2-b539-6c94d769607d,16710550,Caridad,Gimeno,franchcarlos@example.com,Instalador y reparador de líneas eléctricas,2023-11-27,2022-02-20 11:22:19,OMEGA_CORE_V1
+20416927-f631-4832-b3a0-069d926df63d,94927676,Jenaro,Quiroga,manjonmaria-jesus@example.net,"Pescador, cazador, tramperos y recolector de subsistencia",2024-06-09,2023-05-05 16:38:49,OMEGA_CORE_V1
+cd6c891e-8626-4b8b-8c56-f262772d6918,44027747,Ismael,Ramirez,arrietasalvador@example.net,Técnico en ciencias físicas y químicas,2022-01-18,2021-01-21 08:48:24,OMEGA_CORE_V1
+cbbe164b-2896-4ec6-82e3-493f82a507ff,56756479,Jose Francisco,Calleja,africacalleja@example.net,Revocador,2023-06-01,2025-07-07 18:30:28,OMEGA_CORE_V1
+f2ecba0e-0576-4cf8-9aa0-65dbd87b8332,83115132,Luisa,Alonso,joseamor@example.net,Impresor,2021-12-15,2022-07-15 17:09:38,OMEGA_CORE_V1
+043d3a6a-c15a-4499-a955-da1c68a85676,98044851,Dorita,Villalobos,rosalinafigueras@example.net,Traductor e intérprete,2022-06-27,2025-03-23 17:30:13,OMEGA_CORE_V1
+82e1c6d4-6eec-42c9-bbd9-2913adb640af,29553581,Felicidad,Mercader,ycabrera@example.org,Modisto,2023-06-16,2023-07-18 15:19:25,OMEGA_CORE_V1
+d0643880-1880-42e0-a161-0d01dd5463f8,13057475,Francisco,Sanmartín,corneliobenavides@example.net,Director financiero,2023-08-13,2024-02-10 02:07:35,OMEGA_CORE_V1
+f600a356-672e-43cc-8f2b-ee4a3be46238,27490373,Bernardino,Taboada,trinidad85@example.com,Impresor,2021-12-31,2022-02-13 15:33:21,OMEGA_CORE_V1
+c03a11d6-23a6-46ea-ac6a-d5efc35ce1b6,21251411,María,Ortiz,vguijarro@example.org,Operador de autoelevadoras,2021-04-06,2023-08-18 05:48:11,OMEGA_CORE_V1
+0162600e-655f-4c1b-9282-10e5d151416f,78840631,Apolonia,Teruel,ysarabia@example.com,Técnico en ingeniería de minas y metalurgia,2021-04-02,2021-05-15 05:06:34,OMEGA_CORE_V1
+c3719e2b-c683-4f67-87ba-72c4f59460f1,39191223,Gabriela,Alcolea,luis20@example.net,"Operario de la conservación de frutas, legumbres y verduras",2025-11-15,2025-07-20 04:25:21,OMEGA_CORE_V1
+1eec69e9-dcc4-4d45-8275-df11be800994,85507788,Xiomara,Mayo,danisarmiento@example.org,Profesional de partería,2024-04-14,2025-08-26 10:29:34,OMEGA_CORE_V1
+e6bbf466-84a4-4e00-976e-5635a5001a10,69039870,María Pilar,Orozco,pazoscayetano@example.org,Personas que realizan trabajos varios,2022-03-16,2021-08-27 00:14:59,OMEGA_CORE_V1
+dd34cfc7-91ad-46dd-a3f5-544764de0fac,14435985,Angelina,Cerdán,mariaflor@example.net,Dentista,2021-02-01,2025-11-11 19:43:22,OMEGA_CORE_V1
+0d360eab-f5d1-4378-9fdf-2921bed0d541,10323510,Leonel,Chico,ycerdan@example.net,Operario del tratamiento de la madera,2023-01-29,2021-11-05 03:15:23,OMEGA_CORE_V1
+0f715bcf-39bd-43b8-9413-d7662dbdabac,72999574,Azahar,Nebot,amartinez@example.org,Repartidor,2025-12-23,2021-04-11 13:22:37,OMEGA_CORE_V1
+6a67a1e5-30b6-4c6c-8d1e-7b304c686488,91760037,Octavio,Verdugo,albina21@example.net,Deportista,2024-03-23,2022-05-04 15:14:40,OMEGA_CORE_V1
+1aeaa079-5f8c-439f-9513-9ee73611a542,57297454,José,Hervás,hcespedes@example.com,Agente inmobiliario,2022-09-06,2025-05-03 08:20:49,OMEGA_CORE_V1
+5a6d50f7-7f7c-4ddf-bc74-b931b1509286,95343710,Flavio,Espinosa,carla88@example.org,Especialista en formación del personal,2024-12-09,2023-08-01 02:44:05,OMEGA_CORE_V1
+bcd17835-21b8-4d08-9046-d07f5eaeb9fe,83506842,Toribio,Jara,barberoflor@example.org,Perforador y sondista de pozos,2024-09-08,2024-07-04 13:16:48,OMEGA_CORE_V1
+a00fa8f6-33d7-48c3-8eb9-d35b454ffad2,37548981,Arsenio,Jaume,luisina46@example.com,Escritor,2024-11-13,2022-08-04 04:07:12,OMEGA_CORE_V1
+bb8f1704-3f3f-468f-852b-cd23c16b0afc,21137203,Dimas,Campo,arturovara@example.com,Operador de instalaciones de refinación de petróleo y gas natural,2023-02-13,2022-08-19 14:56:14,OMEGA_CORE_V1
+7a468dca-98e4-4f2b-80d5-9c6206732040,62633228,Azeneth,Lobo,veronicabello@example.com,Director de producción de piscicultura y pesca,2022-08-22,2023-06-25 16:49:50,OMEGA_CORE_V1
+88419f47-e7c6-49f2-a307-f7d16a1a7b08,43279290,Daniel,Gargallo,carmenasensio@example.org,Buzo,2023-03-19,2024-05-26 00:26:12,OMEGA_CORE_V1
+d0d3c598-4846-4265-a9f1-1d18097c466d,40201321,Fortunato,Castrillo,zacero@example.org,Fontanero,2025-10-06,2022-02-23 01:30:15,OMEGA_CORE_V1
+b0bc9fd1-c418-49f8-8fc3-542c268e763b,86928211,Enrique,Torrent,ubenitez@example.com,Ingeniero en telecomunicaciones,2021-09-19,2025-03-22 23:29:06,OMEGA_CORE_V1
+3b62a36c-7a2c-4f5b-b4c3-fcdeb390fa64,92604185,Américo,Mulet,mateosola@example.net,Profesor de música,2024-12-12,2022-01-30 13:41:00,OMEGA_CORE_V1
+ba0bd2b4-b148-4afb-b19e-e9d803cd11cf,38593592,Casandra,Pi,fayala@example.org,Director de publicidad y relaciones públicas,2021-08-12,2021-01-29 15:15:41,OMEGA_CORE_V1
+fab77a4a-a185-499b-8eca-59d8f863c3d6,95716928,Lupe,Zapata,quique36@example.org,Personal directivo de la administración pública,2021-05-02,2021-07-11 18:57:28,OMEGA_CORE_V1
+47d39b06-15e3-434d-9b86-1d31859e3c75,71287417,Gilberto,Capdevila,ballestereladio@example.org,Lavandero,2021-01-30,2022-02-15 15:01:19,OMEGA_CORE_V1
+be2cf37b-d94e-455e-b267-7cfe00c05680,70295110,Candela,Torre,dsarabia@example.net,Artesano,2024-03-05,2021-02-15 05:20:31,OMEGA_CORE_V1
+0a1006c2-2521-4e5c-804f-4fb2742eb3f5,78350689,Itziar,Olmo,ccuenca@example.com,Químico,2021-02-03,2022-08-15 08:47:36,OMEGA_CORE_V1
+0b8402a7-d22f-4cba-9784-54e48af011ee,76537834,César,Fernández,ciriaco07@example.net,Suboficial de las fuerzas armadas,2025-05-08,2025-12-13 05:09:23,OMEGA_CORE_V1
+02a7517c-5b90-4ff6-8f84-9c9723d970aa,89911777,Vasco,Juárez,eligiacaballero@example.org,Fotógrafo,2024-08-17,2025-06-21 05:53:05,OMEGA_CORE_V1
+410fcab9-84b0-48b3-8331-e29cba0fcf14,91419494,Amor,Olmo,jose-antoniogual@example.com,Médico especialista,2023-09-08,2021-09-21 02:24:02,OMEGA_CORE_V1
+74b0ff85-b2fe-4f86-9527-8118571ec718,96315020,Luís,Roda,candelaria51@example.net,Mecánico y reparador de instrumentos de precisión,2021-06-06,2022-03-16 05:13:41,OMEGA_CORE_V1
+971f4c37-6972-4feb-a581-49c96c358397,79428032,Valerio,Murcia,estradaabel@example.org,Nutricionista,2024-08-18,2025-07-10 20:30:39,OMEGA_CORE_V1
+8b1a45d6-103e-433d-8650-ed578950ddfe,27299108,Macaria,Ferrando,galvezjavier@example.com,Profesional de la publicidad y la comercialización,2025-07-13,2022-11-15 18:58:46,OMEGA_CORE_V1
+2665864e-b7b6-4fe4-ac1e-9399a8926347,46739740,Blas,Ordóñez,camposruben@example.org,Asistente fisioterapeuta,2023-10-08,2021-12-23 06:21:35,OMEGA_CORE_V1
+57b686d3-2b27-4a99-9b1f-6f94e9b7371a,60508776,Toño,Torrijos,gferreras@example.org,Vendedor puerta a puerta,2021-08-29,2022-07-01 21:06:54,OMEGA_CORE_V1
+27b6784e-317f-4548-9d3e-80a80452647e,68084906,Bienvenida,Cuevas,charo00@example.com,Impresor,2021-08-30,2025-08-15 04:56:33,OMEGA_CORE_V1
+235d114a-edee-42db-8760-ef613cc6cacd,36565179,Baldomero,Martin,eduardo76@example.org,Artesano,2023-05-29,2024-01-06 11:15:50,OMEGA_CORE_V1
+dfe3f0f6-6898-443f-9eb9-cab3488e3daa,51513011,Violeta,Trillo,caballerohector@example.com,Mecánico y reparador en electrónica,2021-09-26,2021-09-18 12:01:21,OMEGA_CORE_V1
+8b489436-8fd5-40f0-838b-762a0de6930a,55813750,Almudena,Lillo,adora18@example.org,Agente de compras,2022-06-19,2020-12-28 19:13:58,OMEGA_CORE_V1
+16f0e73f-f974-4a84-ad25-55729ffb3a60,25447922,Evangelina,Acero,jolivera@example.net,Trabajador social de nivel medio,2022-01-10,2022-01-29 15:06:31,OMEGA_CORE_V1
+724067f7-c200-4e6c-a09c-06cfcaca140b,52625683,Paz,Bárcena,tomasa05@example.org,Técnico en ciencias físicas y químicas,2025-12-23,2025-07-20 14:43:09,OMEGA_CORE_V1
+076fbb0b-d44a-4a5d-9143-3a1e4c552cee,67716858,Claudia,Juliá,xiomara03@example.org,Empleado de servicios de correos,2022-06-10,2021-01-30 10:23:31,OMEGA_CORE_V1
+063cdfad-ee11-4e4b-99df-2ab535280fc1,59773841,Olivia,Zamorano,joel03@example.net,Técnico en química industrial,2022-11-26,2025-08-22 00:03:08,OMEGA_CORE_V1
+25f785af-9437-4fad-a1a5-f0255bdc67ca,46001260,Rómulo,Ribes,severinoangulo@example.com,Orfebre,2024-09-28,2021-06-07 05:51:21,OMEGA_CORE_V1
+2bd7f180-d8f7-4b9e-a671-d9a7f1244b90,23608624,Toño,Mendoza,anna27@example.net,Operador de máquinas para la fabricación de calzado,2025-09-16,2025-02-22 23:10:29,OMEGA_CORE_V1
+d52137ab-7a87-4fd0-88b0-4ba1b648caf9,88698750,Graciana,Lopez,rociosarabia@example.net,Técnico en ciencias biológicas,2024-06-19,2024-12-25 12:31:39,OMEGA_CORE_V1
+ca7eca37-467d-43bd-ada6-f90b27479a9c,21745799,Manola,Gomis,torresedgar@example.org,Fabricante de instrumentos musicales,2024-07-18,2025-01-28 07:33:27,OMEGA_CORE_V1
+e0a0e265-8bb0-428c-bed1-c8c2c04abdfc,48130129,Celso,Zabala,joseppedrosa@example.com,"Director de empresas de abastecimiento, distribución y afines",2021-11-01,2021-11-23 04:35:49,OMEGA_CORE_V1
+ab3fff39-dbef-402c-9ec6-34c420195ec6,77677692,Rita,Amat,victoriavives@example.net,Conductor de autobús,2023-02-11,2023-04-17 04:38:59,OMEGA_CORE_V1
+48b8af40-cda6-4b36-bae7-7b737f097ef2,63624530,Amílcar,Alcalde,guillermo47@example.com,Ingeniero electricista,2022-05-26,2021-06-29 15:39:51,OMEGA_CORE_V1
+92719024-100d-4ae0-a7b8-7d2d4e1da408,33419920,Eric,Benitez,qbalaguer@example.net,Fabricante de instrumentos musicales,2024-07-24,2025-01-29 11:12:52,OMEGA_CORE_V1
+d983fa82-84f0-44bc-8bfc-416c0d428463,53753043,Corona,Samper,bartolome52@example.org,Empleado de biblioteca,2021-09-14,2021-01-01 05:09:27,OMEGA_CORE_V1
+9774e853-e03d-4a38-bcc0-2f056d617463,68742798,Andrés Felipe,Mur,villegascarmen@example.com,Fotógrafo,2023-08-06,2023-10-30 08:00:17,OMEGA_CORE_V1
+2e92f004-2f4d-4f15-9eaf-9881e73900a6,59960087,Mayte,Boix,radan@example.com,Conductor de tranvía,2024-11-02,2023-08-08 00:12:10,OMEGA_CORE_V1
+1c0c1cbe-4d7a-4b81-a1ad-af55bc906231,32505545,Maristela,Agustín,minguezjose@example.net,Guardia de protección,2024-11-11,2022-04-14 15:12:11,OMEGA_CORE_V1
+f2031664-a7ea-450d-80b2-0028d7dcd9da,60736436,Ariadna,Cañizares,fiolmar@example.com,Curador de museos,2021-04-09,2023-05-13 15:32:26,OMEGA_CORE_V1
+348069c6-f6cd-4a9f-b2ba-07c288cb0d51,91657159,Eugenio,Iglesia,baroluciana@example.net,Camarero de barra,2025-04-06,2025-05-24 13:13:22,OMEGA_CORE_V1
+419b113d-d71d-4bfc-bf40-83ab91df9484,66537798,Gloria,Pombo,berrocalbalduino@example.org,Instalador y reparador de líneas eléctricas,2024-12-13,2025-06-12 23:07:04,OMEGA_CORE_V1
+b1b9a98b-30c7-45ff-a99e-5249280d5d66,87936781,Felicidad,Abellán,spuerta@example.net,Operador de instalaciones de procesamiento de minerales y rocas,2025-05-07,2021-08-05 10:24:03,OMEGA_CORE_V1
+317399cf-f087-4249-96cd-c5726c19a217,25738059,Rico,Alvarado,leopoldoclemente@example.org,Operador de instalaciones para la preparación de pasta para papel y papel,2023-01-23,2022-03-17 13:00:05,OMEGA_CORE_V1
+f70dc193-fd30-489c-b3bd-0c1eaf4f2c7e,22807573,Moisés,Baños,benitezjulio@example.org,Asesor financiero y en inversiones,2025-03-02,2021-01-20 22:51:45,OMEGA_CORE_V1
+3581d5f4-11bc-4480-9741-f0d91708e38e,83784281,Nuria,Aguilar,reyes86@example.com,Empleado de centro de llamadas,2025-02-09,2021-01-14 11:51:05,OMEGA_CORE_V1
+23ef534b-3da8-425b-a65a-6c26df57a9f2,72648483,Berto,Toro,mateosisa@example.com,Mecánico y reparador de vehículos de motor,2021-02-16,2023-07-29 16:39:10,OMEGA_CORE_V1
+a8714828-32e5-481a-be7f-313d2a93931e,35658397,Felicia,Ribera,fpareja@example.org,Tasador,2025-05-17,2025-02-20 13:42:13,OMEGA_CORE_V1
+ae463ca4-e36e-4333-b218-9dae10956b33,61416894,Edelmiro,Milla,nidiadominguez@example.com,Apicultor,2021-11-22,2023-10-04 04:14:16,OMEGA_CORE_V1
+c03fc029-5786-4114-99d7-87452181dada,34494949,Rosalía,Segura,ncerro@example.com,Colchonero,2024-11-05,2021-11-01 17:04:13,OMEGA_CORE_V1
+0be3b26b-e42f-4b87-b370-d1f55ab8f6bb,49684924,Martirio,Escobar,kribes@example.net,Profesional de enfermería,2023-03-03,2022-04-10 11:43:46,OMEGA_CORE_V1
+ddf4948a-c3b8-4a50-86d4-8e5709e7fdc4,68648640,Vidal,Camps,reina23@example.com,Técnico en ingeniería civil,2022-07-30,2021-01-18 16:38:55,OMEGA_CORE_V1
+76e68b79-e313-4b65-bfae-b9adc72340a8,36445367,Pacífica,Priego,toni51@example.com,Médico general,2025-03-15,2022-06-26 15:55:56,OMEGA_CORE_V1
+716a23a9-9681-4d3b-9bc8-42732f703afb,38086821,Encarnacion,Pedrero,rossellomiriam@example.com,Vendedor ambulantes (excluyendo de comida),2025-02-15,2021-05-09 09:57:56,OMEGA_CORE_V1
+17b4eb1b-d353-40ed-8f6b-268e76b94eff,96933171,Lupe,Uriarte,valeriairiarte@example.org,Agrimensor,2024-09-22,2023-01-13 15:41:49,OMEGA_CORE_V1
+2a6a0ea1-a1f6-4f85-998d-0b419493b3fa,93716765,Chus,Galván,reyna43@example.com,"Modelo de moda, arte y publicidad",2025-02-03,2021-06-16 10:56:18,OMEGA_CORE_V1
+a1760f67-4a8a-42d6-a63d-06fa54d85231,35462643,Guiomar,Tamayo,verdujeronimo@example.org,Profesional de la protección medioambiental,2021-01-06,2022-04-26 11:58:52,OMEGA_CORE_V1
+c9e5b5d2-7250-4946-b1f2-f4a58b31ed15,72489768,Aránzazu,Alegre,rufino78@example.net,Operador de máquinas de procesamiento de texto y mecanógrafos,2022-08-14,2024-10-24 13:32:00,OMEGA_CORE_V1
+a85a5ced-026f-4ea9-9e79-3a0e24c62306,13598812,Visitación,Estrada,isa78@example.com,Director financiero,2025-05-31,2021-06-04 18:31:43,OMEGA_CORE_V1
+563a57ef-8d21-4407-9fe2-da040d53e8e7,89346420,Omar,Torrent,zpablo@example.org,Decorador de interior,2022-08-27,2024-08-04 17:08:57,OMEGA_CORE_V1
+6fdaacf0-900a-4ed6-826c-ff1ed0e5d91e,99850211,Felix,Valero,amadocid@example.com,Miembro del poder legislativo,2021-02-01,2024-05-19 02:03:54,OMEGA_CORE_V1
+fb25ac88-f1cd-4a5a-8807-19711e0e2a1d,59873957,Daniel,Huertas,adolfonino@example.com,Empleado de agencia de viajes,2022-07-07,2023-11-09 04:29:51,OMEGA_CORE_V1
+82f03543-2204-4a78-8f7e-ab9eef549288,63611450,Gilberto,Ramírez,josep24@example.net,"Panaderos, pasteleros y confiteros",2021-04-29,2023-02-07 14:30:56,OMEGA_CORE_V1
+f13b5272-e4bb-4af4-b563-1d553f5f90e4,59809057,Jacinto,Enríquez,rinconsosimo@example.com,Vendedor de comidas al mostrador,2025-09-21,2025-10-26 21:24:38,OMEGA_CORE_V1
+e095993e-946c-4162-b458-a9b112b16b33,95299125,Clotilde,Herranz,josueestevez@example.org,Director de publicidad y relaciones públicas,2022-06-15,2021-05-12 21:35:21,OMEGA_CORE_V1
+688b5e4b-f2d3-407c-96dd-0940efe69a43,45382856,Manu,Valentín,candelas16@example.com,Operador de instalaciones de tratamiento de agua,2022-01-31,2022-08-28 10:52:27,OMEGA_CORE_V1
+b4534587-b218-4706-915c-5435e7ca963a,46943960,Elisa,Ricart,gbuendia@example.net,Técnico en ingeniería de minas y metalurgia,2023-12-13,2021-05-17 00:40:28,OMEGA_CORE_V1
+8d6f9e8e-ff38-4f21-8683-3544a393d6fd,89973834,Alexandra,Gomez,ignacio40@example.com,Profesor de formación profesional,2024-04-05,2023-02-11 15:58:44,OMEGA_CORE_V1
+0a29aab6-e9be-480d-b0e3-f7bf96a85c28,11304881,Nadia,Santiago,nazarioaguila@example.org,Consignatario,2023-09-10,2022-10-08 17:44:59,OMEGA_CORE_V1
+effad806-9799-444a-a8b5-d110925d8792,11811850,Chus,Alemán,geronimo47@example.com,Peluqueros,2025-01-03,2025-09-09 19:50:36,OMEGA_CORE_V1
+0b74fb43-91ad-4ea6-b160-beee02face25,74326467,Máximo,Manrique,pujadaspepito@example.net,Ingeniero químico,2024-02-25,2024-04-08 05:59:09,OMEGA_CORE_V1
+9a1cf2ee-4ff2-4a4d-a429-326c7003a655,14766193,Eusebia,Calatayud,canizaresfilomena@example.net,Operador de instalaciones de procesamiento de minerales y rocas,2023-08-17,2023-07-18 10:19:40,OMEGA_CORE_V1
+e2e33bce-f21b-4b4b-9af0-c1a6632e49c4,90791578,Bernardita,Segovia,david26@example.com,Operador de máquinas lavarropas,2023-07-19,2022-10-22 08:36:34,OMEGA_CORE_V1
+ac0120e2-d5db-47e2-a7ad-95cea102bc9e,77304018,Pancho,Monreal,joel72@example.org,Administrador de sistemas,2025-09-19,2025-06-21 16:47:16,OMEGA_CORE_V1
+fd6d3927-8c07-4d4a-b43e-7984b746e099,44473505,Albano,Ordóñez,quesadacandido@example.net,Mampostero,2025-04-24,2024-07-04 12:43:00,OMEGA_CORE_V1
+3884645d-3086-4473-9239-081a8bbef1b9,14879690,Evelia,Artigas,vicentacabo@example.com,Conserje,2024-10-01,2023-04-09 04:06:52,OMEGA_CORE_V1
+bf7ea7c4-49b5-46c1-b550-9771f9cac3e2,13299324,Soraya,Palomares,jacobobertran@example.com,Empacador manual,2022-11-23,2023-09-26 06:04:32,OMEGA_CORE_V1
+a2d63db4-6f9b-4928-a2b7-edab3b64b937,18770947,Lara,Monreal,marisolsegura@example.net,Criador de ganado,2023-09-09,2025-09-21 06:54:46,OMEGA_CORE_V1
+153689f2-fcef-4a9c-ad8a-ba926c8a71aa,65473460,Eladio,Roma,beleniriarte@example.net,Inspector de policía,2024-04-21,2022-01-22 16:07:29,OMEGA_CORE_V1
+9348a629-89c1-4127-a08f-c6512be37bda,28791026,Ángela,Feijoo,haydeecomas@example.net,Agente de servicios de expedición de licencias y permisos,2023-09-06,2022-11-11 03:56:13,OMEGA_CORE_V1
+d6f27f20-2976-4c96-9be6-ab4ebedb3d92,11408168,Eliana,Aguirre,edu27@example.org,Director de servicios de cuidados infantiles,2023-08-07,2021-08-04 01:15:36,OMEGA_CORE_V1
+e2c01d44-abd2-4f0d-815d-7192ebbc8d3c,64841245,Ramona,Cantero,joaquin38@example.com,Técnico en operaciones de tecnología de la información y las comunicaciones,2021-05-23,2024-08-02 14:23:25,OMEGA_CORE_V1
+edfc7772-d33a-44ec-9c0c-75ee08aa1821,33321541,Alfonso,Marti,nando81@example.com,Recepcionista,2022-09-29,2021-07-31 11:33:21,OMEGA_CORE_V1
+ebe7d102-0514-4d80-9c83-a33af65621d6,79447381,Bárbara,Valbuena,bienvenida02@example.net,Abogado,2023-10-20,2023-08-27 21:14:11,OMEGA_CORE_V1
+961b83d4-08c2-485d-8b31-49066c496afa,42766624,Mateo,Varela,saezgerman@example.org,Supervisor de industria manufacturera,2022-03-30,2021-02-26 08:55:01,OMEGA_CORE_V1
+fc2f7fcd-467c-440c-8d70-f7dd9e346f1e,40801121,Maite,Román,pmartin@example.com,Profesional de ventas de tecnología de la información y las comunicaciones,2021-03-17,2025-10-30 20:54:17,OMEGA_CORE_V1
+fbc6c800-4741-4fac-b496-f8ef7a81353f,76935638,Jose Manuel,Guillén,lgamez@example.org,Ingeniero metalúrgico,2023-07-25,2022-11-10 23:03:36,OMEGA_CORE_V1
+1ab2c2f7-e717-41d2-b6b3-729f5e1e90ff,57361632,Zacarías,Estrada,gamores@example.net,Profesional de nivel medio de servicios estadísticos o matemáticos,2025-10-26,2024-03-08 02:23:58,OMEGA_CORE_V1
+0eb4a4a2-b243-4060-9ed1-3abb3d2fb681,52123562,Enrique,Montserrat,dtoledo@example.org,Guardia de protección,2024-09-25,2024-02-22 02:26:56,OMEGA_CORE_V1
+2664b9c8-ed6d-4e7c-9f70-b59d0b548b63,10525959,Eleuterio,Posada,fannyarce@example.net,Profesional de partería,2022-08-05,2022-01-19 09:15:28,OMEGA_CORE_V1
+11bfb419-a03c-47a3-9b5a-9fe8bdfe9a53,41789683,Elodia,Calatayud,tcerro@example.net,Conductor de vehículos accionados a pedal o a brazo,2025-03-31,2023-11-15 21:58:40,OMEGA_CORE_V1
+ad3098f4-5b29-4d4e-b29f-956a5eee10dc,83713047,Candelas,Hernandez,teclavillalobos@example.net,Ayudante de cámara,2023-09-03,2022-10-27 08:28:35,OMEGA_CORE_V1
+8e449627-c826-4bd2-b101-97bf167f45ef,51895920,Marciano,Hoyos,osalas@example.net,Gerente de comercios al por mayor y al por menor,2025-12-17,2023-12-30 19:13:54,OMEGA_CORE_V1
+e1334197-d74a-41a5-a1ff-c108fa1a3037,34997575,Luciano,Uría,candelario28@example.com,Patronista y cortador de tela,2025-11-04,2022-09-24 01:22:45,OMEGA_CORE_V1
+68e5342b-d7b6-4e35-879e-78ec01da500b,59222345,Emilio,Molina,fiolmacario@example.com,Técnico de radiodifusión y grabación audio visual,2021-01-15,2021-11-06 07:08:42,OMEGA_CORE_V1
+2c7f6376-88f5-4615-bc24-1ce14d4f606c,45035886,Águeda,Figueroa,jessicaoliva@example.net,Conductor de automóviles,2025-04-17,2025-07-19 01:36:58,OMEGA_CORE_V1
+d05e1ef5-9ef2-4cd1-a6b1-4acfc6eecfeb,46191269,Emigdio,Pol,zacarias87@example.com,Chapista,2025-12-23,2021-06-01 20:22:22,OMEGA_CORE_V1
+682cace4-ee6c-45dd-b2a2-4fc52e382638,11890571,Wálter,Amador,lucilatapia@example.com,Suboficial de las fuerzas armadas,2025-01-12,2024-10-26 09:05:48,OMEGA_CORE_V1
+7b26cb99-7a04-4aa6-9315-df1efa777a8a,15216728,Pepita,Ortiz,nbru@example.org,Técnico en ciencias físicas y químicas,2021-08-23,2025-12-03 09:44:23,OMEGA_CORE_V1
+9a4ece18-6b2d-4b7b-84e2-bd545ef84d96,92885569,Perla,Alberto,marco48@example.com,Director de servicios de bienestar social,2022-01-03,2023-03-20 15:58:27,OMEGA_CORE_V1
+4a2f4540-4e39-4f66-92e7-2a5a46676abc,11893515,Haydée,Macias,liliana74@example.org,Supervisor de la construcción,2020-12-23,2022-12-22 08:21:49,OMEGA_CORE_V1
+7a43e936-cdfc-46d7-8725-3a32d0f754c1,73717210,Valerio,Amador,gmorell@example.net,"Operador de máquinas de preparación de fibras, hilado y devanado",2022-10-09,2025-06-13 23:54:29,OMEGA_CORE_V1
+65d5a98c-4fbc-4204-813f-40d183fd32eb,78474072,Pelayo,Madrid,rodriguezjosefa@example.net,Agente de servicios de seguridad social,2023-01-17,2021-10-26 13:14:56,OMEGA_CORE_V1
+17111d20-d580-473e-92b1-50cb739c69bd,73576712,Montserrat,Pallarès,isa88@example.org,Operador de instalaciones para la preparación de pasta para papel y papel,2021-03-23,2025-02-28 14:58:22,OMEGA_CORE_V1
+3b7ff22a-680b-42e4-a4a7-be8bee4b0972,75921577,Eugenio,Belda,marquezyaiza@example.org,Montador de estructuras metálicas,2021-07-13,2022-05-17 06:28:27,OMEGA_CORE_V1
+54e492fb-e242-42b6-aaec-346d0da2eb1b,76817200,José María,Campo,xsotelo@example.org,Operador de máquinas para la fabricación de calzado,2021-05-03,2025-11-10 21:17:36,OMEGA_CORE_V1
+d1e82d60-1960-4b9c-9ade-fe86ce168a50,56023629,Jacobo,Soria,molinsramon@example.net,Diseñador de bases de datos,2023-02-13,2024-04-28 22:35:50,OMEGA_CORE_V1
+b9c4dd48-869e-4a0d-bd55-418647b2e2e8,81727379,Concha,Capdevila,irios@example.com,Operador de instalaciones mineras,2022-07-01,2022-11-18 14:39:04,OMEGA_CORE_V1
+62fbc814-0f71-48b7-8cfa-b586e36917d4,40081262,Apolonia,Cifuentes,kcasas@example.com,"Operario de la conservación de frutas, legumbres y verduras",2023-08-16,2021-03-04 05:41:24,OMEGA_CORE_V1
+ddd84618-eeaa-46c6-95a9-bf11edd59790,84716071,Benjamín,Amor,ainararoca@example.com,Fabricante de instrumentos musicales,2025-08-01,2025-05-25 06:49:06,OMEGA_CORE_V1
+1e4f6161-b5e2-4db4-990a-8404423d93aa,88783303,Marisela,Camino,urbanorecio@example.net,Personas que realizan trabajos varios,2024-02-17,2025-04-18 00:40:45,OMEGA_CORE_V1
+5047ad54-e087-4e6f-b49f-93ee2679f7e8,52071331,Cristian,Iglesia,caceresjose-carlos@example.org,Platero,2023-12-26,2023-09-22 22:08:56,OMEGA_CORE_V1
+8b399cb5-874e-448c-bb59-c3305abd07dd,98142385,Odalis,Tamayo,ema85@example.net,Empalmador de cables,2025-07-26,2021-09-13 18:25:04,OMEGA_CORE_V1
+109c6dc3-6125-457f-9fb0-c079b1e20b63,26733127,Tomasa,Muñoz,andrescarmen@example.com,Ingeniero de minas,2023-10-25,2023-05-07 03:30:42,OMEGA_CORE_V1
+6404ec93-0ecc-4013-ac66-6c513bdb96e2,41048994,Benjamín,Donaire,otiliaojeda@example.net,Economista,2021-06-07,2024-09-14 12:37:43,OMEGA_CORE_V1
+1cef3a1c-c768-47e5-9b5c-edce9e8a61f4,51433624,Ileana,Cobos,ugarteeugenia@example.net,Especialista en formación del personal,2023-02-25,2024-08-19 12:40:04,OMEGA_CORE_V1
+1b4dfd0b-67b5-4960-9d13-023052c5d6dd,33420536,Imelda,Pelayo,nicogibert@example.net,Profesional del trabajo social,2025-04-22,2021-09-28 17:39:06,OMEGA_CORE_V1
+4dbcb9f0-0a10-4f7f-8a09-aee03652718a,52573417,Hector,Franch,ismael31@example.com,Profesor de formación profesional,2021-07-05,2022-12-11 02:54:25,OMEGA_CORE_V1
+1d75636f-9760-4cb1-9538-c7bc465cec8b,36295289,Edu,Madrigal,fortunatagordillo@example.com,Inspector de fronteras,2024-11-16,2022-11-01 08:45:06,OMEGA_CORE_V1
+9e726cb1-eb75-475a-b480-b066dbd81b2a,30678795,Nazario,Vilaplana,jfuertes@example.net,"Operador de máquinas de blanqueamiento, teñido y limpieza de tejidos",2024-04-29,2024-09-14 01:17:39,OMEGA_CORE_V1
+1cacb670-a62e-4b9a-8fcd-3969771686f8,75039009,Jose Ramón,Torrens,pascualescobar@example.org,Ggeofísico,2021-07-03,2024-07-03 16:53:48,OMEGA_CORE_V1
+c51c7f92-10fb-4ed3-b1f9-f70b4c123ffe,56197518,Noemí,Sastre,cletoduque@example.org,Montador de estructuras metálicas,2023-06-27,2024-03-09 06:07:24,OMEGA_CORE_V1
+83d0d604-b1cf-4c07-b4dc-346a1172bd64,21249390,Fito,Alemany,tramis@example.com,Bibliotecarios,2025-07-05,2023-03-05 07:04:40,OMEGA_CORE_V1
+1cf8fc47-19ae-4e9a-a81f-cd43976cf18c,24965901,María,Ruiz,esteveflorina@example.org,Agente de maniobras,2024-04-11,2022-02-15 11:18:28,OMEGA_CORE_V1
+7210fe75-ce33-45a0-b652-6499676d0c4b,19303326,Purificación,Ríos,aribes@example.org,Recolector de basura y material reciclable,2023-06-03,2022-06-12 09:45:50,OMEGA_CORE_V1
+25abe7f5-a3f0-4f15-9009-86f7a3a5fea3,92374373,Sonia,Arévalo,luzcelestino@example.com,Conductor de taxis,2021-01-05,2022-04-08 08:14:33,OMEGA_CORE_V1
+3e55ea99-da29-477f-8a93-2736c9c2e12d,50000773,Gaspar,Lerma,carrerasteofila@example.com,Especialista en ciencias políticas,2021-04-21,2021-01-08 07:22:53,OMEGA_CORE_V1
+efebe895-f302-469e-8d97-509aae81b587,53248548,Nando,Jaume,hduque@example.com,Encuadernador,2025-10-15,2021-11-26 14:47:28,OMEGA_CORE_V1
+6486e352-d2bd-455a-8f81-30378219a572,55210536,Ismael,Rivera,josefina13@example.com,Ayudante de ambulancia,2023-11-03,2025-02-22 17:45:19,OMEGA_CORE_V1
+d64e3cf4-2f60-4a55-a655-7fd194c6d532,11078723,Rogelio,Reyes,reguloespinosa@example.com,Lavandero,2022-06-08,2021-03-09 03:02:12,OMEGA_CORE_V1
+e40ad4bd-464d-432c-b629-1f78deb072ee,71278246,Yaiza,Clavero,javier41@example.com,Inspector de policía,2024-11-29,2023-01-14 21:42:46,OMEGA_CORE_V1
+619ddc0f-4e97-40fb-9982-19aa5b294d9a,15621342,Guiomar,Soler,xbayon@example.org,Aparejador,2025-06-09,2024-04-20 01:51:38,OMEGA_CORE_V1
+37ddf568-fb3a-4018-8a98-a5dd957f2003,57168351,Joan,Valle,yessicaotero@example.org,Peón de obras públicas y mantenimiento,2024-07-31,2024-06-17 19:00:05,OMEGA_CORE_V1
+3fb4f3d6-5238-4a54-a0d0-c783a5cc980e,43849915,Jesús,Valderrama,corderoteofila@example.com,Profesional de medicina alternativa,2022-05-22,2025-03-25 09:38:47,OMEGA_CORE_V1
+09fe993c-cb70-4740-bcdc-0b1a54668a5f,24084795,Aroa,Bautista,dorotea86@example.net,Trabajador pecuario de subsistencia,2025-04-19,2024-01-24 03:28:14,OMEGA_CORE_V1
+1b878b2d-4b1b-4a82-ab86-900326bc35c6,21675858,Otilia,Cañete,landaamparo@example.org,Cantante,2023-12-01,2021-09-02 13:46:39,OMEGA_CORE_V1
+e5b08dd8-470d-4b3e-8cef-864db9a6cccc,44796182,Flavio,Bejarano,custodia76@example.net,Médico general,2025-08-12,2025-01-10 08:49:48,OMEGA_CORE_V1
+706492ba-2645-4271-8bcf-43664efaf2cc,51849705,Carlos,Pelayo,prudenciazamorano@example.org,Médico general,2021-03-06,2023-10-12 09:21:47,OMEGA_CORE_V1
+f0edb3b9-2b60-44ca-a1b6-70c7208d37f7,51391622,Josefina,Alba,ocoronado@example.org,Peón de explotaciones de cultivos mixtos y ganaderos,2025-05-11,2024-11-27 04:36:19,OMEGA_CORE_V1
+bde23949-cf06-4fb5-b64a-8d666e9aa31a,87891898,Máximo,Huertas,reynahuerta@example.net,Especialista en políticas de administración,2023-09-17,2022-03-09 09:55:40,OMEGA_CORE_V1
+de194e12-ba9b-4944-8b4a-644409187b96,21666657,Isidoro,Pavón,edelmiracueto@example.net,Profesional de la protección medioambiental,2025-09-27,2022-08-24 01:59:51,OMEGA_CORE_V1
+95f907c7-2f92-45c9-92a3-7af60f8b2aca,94845654,Olivia,Aller,ncarbajo@example.org,Peón de explotaciones de cultivos mixtos y ganaderos,2021-03-24,2022-02-18 07:14:40,OMEGA_CORE_V1
+e6bffb22-c069-484e-a9c4-6eef4e0e9cee,60431392,Atilio,Castrillo,alegreema@example.com,Profesional de partería,2021-04-19,2023-10-21 01:04:58,OMEGA_CORE_V1
+fc7b8da3-83f5-44dd-85b5-fc3b879083e5,80783565,Salvador,Mir,teofila02@example.net,Techador,2024-10-06,2025-06-21 08:29:54,OMEGA_CORE_V1
+e9928e30-01f2-4172-882a-7f11cb33d5a3,75654300,Julio,Uribe,ffabra@example.org,"Operador de máquinas pulidoras, galvanizadoras y recubridoras de metales ",2021-10-26,2023-05-30 07:57:15,OMEGA_CORE_V1
+e35a9350-b5dd-4ae4-95f6-df18d68a139e,37566867,Sabas,Jaume,morena47@example.org,Director de servicios de cuidado de las personas de edad,2024-04-25,2025-04-23 20:09:03,OMEGA_CORE_V1
+e6d0a03e-d1c6-46a6-9e1f-125ae01db26e,97807242,Kike,Barco,yaraujo@example.net,Vendedor puerta a puerta,2025-09-18,2025-05-24 08:41:44,OMEGA_CORE_V1
+c57986e3-957e-4365-991d-f8a9bd0af98b,62019860,Olegario,Tejada,pastoracapdevila@example.org,Secretario (general),2022-05-28,2025-01-06 18:43:37,OMEGA_CORE_V1
+90ee09ce-e35c-40dd-a81c-8296328ca7ff,14222778,Begoña,Figuerola,andres-felipeadan@example.org,Mecánico y reparador de máquinas agrícolas e industriales,2022-09-30,2021-12-22 15:37:19,OMEGA_CORE_V1
+b9838aa7-8aee-4123-af2f-e35ed28b58e6,46133503,Duilio,Rueda,montserrat36@example.org,Empleado de ventanillas de informaciones,2023-04-26,2024-01-13 00:09:09,OMEGA_CORE_V1
+ee9053c2-7dd4-44af-bb6b-321ecd1ce4fc,56757819,Inmaculada,Revilla,almansaartemio@example.org,Prestamista,2023-03-11,2024-01-25 21:20:13,OMEGA_CORE_V1
+0c0103c3-e84c-42a9-acca-6963065a17f7,53743005,Ildefonso,Calvet,valentinasoriano@example.net,Agente de servicios de seguridad social,2022-12-08,2025-03-11 14:37:59,OMEGA_CORE_V1
+0000c839-7863-46a2-b86e-26c0d5bee917,99018573,Josefa,Villanueva,spujol@example.org,Profesor de formación profesional,2022-08-04,2022-02-12 15:56:51,OMEGA_CORE_V1
+c9de539d-7261-460d-96ad-2f8315848933,68416646,Javier,Cal,escamillaazucena@example.org,Joyero,2023-08-26,2021-05-07 04:47:05,OMEGA_CORE_V1
+50f9f429-b2ae-44b3-acd5-93b83f0753c4,52851017,Alberto,Coronado,tnavas@example.org,Auxiliar de servicio de abordo,2024-11-02,2021-09-21 01:09:43,OMEGA_CORE_V1
+b9fa8c6d-86dc-4c1f-b36f-b6777d616675,19271427,Reina,Llobet,roldanfajardo@example.net,Joyero,2022-10-01,2021-05-09 17:23:28,OMEGA_CORE_V1
+df44abd0-3933-47f6-9d18-3258133bc6ce,50670191,Manuel,Escrivá,ymenendez@example.com,Guardafrenos,2024-02-22,2022-10-03 10:23:00,OMEGA_CORE_V1
+bcb5afcb-168d-4bbe-b3ba-d41f5625fdb9,14237897,Rico,Carrillo,cvizcaino@example.net,Técnico en optometría y ópticos,2023-06-04,2023-06-10 03:38:48,OMEGA_CORE_V1
+c471b6fe-fad0-403f-b77a-0a4fe56f68ab,94906577,Azucena,Barón,aguirremaria@example.org,Operador de máquinas de vapor y calderas,2025-07-01,2023-07-19 03:41:24,OMEGA_CORE_V1
+944385bc-c489-445b-88ce-ba3c2052ed16,66913350,Marina,Colom,rosario33@example.com,Carpintero,2023-04-09,2021-08-22 01:16:11,OMEGA_CORE_V1
+7dab4afa-77e6-4025-9281-fe72d8400322,96669923,Ricarda,Ramis,ycoll@example.com,Director de producción de piscicultura y pesca,2023-01-23,2022-11-30 15:20:14,OMEGA_CORE_V1
+0178b0d7-a437-45e3-9626-b25c9752c0ff,79942923,Ángela,Carpio,gabrieladonaire@example.com,Techador,2023-09-19,2025-03-26 20:20:25,OMEGA_CORE_V1
+76f4a322-c247-4c43-9ff7-f58ecbb736c3,90631577,Edelmiro,Domingo,aurelia68@example.net,Agrónomo,2021-01-09,2021-12-06 16:12:55,OMEGA_CORE_V1
+80ce8d25-0498-402e-a578-8250e0a0254c,97537414,Hipólito,Boix,brionesema@example.org,Especialista en ciencias políticas,2022-10-01,2022-07-05 23:12:11,OMEGA_CORE_V1
+30012b6b-5a3c-425e-a6a6-0d6ada0eb8fc,39374826,Calista,Río,bernardinofalco@example.com,Ingeniero medioambiental,2025-01-09,2022-10-10 22:34:33,OMEGA_CORE_V1
+f1c581df-f62b-4342-85d6-9755fd17ba0c,56086706,Jorge,Sureda,elara@example.net,"Panaderos, pasteleros y confiteros",2023-08-08,2024-06-24 09:22:53,OMEGA_CORE_V1
+7173f1c3-b13a-4fd3-8434-e1c94ba48e5c,18051149,Andrés,Tejero,luisina69@example.org,Cantante,2024-11-22,2024-11-11 15:36:16,OMEGA_CORE_V1
+35b77861-2125-45ba-a09a-8abc0405e744,91734455,Clarisa,Segura,raquel78@example.org,Especialista en políticas de administración,2024-09-25,2023-10-01 22:29:15,OMEGA_CORE_V1
+d3fe08c0-cc66-47ae-8b10-9fcdc7b7f867,19160864,Benigno,Pérez,dabellan@example.org,Barnizador,2025-01-05,2025-11-27 19:58:51,OMEGA_CORE_V1
+fcdcc5f4-c363-49c9-be08-32e422867508,42757664,Eladio,Codina,apedro@example.org,Técnico de la Web,2023-08-06,2023-11-13 17:13:00,OMEGA_CORE_V1
+6bf25fc5-cca3-4ca6-899c-d830fd61e497,15549307,Isidora,Patiño,cuencatono@example.com,Gorjadore,2023-05-31,2021-01-25 15:03:43,OMEGA_CORE_V1
+86d9bc33-b5f0-43fd-acdf-359426e6e31d,30481810,Delfina,Ruano,vallsolimpia@example.org,Receptor de apuestas,2022-05-16,2024-06-02 12:39:56,OMEGA_CORE_V1
+23037e76-4eac-49e4-9a1a-5cd30c0ca6fc,45127956,Ana Belén,Quiroga,jonatanaranda@example.org,Trabajador pecuario de subsistencia,2024-02-19,2020-12-26 20:34:07,OMEGA_CORE_V1
+9d48ea7a-9dee-4ce3-a11a-d88479a9b926,44297534,Tomás,Pavón,lpinilla@example.net,Regulador y operador de máquinas de labrar madera,2021-02-07,2024-02-25 17:39:05,OMEGA_CORE_V1
+36307b5f-8122-44ef-8ef4-2528961c42d6,29526388,Ernesto,Ramírez,aaron07@example.com,Electricista de obras,2025-04-02,2021-11-01 07:06:12,OMEGA_CORE_V1
+be8746eb-208b-4684-95d6-267c4e0712db,98892927,Fátima,Badía,emperatrizpoza@example.org,Profesional de nivel medio de partería,2024-10-11,2022-04-30 00:01:11,OMEGA_CORE_V1
+fd09652e-0395-4de4-9906-47d8775c1a1a,67301698,Lina,Carrión,martincharo@example.org,Supervisor de la construcción,2024-01-28,2021-06-13 22:46:59,OMEGA_CORE_V1
+0aab5976-f5e6-4b3a-ab2b-7c7c542a8df1,39773580,Lourdes,Guerra,rupertobou@example.org,Trabajador forestal calificado,2025-05-24,2022-10-26 12:43:43,OMEGA_CORE_V1
+513157cc-eecf-4ce3-ac49-3181c0235e41,23968649,Luis,Feliu,flaviamarti@example.com,Escribiente público,2022-06-08,2025-03-06 22:43:25,OMEGA_CORE_V1
+017f49e4-0474-4dbd-af01-7f58896a9fdc,78441776,Goyo,Rueda,olimpia99@example.net,Agente de compras,2023-01-22,2021-09-06 20:45:59,OMEGA_CORE_V1
+e070d469-0b1a-4aa9-8c6d-c027628a1122,14436302,Nilo,Cabo,hurtadonydia@example.org,Astrólogo,2025-02-02,2024-02-14 03:40:03,OMEGA_CORE_V1
+1ebbedf6-a59c-4124-8909-a17c08e49ad5,69071090,Vicenta,Carreras,cecilio31@example.net,Mecánico y ajustador electricista,2022-09-16,2024-09-09 16:30:21,OMEGA_CORE_V1
+c87bc3d5-39cc-46ed-9a0c-d31f408b5298,78559837,Morena,Reyes,mirtamanso@example.com,Empalmador de cables,2023-03-19,2021-10-26 01:11:26,OMEGA_CORE_V1
+3dfdd262-018b-4922-abd1-73ca0456652f,23445736,Merche,Heras,parejamaribel@example.net,Empleado de biblioteca,2021-05-10,2025-10-23 00:36:10,OMEGA_CORE_V1
+e0c2d7af-bfba-4a86-a773-a501f14ffa7e,38530172,Leocadia,Roldan,bcasanovas@example.org,Trabajador de cuidados personales a domicilio,2025-09-19,2024-02-03 23:28:39,OMEGA_CORE_V1
+9e230119-5ac9-4d25-a4b4-b69b31310196,98052107,Bautista,Calvo,andreavillena@example.com,Operador de máquinas para fabricar cemento y otros productos minerales,2025-09-06,2025-03-28 18:45:19,OMEGA_CORE_V1
+ad12cf1d-245a-448f-9652-317ddf538e25,53018910,Rosaura,Arévalo,luisinaandreu@example.net,Peletero,2023-06-20,2024-12-30 04:13:51,OMEGA_CORE_V1
+72a9511d-feca-4b87-8d2b-ea5c02af52c4,63794058,Fortunata,Alfonso,haydeemancebo@example.net,Diseñador de bases de datos,2025-05-12,2025-05-16 00:36:17,OMEGA_CORE_V1
+2e1722fd-d735-426a-99a9-c02caa4efb38,19348540,Guadalupe,Cano,sebastian01@example.net,Operador de máquinas lavarropas,2022-01-06,2021-06-29 04:12:10,OMEGA_CORE_V1
+d0293e78-5fed-468b-a621-13c01a8ca5ed,59272992,Asdrubal,Gomez,climacopalau@example.org,Operador de autoelevadoras,2021-06-14,2024-02-08 13:25:31,OMEGA_CORE_V1
+e4c52a9f-0cfa-4fbb-9236-1129f9742745,92075956,Anastasia,Granados,marta42@example.org,Sociólogo,2021-10-27,2023-02-15 09:03:20,OMEGA_CORE_V1
+792a076d-8d76-497e-a2f4-11d6b117bbc2,35985911,Sonia,Ros,jonatansarabia@example.net,Mayordomo doméstico,2025-06-06,2021-07-10 08:42:35,OMEGA_CORE_V1
+751775f6-0b65-4c8d-8b59-8567d51ba743,10402197,Asdrubal,Barbero,novoaflorinda@example.org,Profesional religioso,2024-05-13,2022-04-21 19:07:45,OMEGA_CORE_V1
+2e75267a-7a93-475d-89b7-e575c8b90c52,58404710,Guiomar,Moraleda,ybenavides@example.org,Gerente de comercios al por mayor y al por menor,2025-12-05,2023-08-17 08:24:42,OMEGA_CORE_V1
+3426e939-cecc-4393-b12e-668f43ae4f2e,24792538,Salud,Colomer,chus86@example.org,Vendedor ambulantes (excluyendo de comida),2024-05-19,2024-05-20 07:51:06,OMEGA_CORE_V1
+b11aa029-a283-4cf5-90f3-e271b829eae5,74242905,Patricio,Gomis,tnunez@example.com,Director de ventas y comercialización,2021-10-16,2022-02-28 02:56:30,OMEGA_CORE_V1
+f52872b9-0321-4361-87f9-f16104df2a2f,28761347,Renata,Malo,icoll@example.com,Arquitecto,2021-05-01,2025-01-06 17:49:16,OMEGA_CORE_V1
+cb875b91-e41b-472d-882d-c7d3fec29bc8,26311208,Ramón,Anguita,corteslilia@example.com,Limpiador y asistente doméstico,2024-09-30,2021-06-03 01:31:03,OMEGA_CORE_V1
+f2dd0355-7886-4fe7-981e-2255d58208ff,55010565,Bartolomé,Almazán,abaez@example.org,Platero,2022-03-07,2021-09-12 18:10:33,OMEGA_CORE_V1
+c1bfdc31-82b0-44c4-90ef-27394c61df30,37995289,Milagros,Alemany,petrona04@example.net,Barnizador,2022-01-17,2021-01-29 10:02:07,OMEGA_CORE_V1
+77a0214a-15cf-4b55-9864-addd766a484f,43121891,Vidal,Díaz,maria-manuelapena@example.com,Profesional de la publicidad y la comercialización,2025-05-20,2024-01-28 02:05:13,OMEGA_CORE_V1
+7bd41b99-bfff-4ec1-abcd-02f0491130dd,35308063,Pepita,Redondo,xestevez@example.net,Técnico en optometría y ópticos,2024-03-08,2025-07-08 01:31:04,OMEGA_CORE_V1
+3608bb06-91b6-4018-9405-e7f7f5776140,32477131,Enrique,Tamarit,saludsanmiguel@example.org,Ingeniero metalúrgico,2021-07-07,2021-06-17 23:24:24,OMEGA_CORE_V1
+7abf9a84-2435-44f6-95c2-cdf65e5c795a,99114399,Elpidio,Campo,hbaeza@example.net,Dentista,2025-06-16,2024-06-08 08:45:56,OMEGA_CORE_V1
+12bcf64c-5452-4c3a-8c3e-70376af1aa85,19149761,Lidia,Ojeda,wlamas@example.org,Ingeniero de minas,2025-04-13,2022-01-03 01:14:56,OMEGA_CORE_V1
+26ecbb15-a7d7-400b-956f-8c8b5be4b15b,75969068,Jesús,Sebastián,nico98@example.org,Trabajador comunitario de la salud,2022-05-31,2022-07-15 23:59:50,OMEGA_CORE_V1
+2547b4f0-e4f0-430e-8dc3-f25b03f811ec,34306771,Felipa,Ballester,nebotasdrubal@example.org,Operador de telar y otras máquinas tejedoras,2022-02-06,2025-04-23 13:44:28,OMEGA_CORE_V1
+2ccdede9-35d6-4030-a895-9cbb37c9e624,46344800,Lilia,Llanos,cespana@example.net,Asistente fisioterapeuta,2024-10-25,2025-05-19 21:45:03,OMEGA_CORE_V1
+34fa1fca-80c5-43c1-8bb5-1bf0ec782661,47303751,Vasco,Cortina,leandrosalvador@example.net,Secretario administrativo,2025-05-07,2023-11-20 15:36:17,OMEGA_CORE_V1
+dc1bd39b-47dc-4431-a6e1-e31d5ec8fa52,77716352,Angelino,Teruel,munozloreto@example.com,Trabajador ambulante de servicios,2023-02-21,2023-02-07 01:23:02,OMEGA_CORE_V1
+ad4312b5-9b5a-4a1e-a066-b505c5e4c914,63111485,Marta,Bonilla,serratatiana@example.org,Camarero de mesa,2021-02-03,2021-12-20 02:59:38,OMEGA_CORE_V1
+35e173b8-f0b3-40ff-81c5-3fb40d524be2,84016670,Magdalena,Marqués,quiquetenorio@example.net,Suboficial de las fuerzas armadas,2024-01-13,2025-06-07 21:25:13,OMEGA_CORE_V1
+e9fc9d2d-3f12-4f68-9609-4f474815459a,48416710,Gabriel,Bas,jbilbao@example.com,Modelador de vidrio,2021-01-30,2024-10-23 07:52:37,OMEGA_CORE_V1
+4fd33d0d-831a-4742-97a6-aad1742a7120,42038511,Hortensia,Goñi,merchegodoy@example.org,Técnico de radiodifusión y grabación audio visual,2025-03-04,2021-10-17 22:02:52,OMEGA_CORE_V1
+d38f5550-a32e-4af9-af50-73a59cfe9d72,68874767,Concha,Piquer,cristobalperal@example.net,Administrador de sistemas,2023-09-01,2021-05-20 17:12:05,OMEGA_CORE_V1
+df8dfe77-eee2-4bbe-80f6-5896635247f1,44592441,Aitana,Román,buria@example.net,Peón de explotaciones ganaderas,2022-04-25,2025-12-05 19:46:49,OMEGA_CORE_V1
+839fabda-7ab5-4005-9ece-df3582270244,50403900,Guadalupe,Martinez,tcanete@example.net,Mecánico y reparador de instrumentos de precisión,2025-06-09,2023-09-10 11:53:08,OMEGA_CORE_V1
+64920e47-92ea-46f6-8070-1ffbb63923e4,72943200,Diana,Pou,benito16@example.net,Contable,2024-05-21,2023-09-22 09:15:42,OMEGA_CORE_V1
+cd7e1d60-c938-44d2-ad4c-2d6edaf826f3,84607598,José Antonio,Estévez,apoloniamoraleda@example.com,Profesional de nivel medio de partería,2024-06-21,2022-09-06 22:44:35,OMEGA_CORE_V1
+eee703bc-cea9-4854-b0c3-4b5c3d2ff50f,90812396,Ciríaco,Prado,dblanca@example.org,Director de servicios de tecnología de la información y las comunicaciones,2025-12-11,2022-10-16 10:11:22,OMEGA_CORE_V1
+d8203ccf-43ea-4a71-b3ca-96aea3d60e5e,65759954,Brígida,Echeverría,ybejarano@example.net,Calderero,2025-03-29,2021-02-10 08:02:20,OMEGA_CORE_V1
+6ae7604c-2a74-4247-82ef-277619669403,15050158,Mireia,Rios,elbatorre@example.org,Alfarero,2022-07-12,2021-12-17 15:27:41,OMEGA_CORE_V1
+dd9deb58-4299-4609-b8e9-c3d81f86580b,38070687,Primitiva,Valera,tisern@example.com,Agente de servicios de seguridad social,2025-09-22,2022-05-21 22:32:27,OMEGA_CORE_V1
+3b9e7208-6fe3-4fb9-8021-f625cd7a6315,70121685,Fátima,Marco,uvalles@example.net,Locutor de radio,2022-02-19,2021-06-23 18:48:53,OMEGA_CORE_V1
+fe0e81c3-d805-4b71-8fc5-269b647672a3,92947499,Magdalena,Arco,merchemercader@example.com,Peón de explotaciones de cultivos mixtos y ganaderos,2022-02-18,2024-05-13 21:24:29,OMEGA_CORE_V1
+64f2693c-269c-4919-96cb-8968ef695c4f,32062764,Rosalva,Rubio,fdieguez@example.org,Peletero,2022-04-13,2023-03-12 07:48:22,OMEGA_CORE_V1
+8c276820-d2d8-4319-9cf8-69a09a588b1c,66713052,Leandro,Carro,agudoulises@example.net,Operador de instalaciones de procesamiento de la madera,2023-05-13,2021-08-08 16:48:57,OMEGA_CORE_V1
+17d8fd3f-cc58-4266-a214-29ad30af9c8a,85869038,Paula,Quintero,eustaquio47@example.org,Operador de instalaciones mineras,2023-10-24,2024-10-13 06:33:12,OMEGA_CORE_V1
+77ca8d2f-04eb-4338-a7a8-aebf9ffc5158,48252170,León,Pinedo,nataliaarcos@example.com,Conductor de vehículos y máquinas de tracción animal,2021-09-26,2021-09-23 20:53:40,OMEGA_CORE_V1
+b2ad61ea-d4ec-4bf9-b758-f25d6e3ec213,19667321,Aránzazu,Manzano,pagesdiego@example.org,Pescadero,2022-03-10,2022-08-25 23:30:32,OMEGA_CORE_V1
+3343b422-5108-45ea-90f4-8310e2fe4f63,38344797,Clara,Jerez,vasco98@example.org,"Operador de incineradores, instalaciones de tratamiento de agua",2025-08-08,2023-02-12 02:56:48,OMEGA_CORE_V1
+916917cf-1dee-4972-8acd-2b79ad53fa3e,31577980,Rosenda,Puerta,taboadagraciano@example.org,Labrante,2025-09-27,2024-02-12 02:44:13,OMEGA_CORE_V1
+43180954-d160-4c6c-90dc-c4a6eb92f385,34481505,Anabel,Godoy,maldonadojose-antonio@example.org,Director de teatro,2021-02-04,2025-06-07 23:17:20,OMEGA_CORE_V1
+8b5e1f24-2ada-4c5a-a768-1bc131306bec,50272162,Baudelio,Costa,isauramedina@example.net,Operario de la elaboración de productos lácteos,2021-05-14,2024-02-03 14:45:33,OMEGA_CORE_V1
+d4dea44e-4920-4b96-a192-e40944109940,15389723,Matilde,Cadenas,amador32@example.org,Auxiliar de servicio de abordo,2022-06-08,2022-03-02 17:41:10,OMEGA_CORE_V1
+11ac3121-1560-422a-80c6-b9bfdad124ba,32848141,Dan,Maza,cruzeduardo@example.org,Instalador de material aislante y de insonorización,2023-07-28,2023-05-10 03:32:06,OMEGA_CORE_V1
+e1bbd205-b1d0-49f8-a24e-f54681ee697c,36261875,Jose Angel,Campo,carlitoperez@example.com,Mecánico y ajustador electricista,2025-02-26,2022-08-20 06:05:50,OMEGA_CORE_V1
+66ca5ec9-3b99-413e-80e2-0c07f9cdf610,77045340,Benita,Rincón,fatimabautista@example.net,Psicólogo,2025-11-16,2021-11-16 09:22:59,OMEGA_CORE_V1
+2604f6da-d6b2-4cf8-bd64-c830f06fdf52,60004995,Violeta,Garcés,edmundo26@example.com,Dentista,2023-05-11,2025-06-16 10:13:17,OMEGA_CORE_V1
+e9372d22-d842-43d8-b995-4102418984b9,95458521,Renato,Bosch,azahara71@example.org,Agente de compras,2023-08-14,2021-07-12 03:42:52,OMEGA_CORE_V1
+da847ad2-98da-4d78-b8a3-425c9ed29bee,93311676,Maribel,Cuéllar,jllano@example.net,Optometrista,2021-02-19,2022-10-13 12:26:08,OMEGA_CORE_V1
+e02736ef-3f18-4b8a-a337-244ce017737b,61564961,Damián,Murcia,teo46@example.org,Herrero,2022-06-29,2023-06-20 23:34:12,OMEGA_CORE_V1
+74aed538-55b9-461b-aabf-d953b960bb6d,16997766,Caridad,Oliveras,macarena77@example.net,"Redactor de carteles, pintor decorativos y grabador",2021-10-06,2022-02-21 20:27:59,OMEGA_CORE_V1
+ff3539d4-5167-4dc5-92ce-c005a6f45c0f,21876849,Margarita,Pascual,juliochacon@example.net,Agente de maniobras,2022-02-23,2025-03-03 23:02:10,OMEGA_CORE_V1
+17154adb-c435-45f0-8250-469f3899db17,32227530,Rómulo,Cuesta,olivaresvalerio@example.net,Director de explotaciones de minería,2022-07-19,2025-10-23 13:41:13,OMEGA_CORE_V1
+3cccc06c-b9ee-477e-bad8-7a01df0b0d55,93500413,Calisto,Cortés,nicodemo15@example.org,Vendedor puerta a puerta,2024-06-03,2025-10-14 02:13:20,OMEGA_CORE_V1
+e1fb20df-60d4-46e6-879c-ecf274a63802,65722252,Albino,Vallejo,reyes24@example.org,Ayudante de ambulancia,2023-01-12,2025-04-27 11:37:36,OMEGA_CORE_V1
+723fbfdc-68d2-41ca-8dad-afac91425919,67347179,Erasmo,Maestre,salaclementina@example.com,Operario del tratamiento de la madera,2022-02-15,2025-05-04 01:21:13,OMEGA_CORE_V1
+0751bf3d-247b-42e6-b369-521448b26e74,53622956,María Teresa,Cordero,gilsanmartin@example.net,Peón de pesca y acuicultura,2021-09-07,2025-02-23 13:00:15,OMEGA_CORE_V1
+de93eada-d4f4-412e-8b0f-dc89d45a22e0,50273001,Chema,Gutierrez,joelinfante@example.com,Técnico en ingeniería mecánica,2024-04-04,2025-09-27 10:15:15,OMEGA_CORE_V1
+d336884b-2941-492e-bc1a-29b2d6d488ad,36934296,Javier,Díez,che00@example.net,Actor,2022-02-26,2025-04-16 00:13:57,OMEGA_CORE_V1
+8101cf3a-4a30-4682-b48c-ecfaf1a730e8,25210610,Noelia,Armas,canalesjosep@example.com,Técnico de la Web,2022-11-27,2025-07-22 06:43:52,OMEGA_CORE_V1
+dabecc85-db73-4a3b-82cb-906258eefdd9,79314384,Álvaro,Reina,manu95@example.org,Joyero,2025-09-13,2025-05-28 23:35:22,OMEGA_CORE_V1
+1b9451a2-d7a9-4f00-bfc0-616f7718a0d8,30569758,Priscila,Saez,calistozamorano@example.com,Tenedor de libros,2021-06-22,2021-08-05 01:03:06,OMEGA_CORE_V1
+3c8ced1c-4032-478c-8094-75995f9df5aa,43889166,Fabiana,Chaves,andres-felipeamoros@example.net,Entrevistador de encuestas,2024-06-21,2021-07-17 04:25:23,OMEGA_CORE_V1
+5f26a920-fe73-4e14-8e48-3b28262d3436,38340154,Mónica,Tirado,htamayo@example.org,Operador de máquinas para fabricar productos de papel,2021-02-11,2025-06-15 22:55:39,OMEGA_CORE_V1
+f559c9fa-9f72-4903-a8aa-322e8b0995e5,90022813,Genoveva,Gallart,olivia66@example.net,Profesor de formación profesional,2023-09-05,2024-08-29 13:59:55,OMEGA_CORE_V1
+0e6cc249-9d2e-4e70-93d6-fee4f7207922,90388324,Plinio,Blazquez,dcobos@example.net,Operador de maquinaria agrícola y forestal móvil,2023-02-14,2025-05-31 19:13:02,OMEGA_CORE_V1
+42a2be96-c000-49c3-bfd0-5a350a4ae5f5,24701809,Candelaria,Alberto,murciamar@example.net,Conductor de vehículos accionados a pedal o a brazo,2021-11-05,2025-03-26 05:40:45,OMEGA_CORE_V1
+bf5a44d5-7645-4b5f-b2f7-b4489aa14ea5,11488921,Abel,Hidalgo,noecolom@example.com,Cantante,2022-10-15,2025-02-21 05:26:47,OMEGA_CORE_V1
+87ac16d3-0ce9-4421-bae0-5f4ddec7a335,38913491,Josefa,Rodríguez,solsonavioleta@example.org,Operador de instalaciones mineras,2021-07-24,2023-06-11 19:44:54,OMEGA_CORE_V1
+4a0cfe21-431f-4eb6-9398-e071acf53504,76134174,Olimpia,Caballero,elodiajordan@example.org,Peón de jardinería y horticultura,2024-10-05,2021-11-14 00:03:06,OMEGA_CORE_V1
+1aacf3db-9ac1-408d-8653-c7673312a884,55697898,Jovita,Otero,merchemur@example.com,Tipógrafo,2025-03-02,2023-04-22 10:13:44,OMEGA_CORE_V1
+b8a5349d-8284-461a-8c84-bbc202d5d8f5,70099414,Sandalio,Olivares,ignaciapenalver@example.org,Operador de máquinas para fabricar cemento y otros productos minerales,2025-06-25,2024-08-01 15:09:46,OMEGA_CORE_V1
+c2299606-b652-4564-8178-74cf921084d6,80078612,Gil,Alcalá,augusto29@example.com,Peón de obras públicas y mantenimiento,2023-07-02,2023-01-14 12:41:54,OMEGA_CORE_V1
+ab44012a-cb31-42e9-a64c-b63815bf6247,31441879,Gustavo,Mosquera,pserna@example.com,Técnico agropecuario,2023-03-21,2025-05-28 17:58:59,OMEGA_CORE_V1
+4177abc3-7c8c-4d32-abe1-6c4e9d2028fe,29731583,Manu,Vizcaíno,irma61@example.org,Profesional religioso,2025-01-12,2023-10-28 05:54:41,OMEGA_CORE_V1
+970da21a-aa8d-4080-9b6d-6d8e40ee1814,38180746,Octavia,Viñas,galvanofelia@example.net,Soplador de vidrio,2023-03-02,2021-05-28 16:54:14,OMEGA_CORE_V1
+a4543d7b-f2fe-4d6c-bcbe-a15de63b514d,62862766,Hilda,Castell,narias@example.com,Operador de máquinas de tratamiento de pieles y cueros,2021-05-16,2024-01-30 11:08:11,OMEGA_CORE_V1
+513261c6-6c4e-4803-85bd-a93a09fd8557,89293884,Fausto,Artigas,iris86@example.org,Jefe de pequeñas poblaciones,2024-06-28,2021-05-27 01:23:38,OMEGA_CORE_V1
+76685ee1-2d59-46cc-b612-4cf3e5fdd5bd,40743723,Ascensión,Cervantes,santiago05@example.org,Curtidor,2022-11-26,2023-04-07 08:03:28,OMEGA_CORE_V1
+1f7ded7c-cb44-43f0-a65c-da9855dc6e96,21003570,Amado,Ramírez,pedro15@example.org,Ebanista,2023-01-26,2024-03-05 20:29:52,OMEGA_CORE_V1
+5ffac8ea-88ff-45a8-8c0f-b1649675ae93,34719113,Jose Ramón,Pujol,begonacalderon@example.com,Operador de instalaciones de refinación de petróleo y gas natural,2024-12-08,2024-03-12 22:22:19,OMEGA_CORE_V1
+c46672f2-fc10-4be1-8af0-f41b28dbc4eb,59211905,Angélica,Espada,porrasbienvenida@example.net,Ingeniero mecánico,2021-12-26,2025-10-02 01:05:14,OMEGA_CORE_V1
+b4c118c0-bfe2-4d8c-8a74-5a0a81425c57,69468206,Asdrubal,Novoa,victorianopedrero@example.com,Deshollinador,2024-04-27,2022-03-22 02:15:34,OMEGA_CORE_V1
+22370b25-8fd3-4b3d-9c0f-4b2b23d4016b,13867107,Ángela,Aliaga,angelinocordero@example.net,Empalmador de cables,2024-05-11,2021-05-18 08:36:24,OMEGA_CORE_V1
+9b6c7124-cdb1-47da-8ef1-05b6b79339fb,80129011,Juan José,Arranz,trinidadcolomer@example.com,Ayudante de cámara,2021-06-22,2024-06-25 08:14:28,OMEGA_CORE_V1
+e0e56796-290c-4b5c-a1f0-34a5a95f8fb3,35035827,Agapito,Hoz,ngimenez@example.net,Botánico,2025-08-03,2025-03-15 07:10:53,OMEGA_CORE_V1
+323fd433-d646-48f1-9c52-fb6c8a50aedf,68178499,Efraín,Moliner,gsanabria@example.net,Operador de instalaciones mineras,2025-05-24,2022-06-07 20:46:19,OMEGA_CORE_V1
+fe4c0071-f69f-415c-abed-f78267bc0c45,50201159,Diana,Calderón,bmoran@example.com,Asesor financiero y en inversiones,2024-08-03,2023-01-14 10:08:49,OMEGA_CORE_V1
+4e3466f6-796d-44fc-8055-325b1e282250,50658056,Ángeles,Grau,piaamador@example.org,Empleado de ventanillas de informaciones,2021-09-09,2022-12-10 06:39:11,OMEGA_CORE_V1
+8993e5dd-9727-4edd-9cdb-18ddbc62edd3,73980415,Mariano,Jove,toni06@example.com,Técnico en ciencias biológicas,2022-12-17,2024-11-21 10:28:31,OMEGA_CORE_V1
+2ae5fb57-863a-4f74-89bd-c2cd32b2a5f0,70048800,Ricarda,Barberá,sayala@example.net,Operador de plantas y máquinas de productos químicos,2021-03-09,2022-08-18 18:27:29,OMEGA_CORE_V1
+d2669ff4-ac99-40c7-8a8a-2b2788bcd77a,37587934,Baldomero,Vaquero,gonzalezeva-maria@example.org,"Director de empresas de abastecimiento, distribución y afines",2021-05-21,2022-12-20 03:37:54,OMEGA_CORE_V1
+ef1c79a3-7f6e-4805-8496-5ebfccf40182,47292034,Bernardo,Meléndez,valentinciriaco@example.com,Cartógrafo,2021-09-07,2023-07-26 04:09:06,OMEGA_CORE_V1
+80491af1-f293-4d35-ab48-6513efee029a,15305571,Ruben,Dávila,moralesregina@example.net,Director de industrias manufactureras,2023-02-11,2024-10-09 22:27:22,OMEGA_CORE_V1
+bcbe98ec-fc09-4315-9ea2-52b9ed991ec4,90485283,Milagros,Murillo,joaquinaortega@example.net,Gerente general,2023-06-22,2023-08-12 14:14:36,OMEGA_CORE_V1
+9cb3c604-687f-4f45-aae7-48a49f7a624a,41095082,María Dolores,Castell,tiburciofolch@example.net,Pulidor de vidrio,2022-10-08,2025-09-18 12:18:02,OMEGA_CORE_V1
+7de04f9c-13fd-42e2-ae00-35e4cd3a8e72,33325710,Eusebio,Espada,wpelaez@example.com,Especialista en formación del personal,2021-09-13,2021-04-16 12:26:36,OMEGA_CORE_V1
+da477771-b9a9-42ef-b73b-ccd1aa17ad6f,91150673,Regina,Sanchez,pquintero@example.net,Operador de instalaciones de procesamiento de metales,2021-12-29,2025-10-30 10:14:33,OMEGA_CORE_V1
+521681d4-0c1a-4128-9966-18ff7960ef58,55598590,Nerea,Gallardo,fvives@example.com,Diseñador de prendas,2025-07-30,2023-08-02 15:04:31,OMEGA_CORE_V1
+0169f84f-41b6-4792-b613-1c7a2903ed42,14649574,Nereida,Asenjo,renata07@example.com,Oficial de las fuerzas armadas,2023-11-22,2022-09-02 05:18:12,OMEGA_CORE_V1
+f6523572-5789-4592-8d68-c5d75dc556ed,28562599,Vinicio,Girona,elvira09@example.org,Ingeniero civil,2021-05-07,2022-12-10 07:34:44,OMEGA_CORE_V1
+e4881b84-4662-43df-92f3-7cc6e640866f,43789788,Martin,Olivera,jose-luis93@example.org,Curtidor,2023-09-30,2024-12-23 09:00:49,OMEGA_CORE_V1
+458f7032-2a20-4350-b7be-5794e6d66780,25925267,Soledad,Sanabria,gchico@example.com,Profesional en redes de computadores,2023-05-12,2024-02-07 23:03:55,OMEGA_CORE_V1
+60b877c3-88ff-4e70-8a10-4699469585b3,41547799,Aarón,Hidalgo,gilbatlle@example.net,Marinero de cubierta,2022-10-28,2024-06-24 04:17:29,OMEGA_CORE_V1
+74cf9fc9-805e-4234-ba3c-76b1723c7ab4,73890039,Lorenzo,Sureda,bordonez@example.net,Técnico de radiodifusión y grabación audio visual,2024-08-30,2021-06-06 03:10:32,OMEGA_CORE_V1
+8086de8d-55b7-4d00-96cd-1e83e04793b6,83366557,Mercedes,Palomo,ericfarre@example.com,Operador de máquinas para la fabricación de calzado,2025-08-12,2021-08-08 03:17:28,OMEGA_CORE_V1
+0bda9cf1-d33f-47e4-9de8-cbfdd1e6d424,81427151,Humberto,Guijarro,rodrigo17@example.org,Operador de instalaciones de tratamiento de agua,2022-09-29,2022-11-14 12:51:59,OMEGA_CORE_V1
+6f5e546a-4321-4464-aba6-dd9d6ad8fe50,60025020,Alondra,Nogués,abelferreras@example.com,Dentista,2022-07-28,2023-02-28 10:19:01,OMEGA_CORE_V1
+a354ecca-a226-4916-969a-daa9b0c288f3,36731266,Sandra,Polo,alexandra56@example.net,Bombero,2022-03-29,2022-09-12 01:10:10,OMEGA_CORE_V1
+b42beece-5815-4b88-8a7f-81fc09109191,26769831,Ricardo,Castejón,eligio75@example.org,Cocinero,2021-02-24,2024-12-17 00:13:58,OMEGA_CORE_V1
+62616663-4496-4a2a-b8d1-c76687c6ddc5,99728013,Balduino,Carranza,solegilberto@example.com,"Gerente de sucursales de bancos, de servicios financieros y de seguros",2025-12-19,2025-05-20 19:44:00,OMEGA_CORE_V1
+34b56402-1eb7-45b8-816b-bdda6232f4f7,48559072,Chus,Iniesta,amadormonreal@example.org,Trabajador agrícola de subsistencia,2024-03-08,2023-11-18 01:09:22,OMEGA_CORE_V1
+12b6a1da-7025-41ff-8b29-77406cafae06,29113194,Felix,Morata,madrigalfabiola@example.net,Director de servicios de educación,2025-10-20,2023-02-03 00:57:41,OMEGA_CORE_V1
+c5bd6b07-d7c1-4a28-a484-a6ebec885c61,92689984,Isidro,Vazquez,bernalfernanda@example.org,Empleado de servicios de transporte,2025-01-02,2025-10-13 18:48:39,OMEGA_CORE_V1
+43be0ce7-430a-4200-ac79-ebf2874420e4,48744286,Mayte,Olivera,ursula76@example.org,Empacador manual,2022-02-15,2021-11-19 18:28:08,OMEGA_CORE_V1
+7c58dee9-2848-4053-8907-736a7dd8f612,63233514,Sara,Español,manzanoantonia@example.com,Ayudante de cámara,2023-06-27,2025-08-10 16:42:28,OMEGA_CORE_V1
+0a991d89-917b-4dbf-8b59-93a692b29a77,73651023,Susanita,Fuente,emigdiofajardo@example.com,Técnico en optometría y ópticos,2024-06-28,2022-10-08 16:51:11,OMEGA_CORE_V1
+7cf81e94-ef9f-4b36-a498-349aab0a6df1,28610958,Narcisa,Sainz,coral60@example.org,Vendedor de comidas al mostrador,2025-05-29,2021-08-30 01:47:51,OMEGA_CORE_V1

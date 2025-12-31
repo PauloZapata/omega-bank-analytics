@@ -1,0 +1,249 @@
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+Creación de tablas en capa RAW desde el bucket S3.
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.raw_clientes (
+  client_id string,
+  dni string,
+  nombre string,
+  apellido string,
+  email string,
+  job string,
+  fecha_alta string,
+  created_at_dt string,
+  source_system string
+)
+ROW FORMAT DELIMITED 
+FIELDS TERMINATED BY ',' 
+STORED AS TEXTFILE
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/clientes/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.raw_cuentas (
+  account_id string,
+  client_id string,
+  tipo_cuenta string,
+  saldo_actual double,
+  moneda string,
+  estado string,
+  fecha_apertura string,
+  created_at_dt string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/cuentas/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.raw_sucursales (
+  branch_id string,
+  nombre_sucursal string,
+  ciudad string,
+  manager_id string,
+  created_at_dt string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/sucursales/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.raw_comercios (
+  merchant_id string,
+  merchant_name string,
+  category string,
+  created_at_dt string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/comercios/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.raw_transacciones (
+  transaction_id string,
+  account_id string,
+  branch_id string,
+  merchant_id string,
+  transaction_type_id string,
+  monto double,
+  fecha_hora string,
+  device_id string,
+  created_at_dt string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/transacciones/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+
+
+Durante el proceso, se descubre que job que proviene de clientes contiene ","s que interfieren con las posteriores consultas porque dividen el dato y provocan errores.
+
+DROP TABLE default.raw_clientes;
+
+
+y luego
+
+
+CREATE EXTERNAL TABLE default.raw_clientes (
+  client_id string,
+  dni string,
+  nombre string,
+  apellido string,
+  email string,
+  job string,
+  fecha_alta string,
+  created_at_dt string,
+  source_system string
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES (
+   'separatorChar' = ',',
+   'quoteChar' = '\"'
+)
+LOCATION 's3://omega-bank-analytics-paulo-26dic/raw-data/clientes/'
+TBLPROPERTIES ('skip.header.line.count'='1');
+
+Esto le dice a Athena: "Si ves una coma dentro de comillas, no la tomes como separador". Una vez hecho esto, el comando de la tabla gold_clientes debería funcionar.
+
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+
+Carga de RAW a GOLD
+
+CREATE TABLE default.gold_clientes
+WITH (
+  format = 'PARQUET',
+  external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/clientes/'
+) AS
+SELECT
+    client_id,
+    CAST(dni AS VARCHAR) as dni,
+    nombre,
+    apellido,
+    email,
+    job,
+    CAST(date_parse(fecha_alta, '%Y-%m-%d') AS DATE) as fecha_alta,
+    CAST(date_parse(created_at_dt, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as created_at,
+    source_system
+FROM default.raw_clientes;
+
+
+
+CREATE TABLE default.gold_sucursales
+WITH ( format = 'PARQUET', external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/sucursales/' ) AS
+SELECT 
+    branch_id,
+    UPPER(nombre_sucursal) as nombre_sucursal, -- Estandarizamos a mayúsculas
+    ciudad,
+    manager_id,
+    CAST(date_parse(created_at_dt, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as created_at
+FROM default.raw_sucursales;
+
+
+
+CREATE TABLE default.gold_cuentas
+WITH ( format = 'PARQUET', external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/cuentas/' ) AS
+SELECT 
+    account_id,
+    client_id,
+    tipo_cuenta,
+    CAST(saldo_actual AS DECIMAL(18,2)) as saldo_actual,
+    moneda,
+    estado,
+    CAST(date_parse(fecha_apertura, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as fecha_apertura
+FROM default.raw_cuentas;
+
+
+
+CREATE TABLE default.gold_comercios
+WITH ( 
+  format = 'PARQUET', 
+  external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/comercios/' 
+) AS
+SELECT 
+    merchant_id,
+    merchant_name,
+    category,
+    CAST(date_parse(created_at_dt, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as created_at
+FROM default.raw_comercios;
+
+
+
+CREATE TABLE default.gold_transacciones
+WITH (
+  format = 'PARQUET',
+  external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/transacciones/'
+) AS
+WITH base_limpia AS (
+    SELECT 
+        transaction_id,
+        account_id,
+        branch_id,
+        merchant_id,
+        CAST(monto AS DECIMAL(18,2)) as monto,
+        CAST(date_parse(fecha_hora, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as fecha_hora,
+        transaction_type_id
+    FROM default.raw_transacciones
+)
+SELECT 
+    *,
+    CASE WHEN monto < 0 THEN 'EGRESO' ELSE 'INGRESO' END as tipo_movimiento,
+    AVG(monto) OVER(PARTITION BY account_id) as avg_historico_cuenta,
+    ROW_NUMBER() OVER(PARTITION BY account_id ORDER BY fecha_hora ASC) as nro_transaccion_cliente
+FROM base_limpia;
+
+(si no aparece gold transacciones en las vistas de athena, pero si en bucket s3)
+
+CREATE EXTERNAL TABLE IF NOT EXISTS default.gold_transacciones (
+  transaction_id string,
+  account_id string,
+  branch_id string,
+  merchant_id string,
+  monto decimal(18,2),
+  fecha_hora timestamp,
+  transaction_type_id string,
+  tipo_movimiento string,
+  avg_historico_cuenta double,
+  nro_transaccion_cliente int
+)
+STORED AS PARQUET
+LOCATION 's3://omega-bank-analytics-paulo-26dic/gold-data/transacciones/';
+
+
+
+Creacion de analitica de transacciones con particionamiento:
+
+CREATE TABLE default.gold_transacciones_partitioned
+WITH (
+  format = 'PARQUET',
+  external_location = 's3://omega-bank-analytics-paulo-26dic/gold-data/fact_transacciones_optimized/',
+  partitioned_by = ARRAY['year', 'month'] -- Aquí está la robustez
+) AS
+SELECT 
+    transaction_id,
+    account_id,
+    branch_id,
+    merchant_id,
+    CAST(monto AS DECIMAL(18,2)) as monto,
+    CAST(date_parse(fecha_hora, '%Y-%m-%d %H:%i:%s') AS TIMESTAMP) as fecha_hora,
+    transaction_type_id,
+    -- Analytical SQL embebido
+    CASE WHEN CAST(monto AS DECIMAL(18,2)) < 0 THEN 'EGRESO' ELSE 'INGRESO' END as tipo_movimiento,
+    AVG(CAST(monto AS DECIMAL(18,2))) OVER(PARTITION BY account_id) as avg_historico_cuenta,
+    -- Columnas de partición (deben ir al final)
+    substring(fecha_hora, 1, 4) as year,
+    substring(fecha_hora, 6, 2) as month
+FROM default.raw_transacciones;
+
+
+
+Verificamos la particion:
+SELECT year, month, count(*) as volumen_operaciones
+FROM default.gold_transacciones_partitioned 
+GROUP BY 1, 2
+ORDER BY 1 DESC, 2 DESC;
